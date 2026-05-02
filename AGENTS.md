@@ -12,6 +12,7 @@
 - Local dev server: `bundle exec jekyll serve` or `bash tools/run.sh` in a Unix-like shell/devcontainer.
 - Production-style local test, when `html-proofer` is installed: `bash tools/test.sh`.
 - CI builds with Ruby 3.4 and runs `bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"` followed by `bundle exec htmlproofer _site --disable-external ...`.
+- GitHub Pages must be configured with `Build and deployment` source set to `GitHub Actions`; otherwise `actions/configure-pages` fails before the Jekyll build starts.
 
 ## Repo-Specific Gotchas
 - `Gemfile.lock`, `.bundle/`, `_site/`, `.jekyll-cache/`, and `.jekyll-metadata` are ignored; do not treat generated build output or local Bundler config as source changes.
