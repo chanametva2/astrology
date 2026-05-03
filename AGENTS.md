@@ -1,25 +1,28 @@
 # Agent Notes
 
 ## Project Shape
-- This is a Jekyll site using the `jekyll-theme-chirpy` gem, not a Node app; there is no `package.json` at the repo root.
-- Main site configuration is `_config.yml`; the site timezone is `Asia/Bangkok`.
-- Content entrypoints are `_posts/` for posts and `_tabs/` for pages such as About, Archives, Categories, and Tags.
-- Theme layouts/assets mostly come from the Chirpy gem; only starter override files live in this repo.
+- Jekyll site using `jekyll-theme-chirpy ~> 7.5`; no `package.json` at root.
+- `_config.yml` is the main config; `baseurl: "/astrology"` — all internal links must include this prefix.
+- `timezone: Asia/Bangkok`, `theme_mode: dark`, `lang: en`.
+- Content entrypoints: `_posts/` (posts, `permalink: /posts/:title/`) and `_tabs/` (About, Archives, Categories, Tags).
+- Theme layouts/assets come from the Chirpy gem; only starter override files live in this repo.
+- `_drafts/` may exist for unpublished posts; posts there have `comments: false` by default.
 
 ## Setup And Commands
-- Install Ruby gems with `bundle install`; on this machine `.bundle/config` excludes the `test` group, so `html-proofer` may be absent locally.
-- Fast local verification: `bundle exec jekyll build`.
-- Local dev server: `bundle exec jekyll serve` or `bash tools/run.sh` in a Unix-like shell/devcontainer.
-- Production-style local test, when `html-proofer` is installed: `bash tools/test.sh`.
-- CI builds with Ruby 3.4 and runs `bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"` followed by `bundle exec htmlproofer _site --disable-external ...`.
-- GitHub Pages must be configured with `Build and deployment` source set to `GitHub Actions`; otherwise `actions/configure-pages` fails before the Jekyll build starts.
+- `bundle install` — `.bundle/config` sets `BUNDLE_WITHOUT: "test"`, so `html-proofer` is skipped locally.
+- Fast verify: `bundle exec jekyll build`.
+- Dev server: `bundle exec jekyll serve` or `bash tools/run.sh` (supports `-p` for production, `-H` for host).
+- Full local test: `bash tools/test.sh` (requires `html-proofer`; run `bundle install --with test` first if missing).
+- CI: Ruby 3.4 on ubuntu-latest; `checkout` uses `fetch-depth: 0` (needed by `posts-lastmod-hook.rb`).
+- GitHub Pages source must be set to `GitHub Actions`; deploys only on pushes to `main`/`master`.
 
 ## Repo-Specific Gotchas
-- `Gemfile.lock`, `.bundle/`, `_site/`, `.jekyll-cache/`, and `.jekyll-metadata` are ignored; do not treat generated build output or local Bundler config as source changes.
-- `.gitmodules` declares `assets/lib` as a Chirpy static-assets submodule, but this checkout may have it empty unless submodules are initialized.
-- `_plugins/posts-lastmod-hook.rb` derives `last_modified_at` for posts from Git history, so post metadata can differ before and after commit history exists.
-- GitHub Pages deploys only on pushes to `main` or `master`; changes only to `.gitignore`, `README.md`, or `LICENSE` are ignored by the deploy workflow.
+- `_plugins/posts-lastmod-hook.rb` derives `last_modified_at` from Git history; metadata differs before/after commits exist.
+- `.gitmodules` declares `assets/lib` as a Chirpy static-assets submodule, but it is **commented out** in CI and may be empty locally.
+- `Gemfile.lock`, `.bundle/`, `_site/`, `.jekyll-cache/`, and `.jekyll-metadata` are gitignored; do not treat generated output as source.
+- Changes only to `.gitignore`, `README.md`, or `LICENSE` are ignored by the deploy workflow.
 
 ## Formatting
-- Follow `.editorconfig`: 2-space indentation, LF endings, final newline; Markdown keeps trailing whitespace.
-- Shell scripts must keep LF endings per `.gitattributes`.
+- `.editorconfig`: 2-space indent, LF endings, final newline.
+- Markdown (`.md`) is **exempt** from `trim_trailing_whitespace` — preserve existing trailing spaces.
+- Shell scripts: LF endings enforced by `.gitattributes`.
