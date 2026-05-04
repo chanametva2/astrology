@@ -4,7 +4,7 @@ date: 2026-05-04 02:00:00 +0700
 categories: [Astrology]
 tags: [astrology, traditional astrology, rulership, ptolemy, zodiac]
 image:
-  path: /assets/img/posts/symmetry-of-ruler/summary-infographic.png
+  path: /assets/img/posts/symmetry-of-ruler/summary-infographic.jpg
   alt: Symmetry of ruler ในระบบดาวเจ้าเรือนแบบดั้งเดิม
 ---
 
@@ -68,7 +68,7 @@ image:
 
 และตรงนี้เองที่คำว่า **symmetry** เริ่มมีความหมายขึ้นมาอย่างชัดเจน
 
-![อินโฟกราฟิก: Symmetry of ruler ในระบบดาวเจ้าเรือนแบบดั้งเดิม](/assets/img/posts/symmetry-of-ruler/summary-infographic.png)
+![อินโฟกราฟิก: Symmetry of ruler ในระบบดาวเจ้าเรือนแบบดั้งเดิม](/assets/img/posts/symmetry-of-ruler/summary-infographic.jpg)
 
 ## ความงามของระบบนี้ ไม่ได้อยู่แค่ความสมดุลของรูปทรง
 

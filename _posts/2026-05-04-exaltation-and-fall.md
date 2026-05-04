@@ -4,7 +4,7 @@ date: 2026-05-04 02:20:00 +0700
 categories: [Astrology]
 tags: [astrology, traditional astrology, exaltation, fall, essential dignity]
 image:
-  path: /assets/img/posts/exaltation-and-fall/summary-infographic.png
+  path: /assets/img/posts/exaltation-and-fall/summary-infographic.jpg
   alt: Exaltation และ Fall ในโหราศาสตร์ตะวันตก
 ---
 
@@ -45,7 +45,7 @@ exaltation จะใกล้กับความหมายว่า
 
 ไม่ได้แปลว่าใช้การไม่ได้ แต่หมายความว่า พลังของดาวดวงนั้นอาจไม่ถูกยกขึ้น ไม่ได้รับพื้นที่ที่เอื้อ หรือแสดงคุณภาพของตัวเองได้ยากกว่าเดิม
 
-![อินโฟกราฟิก: Exaltation และ Fall ในโหราศาสตร์ตะวันตก](/assets/img/posts/exaltation-and-fall/summary-infographic.png)
+![อินโฟกราฟิก: Exaltation และ Fall ในโหราศาสตร์ตะวันตก](/assets/img/posts/exaltation-and-fall/summary-infographic.jpg)
 
 ## Exaltation คืออะไร
 

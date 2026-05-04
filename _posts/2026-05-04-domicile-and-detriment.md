@@ -4,7 +4,7 @@ date: 2026-05-04 02:10:00 +0700
 categories: [Astrology]
 tags: [astrology, traditional astrology, domicile, detriment, rulership]
 image:
-  path: /assets/img/posts/domicile-and-detriment/summary-infographic.png
+  path: /assets/img/posts/domicile-and-detriment/summary-infographic.jpg
   alt: Domicile และ Detriment ในโหราศาสตร์ตะวันตก
 ---
 
@@ -53,7 +53,7 @@ image:
 
 ตรงนี้เองคือความหมายของคำว่า **domicile**
 
-![อินโฟกราฟิก: Domicile และ Detriment ในโหราศาสตร์ตะวันตก](/assets/img/posts/domicile-and-detriment/summary-infographic.png)
+![อินโฟกราฟิก: Domicile และ Detriment ในโหราศาสตร์ตะวันตก](/assets/img/posts/domicile-and-detriment/summary-infographic.jpg)
 
 ## Domicile คืออะไร
 
