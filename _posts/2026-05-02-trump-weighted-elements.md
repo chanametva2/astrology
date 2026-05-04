@@ -1,5 +1,5 @@
 ---
-title: "ตัวอย่างการอ่านธาตุเด่นในดวงชะตา: เมื่อใช้ระบบให้น้ำหนักกับดวง Donald Trump"
+title: "อ่านดวง Donald Trump ตอนที่ 1: การอ่านธาตุเด่นในดวงชะตา"
 date: 2026-05-02 04:00:00 +0700
 categories: [Astrology]
 tags: [astrology, elements, birth-chart, case-study]

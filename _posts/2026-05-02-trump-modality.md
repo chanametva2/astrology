@@ -1,5 +1,5 @@
 ---
-title: "อ่านดวง Donald Trump ต่อจากธาตุ: Modality บอกอะไรผ่าน Cardinal, Fixed, Mutable"
+title: "อ่านดวง Donald Trump ตอนที่ 2: Modality บอกอะไรผ่าน Cardinal, Fixed, Mutable"
 date: 2026-05-02 06:00:00 +0700
 categories: [Astrology]
 tags: [astrology, modality, cardinal, fixed, mutable, case-study]
