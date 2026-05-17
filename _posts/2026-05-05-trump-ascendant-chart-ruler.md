@@ -1,6 +1,6 @@
 ---
 title: "อ่านดวง Donald Trump ตอนที่ 3: ทำไมต้องกลับมาดูลัคนาก่อน"
-date: 2026-05-02 08:00:00 +0700
+date: 2026-05-05 01:00:00 +0700
 categories: [Astrology]
 tags: [astrology, ascendant, chart-ruler, birth-chart, case-study]
 image:
