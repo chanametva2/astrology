@@ -7,6 +7,10 @@ sources:
     url: /posts/trump-weighted-elements/
   - title: "อ่านดวง Donald Trump ต่อจากธาตุ: Modality บอกอะไรผ่าน Cardinal, Fixed, Mutable"
     url: /posts/trump-modality/
+  - title: "อ่านดวง Donald Trump ตอนที่ 3: ทำไมต้องกลับมาดูลัคนาก่อน"
+    url: /posts/trump-ascendant-chart-ruler/
+  - title: "อ่านดวง Donald Trump ตอนที่ 5: ใครคุมระบบของดวงนี้จริง ๆ เมื่อไล่ Dispositor Chain"
+    url: /posts/trump-dispositor-chain/
 related:
   - title: Weighted Chart Scoring
     url: /wiki/weighted-chart-scoring/
@@ -52,6 +56,18 @@ layout: wiki
 | Cardinal | 7 | ดาวปฏิบัติการหลายดวงเน้นการเริ่ม ผลัก และทำให้สถานการณ์เคลื่อน |
 
 สรุป: บทความต้นทางอธิบาย pattern นี้ว่า **shift + hold + push**
+
+## ลัคนาและ Chart Ruler
+
+Trump มีลัคนาราศีสิงห์ ทำให้ Sun (เจ้าเรือนสิงห์) เป็น chart ruler Sun อยู่ราศีเมถุนเรือน 10 ทำให้ตัวตนและภาพสาธารณะเชื่อมโยงกันอย่างแยกไม่ออก — การสื่อสาร ข้อมูล และการเคลื่อน narrative (เมถุน) กลายเป็นเครื่องมือสร้างสถานะทางสังคม (เรือน 10)
+
+ลัคนาสิงห์ยังทำให้การแสดงตัวและความโดดเด่นเป็นหัวใจของทั้งดวง Mars (เจ้าเรือนร่วมของสิงห์ในระบบเก่า) อยู่สิงห์ด้วย จึงเสริมแรงขับและการปะทะให้ออกทางบุคลิกภาพโดยตรง
+
+## Dispositor Chain
+
+เมื่อไล่ dispositor chain ในดวงนี้ พบว่าพลังส่วนใหญ่ไหลกลับไปหา Mercury (เจ้าเรือนเมถุน) ซึ่งเป็นดาวที่ Sun และ Uranus อยู่ใต้ และ Mercury อยู่ราศีกรกฎ มี Moon เป็น dispositor ต่อ แต่ Moon อยู่ธนูมี Jupiter เป็นเจ้าเรือน ส่วน Jupiter อยู่ตุลย์มี Venus เป็นเจ้าเรือน Venus อยู่กรกฎจึงกลับไปหา Moon อีกครั้ง — เกิดเป็น loop ที่ Moon และ Mercury หมุนเวียนกัน
+
+ในทางปฏิบัติหมายความว่าไม่มี final dispositor ที่ชัดเจนดวงเดียว แต่ Moon (เรือน 9) และ Mercury (เรือน 10) เป็นแกนหมุนของระบบ สะท้อนว่า Trump ขับเคลื่อนด้วยทั้งอารมณ์ความเชื่อ (Moon ในธนู) และความคิดเชิงกลยุทธ์ที่เน้นภาพสาธารณะ (Mercury ในเรือน 10)
 
 ## หมายเหตุสำหรับการทบทวน
 

@@ -1,5 +1,6 @@
 ---
 title: โหราศาสตร์บอกชีวิตได้อย่างไร
+order: 1
 date: 2026-05-02 00:00:00 +0700
 categories: [Astrology]
 tags: [astrology, life, symbolism]

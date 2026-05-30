@@ -1,5 +1,6 @@
 ---
 title: "Aspect คืออะไร: เมื่อดาวในดวงกำลังคุยกัน"
+order: 33
 date: 2026-05-19 12:00:00 +0700
 categories: [Astrology]
 tags: [astrology, aspects, planets, birth-chart, interpretation]

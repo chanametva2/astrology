@@ -1,5 +1,6 @@
 ---
 title: "เกิดกลางวันกับกลางคืน ดวงต่างกันไหม: เข้าใจ Sect ในโหราศาสตร์ดั้งเดิม"
+order: 27
 date: 2026-05-05 09:00:00 +0700
 categories: [Astrology]
 tags: [astrology, sect, day-chart, night-chart, hellenistic-astrology, birth-chart]

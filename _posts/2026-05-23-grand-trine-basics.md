@@ -1,5 +1,6 @@
 ---
 title: "Grand Trine คืออะไร: พรสวรรค์ที่ไหลลื่นเป็นระบบในดวงชะตา"
+order: 42
 date: 2026-05-23 13:00:00 +0700
 categories: [Astrology]
 tags: [astrology, aspects, aspect-patterns, grand-trine, birth-chart]

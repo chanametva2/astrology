@@ -1,5 +1,6 @@
 ---
 title: "Quadrants ในดวงกำเนิด: เมื่อครึ่งบน–ครึ่งล่างตัดกับซีกซ้าย–ซีกขวา"
+order: 23
 date: 2026-05-05 07:00:00 +0700
 categories: [Astrology]
 tags: [astrology, houses, quadrants, hemisphere, birth-chart]

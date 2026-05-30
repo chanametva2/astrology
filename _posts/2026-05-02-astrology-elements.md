@@ -1,5 +1,6 @@
 ---
 title: ธาตุในโหราศาสตร์ คืออะไร? ทำความเข้าใจไฟ ดิน ลม น้ำ แบบอ่านง่ายสำหรับมือใหม่
+order: 3
 date: 2026-05-02 02:00:00 +0700
 categories: [Astrology]
 tags: [astrology, elements, fire, earth, air, water]

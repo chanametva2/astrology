@@ -1,5 +1,6 @@
 ---
 title: "Trine คืออะไร: มุมไหลลื่นที่เป็นพรสวรรค์ของดวง"
+order: 37
 date: 2026-05-22 01:40:00 +0700
 categories: [Astrology]
 tags: [astrology, aspects, trine, planets, birth-chart]

@@ -9,6 +9,31 @@ related:
 layout: wiki
 ---
 
+## 2026-05-29
+
+- สร้างหน้า `houses.md` อธิบายเรือนชะตา ประเภท angular/succedent/cadent quadrants hemispheres angular planets และตาราง 12 เรือน
+- สร้างหน้า `life-purpose-houses.md` อธิบาย Purusharthas สี่ด้าน เทียบกับ elemental houses Grand Trine house cycles และสมดุลเป้าหมายชีวิต
+- สร้างหน้า `aspects.md` อธิบายมุมสัมพันธ์ 5 major aspects orb applying/separating และ workflow การอ่าน
+- สร้างหน้า `aspect-patterns.md` อธิบาย T-square Grand Trine Kite Yod Mystic Rectangle และ Stellium พร้อมกรณีศึกษา Obama
+- อัปเดต `index.md` เพิ่มรายการสองหน้าใหม่
+
+## 2026-05-29
+
+- เพิ่มหน้า `sect.md`: Sect (ดวงกลางวัน/กลางคืน) — อธิบาย day/night chart, sect light, และผลต่อกำลังดาว
+- เพิ่มหน้า `primal-triad.md`: Primal Triad (Big Three) — Sun, Moon, Ascendant สามแกนหลักของดวง
+- เพิ่มหน้า `sun-moon-asc.md`: อาทิตย์ จันทร์ และลัคนาในราศี — ตาราง keyword สำหรับ 12 ราศี
+- เพิ่มหน้า `pluto-generations.md`: พลูโตเจนเนอเรชัน — ภารกิจร่วมของรุ่น Gen X, Millennials, Gen Z, Gen Alpha
+- เพิ่มหน้า `singleton-planets.md`: ดาวสันโดษ — หลักการอ่านและกรณีศึกษา Einstein
+- อัปเดต `_wiki/index.md` และ `_wiki/log.md`
+
+## 2026-05-29
+
+- อัปเดต `sign-rulership.md`: เพิ่มหัวข้อ dispositor และ dispositor chain พร้อมการใช้ตีความ final dispositor
+- อัปเดต `donald-trump-chart-case-study.md`: เพิ่มหัวข้อลัคนากับ chart ruler และ dispositor chain พร้อมวิเคราะห์ดวง Trump
+- อัปเดต `natal-chart-reading.md`: เพิ่ม cross-reference links ไปยัง Primal Triad, Houses, Aspects, Aspect Patterns, Sect, Sign Rulership และปรับลำดับการอ่านให้รวม Primal Triad และ aspect pattern
+- อัปเดต `index.md`: ครบ 19 หน้าแนวคิด + 1 index + 1 log
+- อัปเดต `log.md` เพื่อบันทึกการอัปเดตทั้งสามหน้า
+
 ## 2026-05-04
 
 - คืนค่าเมนูและ theme locale เป็นภาษาอังกฤษตามต้องการ โดยคงเนื้อหา wiki เป็นภาษาไทย

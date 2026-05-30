@@ -1,5 +1,6 @@
 ---
 title: "ลัคนาในราศีต่าง ๆ: ประตูดวงที่บอกว่าเราออกไปเจอโลกแบบไหน"
+order: 16
 date: 2026-05-05 02:00:00 +0700
 categories: [Astrology]
 tags: [astrology, ascendant, zodiac, birth-chart]

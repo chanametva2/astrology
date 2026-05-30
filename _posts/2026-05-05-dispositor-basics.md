@@ -1,5 +1,6 @@
 ---
 title: "ใครคุมระบบของดวงจริง ๆ: รู้จัก Dispositor แบบเข้าใจง่าย"
+order: 28
 date: 2026-05-05 09:30:00 +0700
 categories: [Astrology]
 tags: [astrology, dispositor, chart-ruler, house-ruler, dignity, birth-chart]

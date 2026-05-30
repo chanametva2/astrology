@@ -1,5 +1,6 @@
 ---
 title: "Purusharthas vs Fire / Earth / Air / Water Houses: เป้าหมายชีวิต 4 ประการผ่าน Trine ของภพ"
+order: 24
 date: 2026-05-05 07:30:00 +0700
 categories: [Astrology]
 tags: [astrology, houses, purusharthas, jyotish, elemental-houses, trine]

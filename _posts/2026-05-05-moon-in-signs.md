@@ -1,5 +1,6 @@
 ---
 title: "Moon Sign: ราศีจันทร์บอกโลกอารมณ์และความต้องการลึก ๆ ของเราอย่างไร"
+order: 18
 date: 2026-05-05 04:00:00 +0700
 categories: [Astrology]
 tags: [astrology, moon-sign, zodiac, birth-chart, primal-triad]

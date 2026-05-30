@@ -1,5 +1,6 @@
 ---
 title: "Fall ในโหราศาสตร์คืออะไร? เมื่อพลังของดาวไม่ได้หายไป แต่ตกลงมาจากจุดที่ถูกยกขึ้น"
+order: 13
 date: 2026-05-04 03:45:00 +0700
 categories: [Astrology]
 tags: [astrology, traditional astrology, fall, exaltation, essential dignity]

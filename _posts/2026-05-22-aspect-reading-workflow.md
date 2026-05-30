@@ -1,5 +1,6 @@
 ---
 title: "อ่าน Aspect อย่างไรไม่ให้หลง: จากมุมเดี่ยวสู่ภาพรวมของดวง"
+order: 39
 date: 2026-05-22 02:00:00 +0700
 categories: [Astrology]
 tags: [astrology, aspects, birth-chart, interpretation, aspect-patterns]

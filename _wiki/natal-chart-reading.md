@@ -9,6 +9,16 @@ sources:
     url: /posts/weighted-astrology-elements/
   - title: "Modality: Cardinal, Fixed, Mutable กุญแจสำคัญของการอ่านจังหวะพลังในดวงชะตา"
     url: /posts/modality-western-astrology/
+  - title: "Primal Triad: Big Three ในดวงชะตา"
+    url: /posts/primal-triad/
+  - title: "House คืออะไร: ความหมาย 12 เรือนชะตา"
+    url: /posts/twelve-houses/
+  - title: "Aspect คืออะไร: เมื่อดาวกำลังคุยกัน"
+    url: /posts/aspect-basics/
+  - title: "Aspect Pattern คืออะไร: เมื่อดาวหลายดวงร่วมกันเล่าเรื่อง"
+    url: /posts/aspect-pattern-basics/
+  - title: "อ่าน Aspect อย่างไร: จากมุมเดี่ยวสู่ภาพรวมของดวง"
+    url: /posts/aspect-reading-workflow/
 related:
   - title: Astrology as Symbolic Language
     url: /wiki/astrology-as-symbolic-language/
@@ -20,6 +30,18 @@ related:
     url: /wiki/modality/
   - title: Essential Dignity
     url: /wiki/essential-dignity/
+  - title: Primal Triad
+    url: /wiki/primal-triad/
+  - title: Houses
+    url: /wiki/houses/
+  - title: Aspects
+    url: /wiki/aspects/
+  - title: Aspect Patterns
+    url: /wiki/aspect-patterns/
+  - title: Sect
+    url: /wiki/sect/
+  - title: Sign Rulership
+    url: /wiki/sign-rulership/
 layout: wiki
 ---
 
@@ -27,13 +49,14 @@ layout: wiki
 
 ## ลำดับพื้นฐาน
 
-1. อ่านโทนรวมจากลัคนา ดาวเจ้าลัคนา ธาตุ และ modality
-2. อ่านลัคนาและดาวเจ้าลัคนาเป็นประตูเข้าสู่ประสบการณ์ชีวิต
-3. อ่านอาทิตย์ จันทร์ และเมอร์คิวรีเพื่อดูตัวตน การตอบสนองทางอารมณ์ และวิธีคิดหรือสื่อสาร
-4. อ่านเรือนเพื่อระบุหัวข้อชีวิต และอ่านเจ้าเรือนเพื่อเชื่อมหัวข้อเข้าด้วยกัน
-5. ประเมินสภาพดาว เช่น dignity ตามราศี กำลังตามเรือน การเดินหน้า/ถอยหลัง ความใกล้อาทิตย์ และแรงช่วยหรือแรงกดจากดาวอื่น
-6. อ่านมุมสัมพันธ์เพื่อดูว่าปัจจัยในดวงร่วมมือหรือเสียดทานกันอย่างไร
-7. แยกศักยภาพในดวงกำเนิดออกจากเทคนิคเรื่องจังหวะเวลา
+1. อ่าน Primal Triad (Sun, Moon, Ascendant) เป็นสามแกนหลักของตัวตน
+2. อ่านโทนรวมจากลัคนา ดาวเจ้าลัคนา ธาตุ และ modality
+3. อ่านลัคนาและดาวเจ้าลัคนาเป็นประตูเข้าสู่ประสบการณ์ชีวิต
+4. อ่านอาทิตย์ จันทร์ และเมอร์คิวรีเพื่อดูตัวตน การตอบสนองทางอารมณ์ และวิธีคิดหรือสื่อสาร
+5. อ่านเรือนเพื่อระบุหัวข้อชีวิต และอ่านเจ้าเรือนเพื่อเชื่อมหัวข้อเข้าด้วยกัน
+6. ประเมินสภาพดาว เช่น dignity ตามราศี กำลังตามเรือน การเดินหน้า/ถอยหลัง ความใกล้อาทิตย์ และแรงช่วยหรือแรงกดจากดาวอื่น
+7. อ่านมุมสัมพันธ์เพื่อดูว่าปัจจัยในดวงร่วมมือหรือเสียดทานกันอย่างไร — ทั้ง aspect เดี่ยวและ aspect pattern
+8. แยกศักยภาพในดวงกำเนิดออกจากเทคนิคเรื่องจังหวะเวลา
 
 ## สรุปสามชั้น
 

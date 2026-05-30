@@ -1,13 +1,13 @@
 ---
 title: "อ่าน Aspect Pattern จากเคส Barack Obama: เมื่อแรงตึงและทรัพยากรทำงานร่วมกัน"
-date: 2026-05-28 21:00:00 +0700
+order: 47
+date: 2026-05-29 21:00:00 +0700
 categories: [Astrology]
 tags: [astrology, aspect-patterns, barack-obama, birth-chart, case-study, interpretation]
 image:
   path: /assets/img/posts/barack-obama-aspect-pattern-case-study/summary-infographic.jpg
   alt: สรุปการอ่าน Aspect Pattern จากเคส Barack Obama
 ---
-
 บทนี้จะไม่เน้นว่า Obama "เป็นคนอย่างไรทั้งหมด" แต่จะใช้เป็นตัวอย่างว่า **เวลาอ่าน Aspect Pattern ทั้งดวง เราควรจัดลำดับอย่างไร**
 
 หลังจากเราเรียนรู้เรื่อง **Aspect Pattern** มาหลายแบบแล้ว ทั้ง T-square, Grand Trine, Kite, Yod, Mystic Rectangle และ Stellium คำถามสำคัญที่สุดเวลานำไปใช้จริงคือ

@@ -1,5 +1,6 @@
 ---
 title: "ซีกซ้าย–ซีกขวาในดวงกำเนิด: ดวงนี้ขับเคลื่อนด้วยตัวเองหรือเติบโตผ่านคนอื่น"
+order: 22
 date: 2026-05-05 06:30:00 +0700
 categories: [Astrology]
 tags: [astrology, houses, hemisphere, ascendant, descendant, birth-chart]

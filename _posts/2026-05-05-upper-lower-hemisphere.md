@@ -1,5 +1,6 @@
 ---
 title: "ครึ่งบน–ครึ่งล่างในดวงชะตา: ชีวิตคุณถูกขับจากโลกข้างในหรือโลกข้างนอก"
+order: 21
 date: 2026-05-05 06:00:00 +0700
 categories: [Astrology]
 tags: [astrology, houses, hemisphere, horizon-line, mc, ic, birth-chart]

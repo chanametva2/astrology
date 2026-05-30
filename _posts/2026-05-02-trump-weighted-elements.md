@@ -1,5 +1,6 @@
 ---
 title: "อ่านดวง Donald Trump ตอนที่ 1: การอ่านธาตุเด่นในดวงชะตา"
+order: 5
 date: 2026-05-02 04:00:00 +0700
 categories: [Astrology]
 tags: [astrology, elements, birth-chart, case-study]

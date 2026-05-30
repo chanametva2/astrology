@@ -23,6 +23,15 @@ permalink: /wiki/index/
 - [Essential Dignity]({{ '/wiki/essential-dignity/' | relative_url }}): domicile, detriment, exaltation และ fall
 - [ระบบให้น้ำหนักในดวงชะตา]({{ '/wiki/weighted-chart-scoring/' | relative_url }}): วิธีให้คะแนนเพื่อดูน้ำหนักของพลังในดวง
 - [กรณีศึกษาดวง Donald Trump]({{ '/wiki/donald-trump-chart-case-study/' | relative_url }}): ตัวอย่างการใช้ธาตุและ modality แบบให้น้ำหนัก
+- [Sect (ดวงกลางวัน/กลางคืน)]({{ '/wiki/sect/' | relative_url }}): การแบ่งดวงตามตำแหน่ง Sun และผลต่อกำลังดาว
+- [Primal Triad (Big Three)]({{ '/wiki/primal-triad/' | relative_url }}): 3 แกนหลัก Sun Moon Ascendant
+- [อาทิตย์ จันทร์ และลัคนาในราศี]({{ '/wiki/sun-moon-asc/' | relative_url }}): การตีความ Sun Moon Asc ใน 12 ราศี
+- [พลูโตเจนเนอเรชัน]({{ '/wiki/pluto-generations/' | relative_url }}): ภารกิจร่วมของรุ่นผ่านตำแหน่ง Pluto
+- [ดาวสันโดษ (Singleton Planet)]({{ '/wiki/singleton-planets/' | relative_url }}): ดาวที่แยกตัวเด่นและกลายเป็นเสียงดังที่สุดของดวง
+- [เรือนชะตา]({{ '/wiki/houses/' | relative_url }}): House หรือเรือนชะตาบอกว่าพลังของดาวไปเกิดในเรื่องใดของชีวิต
+- [ภพกับเป้าหมายชีวิต]({{ '/wiki/life-purpose-houses/' | relative_url }}): ภพ 12 สะท้อนเป้าหมายชีวิต 4 ด้านผ่าน Dharma Artha Kama Moksha
+- [มุมสัมพันธ์ (Aspect)]({{ '/wiki/aspects/' | relative_url }}): ระยะองศาระหว่างดาวที่บอกว่าพลังสองชุดสัมพันธ์กันอย่างไร
+- [รูปแบบมุมสัมพันธ์ (Aspect Pattern)]({{ '/wiki/aspect-patterns/' | relative_url }}): รูปทรงจากมุมสัมพันธ์หลายเส้นที่กลายเป็นโครงเรื่องใหญ่ของดวง
 
 ## หน้าวิกิทั้งหมด
 

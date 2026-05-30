@@ -1,5 +1,6 @@
 ---
 title: "Exaltation และ Fall คืออะไร? อ่านต่อจาก Domicile และ Detriment แบบเข้าใจง่าย"
+order: 12
 date: 2026-05-04 02:20:00 +0700
 categories: [Astrology]
 tags: [astrology, traditional astrology, exaltation, fall, essential dignity]

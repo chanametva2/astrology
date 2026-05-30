@@ -1,5 +1,6 @@
 ---
 title: "Square คืออะไร: มุมตึงที่ทำให้ชีวิตต้องขยับ"
+order: 36
 date: 2026-05-22 01:30:00 +0700
 categories: [Astrology]
 tags: [astrology, aspects, square, planets, birth-chart]

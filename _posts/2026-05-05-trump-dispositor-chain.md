@@ -1,5 +1,6 @@
 ---
 title: "อ่านดวง Donald Trump ตอนที่ 5: ใครคุมระบบของดวงนี้จริง ๆ เมื่อไล่ Dispositor Chain"
+order: 29
 date: 2026-05-05 10:00:00 +0700
 categories: [Astrology]
 tags: [astrology, donald-trump, dispositor, chart-ruler, birth-chart, case-study]

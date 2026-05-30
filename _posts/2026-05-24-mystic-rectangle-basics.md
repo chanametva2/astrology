@@ -1,5 +1,6 @@
 ---
 title: "Mystic Rectangle คืออะไร: เมื่อความตึงมีทางประสาน"
+order: 45
 date: 2026-05-24 13:10:00 +0700
 categories: [Astrology]
 tags: [astrology, aspects, aspect-patterns, mystic-rectangle, birth-chart]

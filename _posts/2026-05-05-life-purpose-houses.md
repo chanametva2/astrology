@@ -1,5 +1,6 @@
 ---
 title: "เป้าหมายชีวิตในดวงชะตา: เมื่อภพถามว่าเรากำลังเกิดมาเพื่อเรียนรู้อะไร"
+order: 25
 date: 2026-05-05 08:00:00 +0700
 categories: [Astrology]
 tags: [astrology, houses, life-purpose, purusharthas, elemental-houses, birth-chart]

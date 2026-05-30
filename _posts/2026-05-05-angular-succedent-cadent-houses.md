@@ -1,5 +1,6 @@
 ---
 title: "Angular / Succedent / Cadent Houses: เรือนมุม เรือนตาม เรือนผัน บอกกำลังของเรือนอย่างไร"
+order: 20
 date: 2026-05-05 05:30:00 +0700
 categories: [Astrology]
 tags: [astrology, houses, angular-houses, succedent-houses, cadent-houses, birth-chart]

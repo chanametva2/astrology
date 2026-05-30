@@ -1,5 +1,6 @@
 ---
 title: "Sextile คืออะไร: โอกาสที่ต้องหยิบมาใช้ในดวงชะตา"
+order: 38
 date: 2026-05-22 01:50:00 +0700
 categories: [Astrology]
 tags: [astrology, aspects, sextile, planets, birth-chart]

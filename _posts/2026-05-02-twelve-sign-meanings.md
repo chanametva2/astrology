@@ -1,5 +1,6 @@
 ---
 title: "ความหมายของ 12 ราศีใน Western Astrology: ผ่านมุมมอง Polarity, Element, Modality และ Ruler"
+order: 9
 date: 2026-05-02 08:00:00 +0700
 categories: [Astrology]
 tags: [astrology, zodiac, signs, polarity, elements, modality, ruler]

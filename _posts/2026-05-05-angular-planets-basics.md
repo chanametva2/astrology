@@ -1,5 +1,6 @@
 ---
 title: "ดาวใกล้มุมดวง: จุดที่พลังของดาวขึ้นเวทีชัดที่สุด"
+order: 32
 date: 2026-05-05 11:30:00 +0700
 categories: [Astrology]
 tags: [astrology, angular-houses, angles, ascendant, midheaven, birth-chart]

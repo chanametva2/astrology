@@ -1,5 +1,6 @@
 ---
 title: "วิธีดูธาตุเด่นในดวงชะตาแบบให้น้ำหนัก: วิธีอ่านไฟ ดิน ลม น้ำ สำหรับมือใหม่"
+order: 4
 date: 2026-05-02 03:00:00 +0700
 categories: [Astrology]
 tags: [astrology, elements, birth-chart, basics]

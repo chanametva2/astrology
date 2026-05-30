@@ -1,5 +1,6 @@
 ---
 title: "จุดกำเนิดของ 12 ราศี: ราศีเกิดจาก “ฤดูกาล” หรือ “กลุ่มดาว” กันแน่?"
+order: 8
 date: 2026-05-02 07:00:00 +0700
 categories: [Astrology]
 tags: [astrology, zodiac, sidereal, tropical, history]

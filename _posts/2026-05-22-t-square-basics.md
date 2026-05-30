@@ -1,5 +1,6 @@
 ---
 title: "T-square คืออะไร: แรงตึงที่บังคับให้ชีวิตต้องเติบโต"
+order: 41
 date: 2026-05-22 02:20:00 +0700
 categories: [Astrology]
 tags: [astrology, aspects, aspect-patterns, t-square, birth-chart]

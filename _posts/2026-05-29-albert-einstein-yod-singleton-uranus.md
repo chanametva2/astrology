@@ -1,13 +1,13 @@
 ---
 title: "อ่าน Yod และดาวสันโดษจากเคส Albert Einstein: เมื่อ Uranus กลายเป็นลายเซ็นของดวง"
-date: 2026-05-28 23:00:00 +0700
+order: 49
+date: 2026-05-29 23:00:00 +0700
 categories: [Astrology]
 tags: [astrology, yod, singleton-planet, albert-einstein, birth-chart, case-study]
 image:
   path: /assets/img/posts/albert-einstein-yod-singleton-uranus/summary-infographic.jpg
   alt: สรุปการอ่าน Yod และดาวสันโดษจากเคส Albert Einstein
 ---
-
 หลังจากเราเข้าใจหลักเรื่อง **ดาวสันโดษ** แล้วว่า ดาวที่แยกตัวออกจากกลุ่มดาวอื่นอย่างชัดเจนอาจกลายเป็น "เสียงเด่น" ของดวง บทนี้เราจะกลับมาดูเคสของ **Albert Einstein** อีกครั้ง
 
 ก่อนหน้านี้เราเริ่มอ่านดวงของ Einstein ผ่านโครงสร้าง **Yod** โดยเห็นว่า Uranus in Virgo เรือน 3 ทำหน้าที่เป็น **apex planet** หรือจุดยอดของ Yod

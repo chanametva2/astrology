@@ -1,5 +1,6 @@
 ---
 title: "Kite คืออะไร: เมื่อพรสวรรค์ในดวงถูกดึงให้มีทิศทาง"
+order: 43
 date: 2026-05-23 13:10:00 +0700
 categories: [Astrology]
 tags: [astrology, aspects, aspect-patterns, kite, grand-trine, birth-chart]

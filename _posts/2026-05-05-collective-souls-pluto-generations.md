@@ -1,5 +1,6 @@
 ---
 title: "อ่านคนแต่ละเจนด้วยแนวคิด Collective Souls: เมื่อ Pluto บอกภารกิจร่วมของคนทั้งรุ่น"
+order: 30
 date: 2026-05-05 10:30:00 +0700
 categories: [Astrology]
 tags: [astrology, pluto, generations, collective-souls, mundane-astrology]

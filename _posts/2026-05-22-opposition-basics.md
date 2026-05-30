@@ -1,5 +1,6 @@
 ---
 title: "Opposition คืออะไร: เมื่อดาวสองดวงดึงกันคนละขั้ว"
+order: 35
 date: 2026-05-22 01:00:00 +0700
 categories: [Astrology]
 tags: [astrology, aspects, opposition, planets, birth-chart]

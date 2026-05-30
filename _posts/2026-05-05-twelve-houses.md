@@ -1,5 +1,6 @@
 ---
 title: "House คืออะไร: ทำไมราศีบอกพลัง แต่เรือนบอกว่าเรื่องนั้นไปเกิดที่ไหนในชีวิต"
+order: 19
 date: 2026-05-05 05:00:00 +0700
 categories: [Astrology]
 tags: [astrology, houses, birth-chart, chart-reading]

@@ -1,5 +1,6 @@
 ---
 title: หลักการอ่านดวงเริ่มแรก
+order: 2
 date: 2026-05-02 01:00:00 +0700
 categories: [Astrology]
 tags: [astrology, birth-chart, basics]

@@ -1,5 +1,6 @@
 ---
 title: "Primal Triad: กุญแจอ่าน Big Three ให้เห็นตัวตนทั้งสามชั้นของดวง"
+order: 15
 date: 2026-05-05 01:30:00 +0700
 categories: [Astrology]
 tags: [astrology, primal-triad, big-three, sun-sign, moon-sign, ascendant]

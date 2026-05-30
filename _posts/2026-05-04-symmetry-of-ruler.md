@@ -1,5 +1,6 @@
 ---
 title: "Symmetry of Ruler: เมื่อดาวเจ้าเรือนของราศีไม่ได้ถูกวางแบบสุ่ม"
+order: 10
 date: 2026-05-04 02:00:00 +0700
 categories: [Astrology]
 tags: [astrology, traditional astrology, rulership, ptolemy, zodiac]

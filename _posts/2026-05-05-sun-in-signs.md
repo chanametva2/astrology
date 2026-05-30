@@ -1,5 +1,6 @@
 ---
 title: "Sun in Sign: ดวงอาทิตย์ในราศี บอกแกนตัวตนของเราอย่างไร"
+order: 17
 date: 2026-05-05 03:00:00 +0700
 categories: [Astrology]
 tags: [astrology, sun-sign, zodiac, birth-chart, primal-triad]

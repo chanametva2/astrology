@@ -1,5 +1,6 @@
 ---
 title: "Yod คืออะไร: เมื่อดวงชะตาชี้ไปยังโจทย์เฉพาะของชีวิต"
+order: 44
 date: 2026-05-24 13:00:00 +0700
 categories: [Astrology]
 tags: [astrology, aspects, aspect-patterns, yod, birth-chart]

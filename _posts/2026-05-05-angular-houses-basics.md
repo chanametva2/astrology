@@ -1,5 +1,6 @@
 ---
 title: "อ่านดวงจากเรือนมุม: ทำไมเรือน 1, 4, 7, 10 จึงสำคัญที่สุด"
+order: 31
 date: 2026-05-05 11:00:00 +0700
 categories: [Astrology]
 tags: [astrology, houses, angular-houses, ascendant, mc, birth-chart]

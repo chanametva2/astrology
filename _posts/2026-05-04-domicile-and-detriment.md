@@ -1,5 +1,6 @@
 ---
 title: "Domicile และ Detriment คืออะไร? อ่านต่อจากเรื่องดาวเจ้าเรือน"
+order: 11
 date: 2026-05-04 02:10:00 +0700
 categories: [Astrology]
 tags: [astrology, traditional astrology, domicile, detriment, rulership]

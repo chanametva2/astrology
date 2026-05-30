@@ -1,5 +1,6 @@
 ---
 title: "Conjunction คืออะไร: เมื่อดาวสองดวงรวมพลังกัน"
+order: 34
 date: 2026-05-19 12:30:00 +0700
 categories: [Astrology]
 tags: [astrology, aspects, conjunction, planets, birth-chart]

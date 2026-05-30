@@ -1,5 +1,6 @@
 ---
 title: "พลังงานหมุนเวียนใน Grand Trine: เมื่อบ้านทั้งสามช่วยซ่อมและอัปเกรดกันได้"
+order: 26
 date: 2026-05-05 08:30:00 +0700
 categories: [Astrology]
 tags: [astrology, houses, grand-trine, elemental-houses, trine, birth-chart]

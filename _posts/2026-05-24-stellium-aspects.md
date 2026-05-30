@@ -1,5 +1,6 @@
 ---
 title: "Stellium กับ Aspect พ่วงกัน: เมื่อกลุ่มดาวหนึ่งกลายเป็นศูนย์กลางของเรื่องเล่า"
+order: 46
 date: 2026-05-24 13:20:00 +0700
 categories: [Astrology]
 tags: [astrology, aspects, stellium, birth-chart, interpretation]

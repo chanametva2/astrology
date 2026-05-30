@@ -1,5 +1,6 @@
 ---
 title: "Aspect Pattern คืออะไร: เมื่อดาวหลายดวงร่วมกันเล่าเรื่องใหญ่ของดวง"
+order: 40
 date: 2026-05-22 02:10:00 +0700
 categories: [Astrology]
 tags: [astrology, aspects, aspect-patterns, birth-chart, interpretation]

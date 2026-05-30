@@ -1,5 +1,6 @@
 ---
 title: "Modality: Cardinal, Fixed, Mutable กุญแจสำคัญของการอ่านจังหวะพลังในดวงชะตา"
+order: 6
 date: 2026-05-02 05:00:00 +0700
 categories: [Astrology]
 tags: [astrology, modality, cardinal, fixed, mutable]
