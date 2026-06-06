@@ -1,0 +1,2501 @@
+{
+  "nodes": [
+    {
+      "id": "agents_document",
+      "label": "Agent Notes — Jekyll project config for Chirpy astrology site",
+      "file_type": "document",
+      "source_file": "AGENTS.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "jekyll_chirpy_platform",
+      "label": "Jekyll + Chirpy ~> 7.5 site platform",
+      "file_type": "concept",
+      "source_file": "AGENTS.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wiki_knowledge_layer",
+      "label": "_wiki/ as curated immutable knowledge layer, _posts/ as source material",
+      "file_type": "concept",
+      "source_file": "AGENTS.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "_posts_2026_06_06_beyond_the_moon_document",
+      "label": "Beyond the Moon — long-term planning with Solar Return, Annual Profection, Moon Cycle",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "_posts_2026_06_06_beyond_the_moon_solar_return",
+      "label": "Solar Return — yearly birth chart map for annual direction and atmosphere",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "_posts_2026_06_06_beyond_the_moon_annual_profection",
+      "label": "Annual Profection — yearly house activation and Lord of the Year technique",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "_posts_2026_06_06_beyond_the_moon_lord_of_the_year",
+      "label": "Lord of the Year — ruling planet of the activated annual profection house",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "_posts_2026_06_06_beyond_the_moon_jupiter_saturn_transits",
+      "label": "Jupiter and Saturn transits — 1-3 year growth and structure cycles",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "_posts_2026_06_06_beyond_the_moon_progressed_moon",
+      "label": "Progressed Moon — ~2.5yr emotional season, long-term inner weather",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "_posts_2026_06_06_beyond_the_moon_four_layer_planning",
+      "label": "4-layer planning: Annual Profection → Solar Return → Jupiter/Saturn/Progressed Moon → Moon Cycle",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "_posts_2026_06_06_moon_manifestation_calendar_document",
+      "label": "Moon Manifestation Calendar — monthly planning with New Moon, Full Moon, Moon House",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "_posts_2026_06_06_moon_manifestation_calendar_three_layer_system",
+      "label": "3-layer calendar: Moon Phase (rhythm) + Moon Sign (energy quality) + Moon House (life area)",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "_posts_2026_06_06_moon_manifestation_calendar_monthly_template",
+      "label": "Template with 4-column structure: Intention, Action, Release, Reflection",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "_posts_2026_06_06_moon_manifestation_worksheet_examples_document",
+      "label": "Moon Manifestation Worksheet Examples — step-by-step walkthroughs by Phase, Sign, House",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet-examples.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "_posts_2026_06_06_moon_manifestation_worksheet_examples_phase_sign_house_formula",
+      "label": "Phase=rhythm, Sign=energy quality, House=life area formula for reading moon manifestations",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet-examples.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "_posts_2026_06_06_moon_manifestation_worksheet_document",
+      "label": "Moon Manifestation Worksheet — full 8-phase form with per-house intention/action/release prompts",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "_posts_2026_06_06_moon_manifestation_worksheet_new_moon_section",
+      "label": "New Moon worksheet section: intention setting, seed metaphor, action step",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "_posts_2026_06_06_moon_manifestation_worksheet_full_moon_section",
+      "label": "Full Moon worksheet section: seeing truth, celebration, release statement, ritual",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "_posts_2026_06_06_moon_manifestation_worksheet_by_house",
+      "label": "Worksheet prompts organized by all 12 houses — intention, action, release per house",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moon_cycle_concept",
+      "label": "Moon Cycle / Moon Phase — the four primary phases: New, Waxing, Full, Waning",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "new_moon_concept",
+      "label": "New Moon — setting intentions, planting seeds, beginning new cycles",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "full_moon_concept",
+      "label": "Full Moon — illumination, seeing truth, release, culmination",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waxing_moon_concept",
+      "label": "Waxing Moon — action, growth, nurturing intentions",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waning_moon_concept",
+      "label": "Waning Moon — clearing, releasing, resting, restoration",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moon_sign_concept",
+      "label": "Moon Sign — zodiac energy quality of the moon's current position",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moon_house_concept",
+      "label": "Moon House — the natal house the transiting moon falls in, indicating life area activated",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "intention_setting_concept",
+      "label": "Intention Statement — clear present-tense declaration of what one intends to manifest",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "release_letting_go_concept",
+      "label": "Release Statement — conscious letting go of what no longer serves, especially at Full/Waning Moon",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "astrology_category",
+      "label": "Category: Astrology",
+      "file_type": "concept",
+      "source_file": "AGENTS.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "manifestation_tag",
+      "label": "Tag: Manifestation",
+      "file_type": "concept",
+      "source_file": "AGENTS.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moon_tag",
+      "label": "Tag: Moon",
+      "file_type": "concept",
+      "source_file": "AGENTS.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_beyond_the_moon_summary_infographic_main",
+      "label": "Beyond the Moon Summary Infographic",
+      "file_type": "image",
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_beyond_the_moon_summary_infographic_title",
+      "label": "Beyond the Moon",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_beyond_the_moon_summary_infographic_moon_cycle",
+      "label": "Moon Cycle",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_beyond_the_moon_summary_infographic_solar_return",
+      "label": "Solar Return",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_beyond_the_moon_summary_infographic_annual_profection",
+      "label": "Annual Profection",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_beyond_the_moon_summary_infographic_three_layer_planning",
+      "label": "Three-Layer Life Planning System",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_beyond_the_moon_summary_infographic_jupiter_saturn_transits",
+      "label": "Jupiter and Saturn Transits",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_beyond_the_moon_summary_infographic_progressed_moon",
+      "label": "Progressed Moon",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_beyond_the_moon_summary_infographic_lord_of_the_year",
+      "label": "Lord of the Year",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_beyond_the_moon_summary_infographic_new_moon",
+      "label": "New Moon",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_beyond_the_moon_summary_infographic_full_moon",
+      "label": "Full Moon",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_beyond_the_moon_summary_infographic_four_layer_model",
+      "label": "Four-Layer Planning Model",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_beyond_the_moon_summary_infographic_twelve_houses",
+      "label": "12 Astrological Houses",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_beyond_the_moon_summary_infographic_tagline",
+      "label": "The moon tells rhythm, the year tells direction",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_calendar_summary_infographic",
+      "label": "Moon Manifestation Calendar Summary Infographic",
+      "file_type": "image",
+      "source_file": "assets/img/posts/moon-manifestation-calendar/summary-infographic.jpg",
+      "source_url": null,
+      "source_location": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_calendar_summary_infographic_concept",
+      "label": "Moon Manifestation Calendar",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_url": null,
+      "source_location": "lunar cycle based monthly planning system",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_calendar_summary_infographic_new_moon",
+      "label": "New Moon — Intention",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_url": null,
+      "source_location": "lunar phase for setting intentions",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_calendar_summary_infographic_waxing_moon",
+      "label": "Waxing Moon — Action",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_url": null,
+      "source_location": "lunar phase for taking action and building energy",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_calendar_summary_infographic_full_moon",
+      "label": "Full Moon — Release",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_url": null,
+      "source_location": "lunar phase for seeing results and releasing",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_calendar_summary_infographic_waning_moon",
+      "label": "Waning Moon — Clear",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_url": null,
+      "source_location": "lunar phase for clearing, resting, preparing",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_calendar_summary_infographic_three_layers",
+      "label": "Three Layers: Moon Phase, Moon Sign, Moon House",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_url": null,
+      "source_location": "layered framework combining phase rhythm, sign quality, house life area",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_calendar_summary_infographic_moon_phase",
+      "label": "Moon Phase — Rhythm",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_url": null,
+      "source_location": "phase tells the timing — begin, act, see, release",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_calendar_summary_infographic_moon_sign",
+      "label": "Moon Sign — Energy Quality",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_url": null,
+      "source_location": "zodiac sign of the moon tells the energetic quality",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_calendar_summary_infographic_moon_house",
+      "label": "Moon House — Life Area",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_url": null,
+      "source_location": "house the moon falls in natal chart tells the life domain",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_calendar_summary_infographic_cycle_framework",
+      "label": "Intention → Action → Release → Reflection Framework",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_url": null,
+      "source_location": "the four-step monthly cycle framework",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_calendar_summary_infographic_application",
+      "label": "Life Applications: Work, Relationships, Self-care",
+      "file_type": "concept",
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_url": null,
+      "source_location": "applying moon calendar to career, relationships, and emotional care",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_examples_summary_infographic",
+      "label": "Moon Manifestation Worksheet Examples — Summary Infographic",
+      "file_type": "image",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_examples_summary_infographic_moon_phase",
+      "label": "Moon Phase (เฟสจันทร์) — จังหวะของกระบวนการ",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_examples_summary_infographic_moon_sign",
+      "label": "Moon Sign (ราศีจันทร์) — คุณภาพของพลังงาน",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_examples_summary_infographic_moon_house",
+      "label": "Moon House (เรือนจันทร์) — พื้นที่ชีวิตที่ถูกเปิดใช้งาน",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_examples_summary_infographic_worksheet",
+      "label": "Worksheet — แปลงข้อมูลเป็นการเขียนและลงมือทำ",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_examples_summary_infographic_new_moon",
+      "label": "New Moon — ตั้งเจตนาใหม่ เริ่มต้น",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_examples_summary_infographic_waxing_moon",
+      "label": "Waxing Moon — ลงมือทำ หล่อเลี้ยงเจตนา",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_examples_summary_infographic_full_moon",
+      "label": "Full Moon — เห็นผล เห็นความจริง ปล่อยวาง",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_examples_summary_infographic_waning_moon",
+      "label": "Waning Moon — ปล่อย เคลียร์ ลด ปรับ",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_examples_summary_infographic_formula",
+      "label": "Formula: Phase + Sign + House = เจตนาเฉพาะตัว",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_examples_summary_infographic_example_1",
+      "label": "Example 1: New Moon in Gemini in 3rd House — การสื่อสาร",
+      "file_type": "rationale",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_examples_summary_infographic_example_2",
+      "label": "Example 2: New Moon in Capricorn in 5th House — งานสร้างสรรค์",
+      "file_type": "rationale",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_examples_summary_infographic_example_3",
+      "label": "Example 3: Full Moon in Pisces in 12th House — การพักและปล่อย",
+      "file_type": "rationale",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_examples_summary_infographic_example_4",
+      "label": "Example 4: Full Moon in Aries in 1st House — ตัวตน ขอบเขต",
+      "file_type": "rationale",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_examples_summary_infographic_example_5",
+      "label": "Example 5: Waxing Moon in Virgo in 6th House — รูทีนสุขภาพ",
+      "file_type": "rationale",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_examples_summary_infographic_example_6",
+      "label": "Example 6: Waning Moon in Aquarius in 11th House — เครือข่าย อนาคต",
+      "file_type": "rationale",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_summary_infographic_image",
+      "label": "Moon Manifestation Worksheet Summary Infographic",
+      "file_type": "image",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_summary_infographic_four_core_elements",
+      "label": "Four Core Elements: Moon Phase, Moon Sign, Moon House, Journal Reflection",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_summary_infographic_moon_phase",
+      "label": "Moon Phase: Rhythms of Process",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_summary_infographic_moon_sign",
+      "label": "Moon Sign: Quality of Energy",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_summary_infographic_moon_house",
+      "label": "Moon House: Area of Life Activated",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_summary_infographic_journal_reflection",
+      "label": "Journal Reflection: Inner Listening",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_summary_infographic_eight_phases",
+      "label": "Eight Moon Phases",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_summary_infographic_new_moon",
+      "label": "New Moon: Set Intention",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_summary_infographic_waxing_moon",
+      "label": "Waxing Moon: Take Action",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_summary_infographic_full_moon",
+      "label": "Full Moon: See Results and Release",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_summary_infographic_waning_moon",
+      "label": "Waning Moon: Clear and Restore",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_summary_infographic_worksheet_entry",
+      "label": "Moon Manifestation Entry Form",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_summary_infographic_new_moon_worksheet",
+      "label": "New Moon Intention Worksheet",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_summary_infographic_waxing_moon_worksheet",
+      "label": "Waxing Moon Action Worksheet",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_summary_infographic_full_moon_worksheet",
+      "label": "Full Moon Release Worksheet",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_summary_infographic_waning_moon_worksheet",
+      "label": "Waning Moon Clearing Worksheet",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_summary_infographic_twelve_houses_guide",
+      "label": "12 Houses Intention/Action/Release Guide",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_summary_infographic_monthly_reflection",
+      "label": "Monthly Moon Cycle Reflection Form",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_summary_infographic_tips",
+      "label": "5 Tips for Sustainable Worksheet Use",
+      "file_type": "concept",
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "agents_document",
+      "target": "jekyll_chirpy_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AGENTS.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "agents_document",
+      "target": "wiki_knowledge_layer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AGENTS.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "agents_document",
+      "target": "astrology_category",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AGENTS.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "_posts_2026_06_06_beyond_the_moon_document",
+      "target": "_posts_2026_06_06_moon_manifestation_calendar_document",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_calendar_document",
+      "target": "_posts_2026_06_06_moon_manifestation_worksheet_document",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_worksheet_examples_document",
+      "target": "_posts_2026_06_06_moon_manifestation_worksheet_document",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet-examples.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "_posts_2026_06_06_beyond_the_moon_document",
+      "target": "_posts_2026_06_06_beyond_the_moon_solar_return",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_2026_06_06_beyond_the_moon_document",
+      "target": "_posts_2026_06_06_beyond_the_moon_annual_profection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_2026_06_06_beyond_the_moon_document",
+      "target": "moon_cycle_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_2026_06_06_beyond_the_moon_document",
+      "target": "_posts_2026_06_06_beyond_the_moon_jupiter_saturn_transits",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "_posts_2026_06_06_beyond_the_moon_document",
+      "target": "_posts_2026_06_06_beyond_the_moon_progressed_moon",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "_posts_2026_06_06_beyond_the_moon_document",
+      "target": "_posts_2026_06_06_beyond_the_moon_four_layer_planning",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_calendar_document",
+      "target": "moon_cycle_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_calendar_document",
+      "target": "new_moon_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_calendar_document",
+      "target": "full_moon_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_calendar_document",
+      "target": "moon_sign_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_calendar_document",
+      "target": "moon_house_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_calendar_document",
+      "target": "_posts_2026_06_06_moon_manifestation_calendar_three_layer_system",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_calendar_document",
+      "target": "_posts_2026_06_06_moon_manifestation_calendar_monthly_template",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_worksheet_examples_document",
+      "target": "moon_cycle_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet-examples.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_worksheet_examples_document",
+      "target": "new_moon_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet-examples.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_worksheet_examples_document",
+      "target": "full_moon_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet-examples.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_worksheet_examples_document",
+      "target": "moon_sign_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet-examples.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_worksheet_examples_document",
+      "target": "moon_house_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet-examples.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_worksheet_examples_document",
+      "target": "_posts_2026_06_06_moon_manifestation_worksheet_examples_phase_sign_house_formula",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet-examples.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_worksheet_document",
+      "target": "moon_cycle_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_worksheet_document",
+      "target": "new_moon_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_worksheet_document",
+      "target": "full_moon_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_worksheet_document",
+      "target": "waxing_moon_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_worksheet_document",
+      "target": "waning_moon_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_worksheet_document",
+      "target": "moon_sign_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_worksheet_document",
+      "target": "moon_house_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_worksheet_document",
+      "target": "_posts_2026_06_06_moon_manifestation_worksheet_new_moon_section",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_worksheet_document",
+      "target": "_posts_2026_06_06_moon_manifestation_worksheet_full_moon_section",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_worksheet_document",
+      "target": "_posts_2026_06_06_moon_manifestation_worksheet_by_house",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_worksheet_document",
+      "target": "intention_setting_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_worksheet_document",
+      "target": "release_letting_go_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "_posts_2026_06_06_beyond_the_moon_solar_return",
+      "target": "_posts_2026_06_06_beyond_the_moon_annual_profection",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "_posts_2026_06_06_beyond_the_moon_solar_return",
+      "target": "moon_cycle_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "new_moon_concept",
+      "target": "full_moon_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "waxing_moon_concept",
+      "target": "new_moon_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "waning_moon_concept",
+      "target": "full_moon_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "moon_sign_concept",
+      "target": "moon_house_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "intention_setting_concept",
+      "target": "new_moon_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "release_letting_go_concept",
+      "target": "full_moon_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "_posts_2026_06_06_beyond_the_moon_document",
+      "target": "astrology_category",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_calendar_document",
+      "target": "astrology_category",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_worksheet_examples_document",
+      "target": "astrology_category",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet-examples.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_worksheet_document",
+      "target": "astrology_category",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "_posts_2026_06_06_beyond_the_moon_document",
+      "target": "manifestation_tag",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "_posts_2026_06_06_beyond_the_moon_document",
+      "target": "moon_tag",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_calendar_document",
+      "target": "manifestation_tag",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_calendar_document",
+      "target": "moon_tag",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_worksheet_examples_document",
+      "target": "manifestation_tag",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet-examples.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_worksheet_examples_document",
+      "target": "moon_tag",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet-examples.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_worksheet_document",
+      "target": "manifestation_tag",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_worksheet_document",
+      "target": "moon_tag",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "_posts_2026_06_06_moon_manifestation_calendar_three_layer_system",
+      "target": "_posts_2026_06_06_moon_manifestation_worksheet_examples_phase_sign_house_formula",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "_posts_2026_06_06_beyond_the_moon_four_layer_planning",
+      "target": "_posts_2026_06_06_moon_manifestation_calendar_three_layer_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "agents_document",
+      "target": "_posts_2026_06_06_beyond_the_moon_document",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AGENTS.md",
+      "source_location": null,
+      "weight": 0.5
+    },
+    {
+      "source": "agents_document",
+      "target": "_posts_2026_06_06_moon_manifestation_calendar_document",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AGENTS.md",
+      "source_location": null,
+      "weight": 0.5
+    },
+    {
+      "source": "agents_document",
+      "target": "_posts_2026_06_06_moon_manifestation_worksheet_examples_document",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AGENTS.md",
+      "source_location": null,
+      "weight": 0.5
+    },
+    {
+      "source": "agents_document",
+      "target": "_posts_2026_06_06_moon_manifestation_worksheet_document",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AGENTS.md",
+      "source_location": null,
+      "weight": 0.5
+    },
+    {
+      "source": "posts_beyond_the_moon_summary_infographic_main",
+      "target": "posts_beyond_the_moon_summary_infographic_title",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_beyond_the_moon_summary_infographic_main",
+      "target": "posts_beyond_the_moon_summary_infographic_three_layer_planning",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_beyond_the_moon_summary_infographic_main",
+      "target": "posts_beyond_the_moon_summary_infographic_tagline",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_beyond_the_moon_summary_infographic_three_layer_planning",
+      "target": "posts_beyond_the_moon_summary_infographic_annual_profection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_beyond_the_moon_summary_infographic_three_layer_planning",
+      "target": "posts_beyond_the_moon_summary_infographic_solar_return",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_beyond_the_moon_summary_infographic_three_layer_planning",
+      "target": "posts_beyond_the_moon_summary_infographic_moon_cycle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_beyond_the_moon_summary_infographic_four_layer_model",
+      "target": "posts_beyond_the_moon_summary_infographic_annual_profection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_beyond_the_moon_summary_infographic_four_layer_model",
+      "target": "posts_beyond_the_moon_summary_infographic_solar_return",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_beyond_the_moon_summary_infographic_four_layer_model",
+      "target": "posts_beyond_the_moon_summary_infographic_jupiter_saturn_transits",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_beyond_the_moon_summary_infographic_four_layer_model",
+      "target": "posts_beyond_the_moon_summary_infographic_progressed_moon",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_beyond_the_moon_summary_infographic_four_layer_model",
+      "target": "posts_beyond_the_moon_summary_infographic_moon_cycle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_beyond_the_moon_summary_infographic_annual_profection",
+      "target": "posts_beyond_the_moon_summary_infographic_lord_of_the_year",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_beyond_the_moon_summary_infographic_annual_profection",
+      "target": "posts_beyond_the_moon_summary_infographic_twelve_houses",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_beyond_the_moon_summary_infographic_moon_cycle",
+      "target": "posts_beyond_the_moon_summary_infographic_new_moon",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_beyond_the_moon_summary_infographic_moon_cycle",
+      "target": "posts_beyond_the_moon_summary_infographic_full_moon",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_calendar_summary_infographic",
+      "target": "posts_moon_manifestation_calendar_summary_infographic_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-calendar/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_calendar_summary_infographic_concept",
+      "target": "posts_moon_manifestation_calendar_summary_infographic_new_moon",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": "lunar phase breakdown section",
+      "weight": 0.8
+    },
+    {
+      "source": "posts_moon_manifestation_calendar_summary_infographic_concept",
+      "target": "posts_moon_manifestation_calendar_summary_infographic_waxing_moon",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": "lunar phase breakdown section",
+      "weight": 0.8
+    },
+    {
+      "source": "posts_moon_manifestation_calendar_summary_infographic_concept",
+      "target": "posts_moon_manifestation_calendar_summary_infographic_full_moon",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": "lunar phase breakdown section",
+      "weight": 0.8
+    },
+    {
+      "source": "posts_moon_manifestation_calendar_summary_infographic_concept",
+      "target": "posts_moon_manifestation_calendar_summary_infographic_waning_moon",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": "lunar phase breakdown section",
+      "weight": 0.8
+    },
+    {
+      "source": "posts_moon_manifestation_calendar_summary_infographic_new_moon",
+      "target": "posts_moon_manifestation_calendar_summary_infographic_waxing_moon",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": "sequential flow: new moon leads into waxing",
+      "weight": 0.7
+    },
+    {
+      "source": "posts_moon_manifestation_calendar_summary_infographic_waxing_moon",
+      "target": "posts_moon_manifestation_calendar_summary_infographic_full_moon",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": "sequential flow: waxing leads into full moon",
+      "weight": 0.7
+    },
+    {
+      "source": "posts_moon_manifestation_calendar_summary_infographic_full_moon",
+      "target": "posts_moon_manifestation_calendar_summary_infographic_waning_moon",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": "sequential flow: full moon leads into waning",
+      "weight": 0.7
+    },
+    {
+      "source": "posts_moon_manifestation_calendar_summary_infographic_concept",
+      "target": "posts_moon_manifestation_calendar_summary_infographic_three_layers",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": "three layer framework section",
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_calendar_summary_infographic_three_layers",
+      "target": "posts_moon_manifestation_calendar_summary_infographic_moon_phase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": "three layers explained",
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_calendar_summary_infographic_three_layers",
+      "target": "posts_moon_manifestation_calendar_summary_infographic_moon_sign",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": "three layers explained",
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_calendar_summary_infographic_three_layers",
+      "target": "posts_moon_manifestation_calendar_summary_infographic_moon_house",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": "three layers explained",
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_calendar_summary_infographic_concept",
+      "target": "posts_moon_manifestation_calendar_summary_infographic_cycle_framework",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": "the four-step cycle framework section",
+      "weight": 0.9
+    },
+    {
+      "source": "posts_moon_manifestation_calendar_summary_infographic_cycle_framework",
+      "target": "posts_moon_manifestation_calendar_summary_infographic_new_moon",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": "intention step corresponds to new moon",
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_calendar_summary_infographic_cycle_framework",
+      "target": "posts_moon_manifestation_calendar_summary_infographic_waxing_moon",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": "action step corresponds to waxing moon",
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_calendar_summary_infographic_cycle_framework",
+      "target": "posts_moon_manifestation_calendar_summary_infographic_full_moon",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": "release step corresponds to full moon",
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_calendar_summary_infographic_cycle_framework",
+      "target": "posts_moon_manifestation_calendar_summary_infographic_waning_moon",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": "reflection step corresponds to waning moon",
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_calendar_summary_infographic_concept",
+      "target": "posts_moon_manifestation_calendar_summary_infographic_application",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": "applications section",
+      "weight": 0.7
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_examples_summary_infographic_moon_phase",
+      "target": "posts_moon_manifestation_worksheet_examples_summary_infographic",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_examples_summary_infographic_moon_sign",
+      "target": "posts_moon_manifestation_worksheet_examples_summary_infographic",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_examples_summary_infographic_moon_house",
+      "target": "posts_moon_manifestation_worksheet_examples_summary_infographic",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_examples_summary_infographic_worksheet",
+      "target": "posts_moon_manifestation_worksheet_examples_summary_infographic",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_examples_summary_infographic_new_moon",
+      "target": "posts_moon_manifestation_worksheet_examples_summary_infographic_moon_phase",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_examples_summary_infographic_waxing_moon",
+      "target": "posts_moon_manifestation_worksheet_examples_summary_infographic_moon_phase",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_examples_summary_infographic_full_moon",
+      "target": "posts_moon_manifestation_worksheet_examples_summary_infographic_moon_phase",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_examples_summary_infographic_waning_moon",
+      "target": "posts_moon_manifestation_worksheet_examples_summary_infographic_moon_phase",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_examples_summary_infographic_formula",
+      "target": "posts_moon_manifestation_worksheet_examples_summary_infographic",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_examples_summary_infographic_formula",
+      "target": "posts_moon_manifestation_worksheet_examples_summary_infographic_moon_phase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_examples_summary_infographic_formula",
+      "target": "posts_moon_manifestation_worksheet_examples_summary_infographic_moon_sign",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_examples_summary_infographic_formula",
+      "target": "posts_moon_manifestation_worksheet_examples_summary_infographic_moon_house",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_examples_summary_infographic_example_1",
+      "target": "posts_moon_manifestation_worksheet_examples_summary_infographic",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_examples_summary_infographic_example_2",
+      "target": "posts_moon_manifestation_worksheet_examples_summary_infographic",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_examples_summary_infographic_example_3",
+      "target": "posts_moon_manifestation_worksheet_examples_summary_infographic",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_examples_summary_infographic_example_4",
+      "target": "posts_moon_manifestation_worksheet_examples_summary_infographic",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_examples_summary_infographic_example_5",
+      "target": "posts_moon_manifestation_worksheet_examples_summary_infographic",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_examples_summary_infographic_example_6",
+      "target": "posts_moon_manifestation_worksheet_examples_summary_infographic",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_summary_infographic_image",
+      "target": "posts_moon_manifestation_worksheet_summary_infographic_four_core_elements",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_summary_infographic_four_core_elements",
+      "target": "posts_moon_manifestation_worksheet_summary_infographic_moon_phase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_summary_infographic_four_core_elements",
+      "target": "posts_moon_manifestation_worksheet_summary_infographic_moon_sign",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_summary_infographic_four_core_elements",
+      "target": "posts_moon_manifestation_worksheet_summary_infographic_moon_house",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_summary_infographic_four_core_elements",
+      "target": "posts_moon_manifestation_worksheet_summary_infographic_journal_reflection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_summary_infographic_image",
+      "target": "posts_moon_manifestation_worksheet_summary_infographic_eight_phases",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_summary_infographic_eight_phases",
+      "target": "posts_moon_manifestation_worksheet_summary_infographic_new_moon",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_summary_infographic_eight_phases",
+      "target": "posts_moon_manifestation_worksheet_summary_infographic_waxing_moon",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_summary_infographic_eight_phases",
+      "target": "posts_moon_manifestation_worksheet_summary_infographic_full_moon",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_summary_infographic_eight_phases",
+      "target": "posts_moon_manifestation_worksheet_summary_infographic_waning_moon",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_summary_infographic_new_moon",
+      "target": "posts_moon_manifestation_worksheet_summary_infographic_new_moon_worksheet",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_summary_infographic_waxing_moon",
+      "target": "posts_moon_manifestation_worksheet_summary_infographic_waxing_moon_worksheet",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_summary_infographic_full_moon",
+      "target": "posts_moon_manifestation_worksheet_summary_infographic_full_moon_worksheet",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_summary_infographic_waning_moon",
+      "target": "posts_moon_manifestation_worksheet_summary_infographic_waning_moon_worksheet",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_summary_infographic_image",
+      "target": "posts_moon_manifestation_worksheet_summary_infographic_twelve_houses_guide",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_summary_infographic_image",
+      "target": "posts_moon_manifestation_worksheet_summary_infographic_monthly_reflection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posts_moon_manifestation_worksheet_summary_infographic_image",
+      "target": "posts_moon_manifestation_worksheet_summary_infographic_tips",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "moon_manifestation_post_series",
+      "label": "Moon Manifestation educational series ordered 71-74 (worksheet → examples → calendar → beyond-the-moon)",
+      "nodes": [
+        "_posts_2026_06_06_moon_manifestation_worksheet_document",
+        "_posts_2026_06_06_moon_manifestation_worksheet_examples_document",
+        "_posts_2026_06_06_moon_manifestation_calendar_document",
+        "_posts_2026_06_06_beyond_the_moon_document"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md"
+    },
+    {
+      "id": "moon_phase_four_part_cycle",
+      "label": "Four primary moon phases forming a complete manifestation cycle",
+      "nodes": [
+        "new_moon_concept",
+        "waxing_moon_concept",
+        "full_moon_concept",
+        "waning_moon_concept"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md"
+    },
+    {
+      "id": "three_layer_manifestation_framework",
+      "label": "Phase (rhythm) + Sign (energy) + House (life area) combined framework",
+      "nodes": [
+        "moon_cycle_concept",
+        "moon_sign_concept",
+        "moon_house_concept"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md"
+    },
+    {
+      "id": "annual_planning_toolkit",
+      "label": "Annual planning tools hierarchically layered from Moon Cycle up to long-term transits",
+      "nodes": [
+        "moon_cycle_concept",
+        "_posts_2026_06_06_beyond_the_moon_solar_return",
+        "_posts_2026_06_06_beyond_the_moon_annual_profection",
+        "_posts_2026_06_06_beyond_the_moon_jupiter_saturn_transits",
+        "_posts_2026_06_06_beyond_the_moon_progressed_moon"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md"
+    },
+    {
+      "id": "posts_beyond_the_moon_summary_infographic_system_three_layer",
+      "label": "Three-Layer Planning System (Annual Profection → Solar Return → Moon Cycle)",
+      "nodes": [
+        "posts_beyond_the_moon_summary_infographic_annual_profection",
+        "posts_beyond_the_moon_summary_infographic_solar_return",
+        "posts_beyond_the_moon_summary_infographic_moon_cycle"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg"
+    },
+    {
+      "id": "posts_beyond_the_moon_summary_infographic_system_four_layer",
+      "label": "Four-Layer Planning Model",
+      "nodes": [
+        "posts_beyond_the_moon_summary_infographic_annual_profection",
+        "posts_beyond_the_moon_summary_infographic_solar_return",
+        "posts_beyond_the_moon_summary_infographic_jupiter_saturn_transits",
+        "posts_beyond_the_moon_summary_infographic_progressed_moon",
+        "posts_beyond_the_moon_summary_infographic_moon_cycle"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/beyond-the-moon/summary-infographic.jpg"
+    },
+    {
+      "id": "posts_moon_manifestation_calendar_summary_infographic_four_phases",
+      "label": "Four Lunar Phases of Moon Calendar",
+      "nodes": [
+        "posts_moon_manifestation_calendar_summary_infographic_new_moon",
+        "posts_moon_manifestation_calendar_summary_infographic_waxing_moon",
+        "posts_moon_manifestation_calendar_summary_infographic_full_moon",
+        "posts_moon_manifestation_calendar_summary_infographic_waning_moon"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md"
+    },
+    {
+      "id": "posts_moon_manifestation_calendar_summary_infographic_layers",
+      "label": "Three Analysis Layers of Moon Calendar",
+      "nodes": [
+        "posts_moon_manifestation_calendar_summary_infographic_moon_phase",
+        "posts_moon_manifestation_calendar_summary_infographic_moon_sign",
+        "posts_moon_manifestation_calendar_summary_infographic_moon_house"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md"
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_examples_summary_infographic_hyper_framework",
+      "label": "Moon Manifestation Framework Core (Phase + Sign + House + Worksheet)",
+      "nodes": [
+        "posts_moon_manifestation_worksheet_examples_summary_infographic_moon_phase",
+        "posts_moon_manifestation_worksheet_examples_summary_infographic_moon_sign",
+        "posts_moon_manifestation_worksheet_examples_summary_infographic_moon_house",
+        "posts_moon_manifestation_worksheet_examples_summary_infographic_worksheet"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg"
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_examples_summary_infographic_hyper_examples",
+      "label": "Worksheet Examples Illustrating the Framework",
+      "nodes": [
+        "posts_moon_manifestation_worksheet_examples_summary_infographic_example_1",
+        "posts_moon_manifestation_worksheet_examples_summary_infographic_example_2",
+        "posts_moon_manifestation_worksheet_examples_summary_infographic_example_3",
+        "posts_moon_manifestation_worksheet_examples_summary_infographic_example_4",
+        "posts_moon_manifestation_worksheet_examples_summary_infographic_example_5",
+        "posts_moon_manifestation_worksheet_examples_summary_infographic_example_6"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg"
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_summary_infographic_core_framework_hyperedge",
+      "label": "Core Framework",
+      "nodes": [
+        "posts_moon_manifestation_worksheet_summary_infographic_moon_phase",
+        "posts_moon_manifestation_worksheet_summary_infographic_moon_sign",
+        "posts_moon_manifestation_worksheet_summary_infographic_moon_house",
+        "posts_moon_manifestation_worksheet_summary_infographic_journal_reflection"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg"
+    },
+    {
+      "id": "posts_moon_manifestation_worksheet_summary_infographic_moon_cycle_flow_hyperedge",
+      "label": "Moon Cycle Flow",
+      "nodes": [
+        "posts_moon_manifestation_worksheet_summary_infographic_new_moon",
+        "posts_moon_manifestation_worksheet_summary_infographic_waxing_moon",
+        "posts_moon_manifestation_worksheet_summary_infographic_full_moon",
+        "posts_moon_manifestation_worksheet_summary_infographic_waning_moon"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg"
+    }
+  ],
+  "input_tokens": 2320,
+  "output_tokens": 980
+}

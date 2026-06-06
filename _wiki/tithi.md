@@ -24,6 +24,8 @@ sources:
 related:
   - title: การอ่านดวงกำเนิด
     url: /wiki/natal-chart-reading/
+  - title: วงจรจันทร์กับการตั้งเจตนา (Moon Manifestation)
+    url: /wiki/moon-manifestation/
   - title: Primal Triad
     url: /wiki/primal-triad/
   - title: อาทิตย์ จันทร์ และลัคนาในราศี

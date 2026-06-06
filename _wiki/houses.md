@@ -32,6 +32,8 @@ related:
     url: /wiki/essential-dignity/
   - title: ดิถี (Tithi)
     url: /wiki/tithi/
+  - title: วงจรจันทร์กับการตั้งเจตนา (Moon Manifestation)
+    url: /wiki/moon-manifestation/
   - title: ดาวสันโดษ (Singleton Planet)
     url: /wiki/singleton-planets/
 layout: wiki

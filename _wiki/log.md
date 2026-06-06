@@ -9,6 +9,13 @@ related:
 layout: wiki
 ---
 
+## 2026-06-06
+
+- เพิ่มหน้า `moon-manifestation.md`: สรุปชุดบทความ June เรื่อง Moon manifestation, Moon sign, Moon house, journaling, worksheet, calendar และกรอบรายเดือนเทียบกับการวางแผนรายปี
+- อัปเดต `tithi.md`, `sun-moon-asc.md`, และ `houses.md` เพื่อเชื่อม related links ไปยังหน้าการใช้วงจรจันทร์เชิงปฏิบัติ
+- อัปเดต `index.md` เพิ่มรายการหน้า `วงจรจันทร์กับการตั้งเจตนา (Moon Manifestation)`
+- อัปเดต `log.md` เพื่อบันทึกการ ingest ชุด June moon-cycle practice
+
 ## 2026-06-01
 
 - อัปเดต cross-reference links เชื่อมต่อชุมชนที่แยกกันใน knowledge graph: เพิ่ม `related:` และ body links ระหว่าง essential-dignity ↔ modality, houses ↔ sect/tithi/singleton-planets, zodiac-signs → sun-moon-asc/primal-triad/houses/essential-dignity, natal-chart-reading → sun-moon-asc/life-purpose-houses, aspects → essential-dignity/tithi, aspect-patterns → houses, trump-case-study → aspect-patterns/singleton-planets, และ sect → houses/tithi

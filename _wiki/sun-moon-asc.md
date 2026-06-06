@@ -18,6 +18,8 @@ related:
     url: /wiki/natal-chart-reading/
   - title: ดิถี (Tithi)
     url: /wiki/tithi/
+  - title: วงจรจันทร์กับการตั้งเจตนา (Moon Manifestation)
+    url: /wiki/moon-manifestation/
 layout: wiki
 ---
 
