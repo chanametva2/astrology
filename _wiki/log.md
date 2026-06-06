@@ -9,6 +9,28 @@ related:
 layout: wiki
 ---
 
+## 2026-06-01
+
+- อัปเดต cross-reference links เชื่อมต่อชุมชนที่แยกกันใน knowledge graph: เพิ่ม `related:` และ body links ระหว่าง essential-dignity ↔ modality, houses ↔ sect/tithi/singleton-planets, zodiac-signs → sun-moon-asc/primal-triad/houses/essential-dignity, natal-chart-reading → sun-moon-asc/life-purpose-houses, aspects → essential-dignity/tithi, aspect-patterns → houses, trump-case-study → aspect-patterns/singleton-planets, และ sect → houses/tithi
+- เพิ่ม body hyperlinks ให้ textual mentions ใน `sun-moon-asc.md` (ดิถี), `tithi.md` (Moon phase, Moon sign, Moon house), `donald-trump-chart-case-study.md` (dispositor chain), `essential-dignity.md` (modality/sect/aspect/เรือน), `modality.md` (essential dignity), และ `pluto-generations.md` (collective souls post)
+- อัปเดต `log.md` เพื่อบันทึกการเชื่อมโยงวิกิรอบ graph analysis
+
+## 2026-05-31
+
+- เพิ่มหน้า `tithi.md`: สรุปแนวคิดดิถี การคำนวณจากระยะ Sun-Moon การแบ่งข้างขึ้น/ข้างแรม 6 archetypes และหลักการอ่านร่วมกับ Moon sign, Moon house, และ aspect
+- อัปเดต `natal-chart-reading.md`: เพิ่มลิงก์อ้างอิงและหมายเหตุให้เชื่อมการอ่าน Sun-Moon ไปยังแนวคิดดิถี
+- อัปเดต `index.md`: เพิ่มรายการหน้า `ดิถี (Tithi)` ในกลุ่มแนวคิด
+- อัปเดต `log.md` เพื่อบันทึกการ ingest ชุด tithi
+
+## 2026-05-31
+
+- Batch-ingest ครบทั้งชุดจาก `_posts/` และตรวจความสอดคล้องของภาพอ้างอิงใน `assets/` โดยไม่แก้ source posts หรือ asset files
+- ขยาย `tithi.md` ให้ครอบคลุม Moon phase, ข้างขึ้น-ข้างแรม, หมุดสำคัญของ 30 ดิถี, วิธีคำนวณ และการอ่านร่วมกับ Sun, Moon sign, Moon house, และ aspect พร้อมเพิ่มแหล่งอ้างอิงจากทุกโพสต์ในชุดนี้
+- อัปเดต `natal-chart-reading.md` รวมสาระจากชุดบทความ 7-step workflow, ดาวเด่นหลายชั้น, และการลากเรื่องผ่านเจ้าเรือน เพื่อให้ลำดับการอ่านพื้นดวงครบขึ้น
+- อัปเดต `singleton-planets.md` แยกความต่างระหว่าง singleton, unaspected, และ dominant planet พร้อมแก้ถ้อยคำในกรณี Einstein
+- อัปเดต `aspect-patterns.md`, `houses.md`, และ `sun-moon-asc.md` เพื่อเพิ่มหลักการตีความและ related links ระหว่างหน้าที่ได้รับผลจาก batch นี้
+- อัปเดต `index.md` หนึ่งครั้งที่ท้ายงาน และบันทึกการเปลี่ยนแปลงทั้งหมดไว้ใน `log.md`
+
 ## 2026-05-29
 
 - สร้างหน้า `houses.md` อธิบายเรือนชะตา ประเภท angular/succedent/cadent quadrants hemispheres angular planets และตาราง 12 เรือน

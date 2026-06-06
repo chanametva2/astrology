@@ -24,6 +24,10 @@ related:
     url: /wiki/zodiac-signs/
   - title: Aspect Patterns
     url: /wiki/aspect-patterns/
+  - title: Essential Dignity
+    url: /wiki/essential-dignity/
+  - title: ดิถี (Tithi)
+    url: /wiki/tithi/
 layout: wiki
 ---
 

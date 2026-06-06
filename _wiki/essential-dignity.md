@@ -16,6 +16,12 @@ related:
     url: /wiki/natal-chart-reading/
   - title: Zodiac Signs
     url: /wiki/zodiac-signs/
+  - title: Modality
+    url: /wiki/modality/
+  - title: Sect
+    url: /wiki/sect/
+  - title: Aspects
+    url: /wiki/aspects/
 layout: wiki
 ---
 
@@ -59,5 +65,7 @@ Exaltation และ fall พูดเรื่องการยกขึ้น
 | Saturn | Libra | Aries |
 
 ## ข้อควรระวังในการตีความ
+
+Essential dignity เป็นเพียงชั้นหนึ่งในการประเมินสภาพดาว ควรอ่านร่วมกับ [modality]({{ '/wiki/modality/' | relative_url }}) [sect]({{ '/wiki/sect/' | relative_url }}) [aspect]({{ '/wiki/aspects/' | relative_url }}) และ [เรือน]({{ '/wiki/houses/' | relative_url }}) เพื่อให้เห็นภาพรวมของดวงที่สมบูรณ์ขึ้น
 
 ดาวที่อยู่ detriment หรือ fall ยังทำงานอยู่ คำเหล่านี้บอกความจำเป็นในการปรับตัว ความซับซ้อน หรือการพัฒนาอย่างมีสติ ส่วนดาวที่อยู่ domicile หรือ exaltation ก็ไม่ได้แปลว่าจะให้ผลสร้างสรรค์เสมอในทุกบริบท เพราะยังต้องดูมุมสัมพันธ์ เรือน sect สภาพของ ruler และ angularity ร่วมด้วย

@@ -1,0 +1,207 @@
+{
+  "nodes": [
+    {
+      "id": "asset_img_posts_trump_weighted_elements_cover_svg",
+      "type": "svg_cover",
+      "label": "ธาตุเด่นในดวง Donald Trump cover",
+      "properties": {
+        "post_slug": "trump-weighted-elements",
+        "title_th": "ธาตุเด่นในดวง Donald Trump",
+        "description_th": "ตัวอย่างการอ่านธาตุเด่นแบบให้น้ำหนักในดวง Donald Trump",
+        "subtitle_th": "ไฟนำ ลมหนุน น้ำรอง ดินอ่อน",
+        "variants": ["cover.svg", "summary-infographic.jpg"]
+      }
+    },
+    {
+      "id": "asset_img_posts_trump_weighted_elements_summary_jpg",
+      "type": "infographic_image",
+      "label": "Trump weighted elements summary infographic",
+      "properties": {
+        "post_slug": "trump-weighted-elements",
+        "depicts": "Weighted element analysis of Donald Trump's chart showing Fire leading, Air supporting, Water secondary, Earth weak"
+      }
+    },
+    {
+      "id": "asset_img_posts_twelve_houses_summary_jpg",
+      "type": "infographic_image",
+      "label": "Twelve houses summary infographic",
+      "properties": {
+        "post_slug": "twelve-houses",
+        "depicts": "The twelve astrological houses and their meanings"
+      }
+    },
+    {
+      "id": "asset_img_posts_twelve_sign_meanings_cover_svg",
+      "type": "svg_cover",
+      "label": "ความหมายของ 12 ราศี cover",
+      "properties": {
+        "post_slug": "twelve-sign-meanings",
+        "title_th": "ความหมายของ 12 ราศี",
+        "description_th": "ความหมายของ 12 ราศีผ่าน Polarity Element Modality และ Ruler",
+        "subtitle": "Polarity Element Modality และ Ruler ใน Western Astrology",
+        "variants": ["cover.svg", "summary-infographic.jpg"]
+      }
+    },
+    {
+      "id": "asset_img_posts_twelve_sign_meanings_summary_jpg",
+      "type": "infographic_image",
+      "label": "Twelve sign meanings summary infographic",
+      "properties": {
+        "post_slug": "twelve-sign-meanings",
+        "depicts": "Meanings of the 12 zodiac signs explained through Polarity, Element, Modality, and Ruler"
+      }
+    },
+    {
+      "id": "asset_img_posts_upper_lower_hemisphere_summary_jpg",
+      "type": "infographic_image",
+      "label": "Upper/lower hemisphere summary infographic",
+      "properties": {
+        "post_slug": "upper-lower-hemisphere",
+        "depicts": "Astrological upper hemisphere vs lower hemisphere interpretation"
+      }
+    },
+    {
+      "id": "asset_img_posts_waning_moon_release_by_sign_summary_jpg",
+      "type": "infographic_image",
+      "label": "Waning moon release by sign summary infographic",
+      "properties": {
+        "post_slug": "waning-moon-release-by-sign",
+        "depicts": "Waning moon phase: what to release based on zodiac sign"
+      }
+    },
+    {
+      "id": "asset_img_posts_waxing_moon_action_by_sign_summary_jpg",
+      "type": "infographic_image",
+      "label": "Waxing moon action by sign summary infographic",
+      "properties": {
+        "post_slug": "waxing-moon-action-by-sign",
+        "depicts": "Waxing moon phase: actions to take based on zodiac sign"
+      }
+    },
+    {
+      "id": "asset_img_posts_waxing_waning_moon_summary_jpg",
+      "type": "infographic_image",
+      "label": "Waxing/waning moon summary infographic",
+      "properties": {
+        "post_slug": "waxing-waning-moon",
+        "depicts": "Comparison of waxing and waning moon phases in astrology"
+      }
+    },
+    {
+      "id": "asset_img_posts_weighted_astrology_elements_cover_svg",
+      "type": "svg_cover",
+      "label": "วิธีดูธาตุเด่นแบบให้น้ำหนัก cover",
+      "properties": {
+        "post_slug": "weighted-astrology-elements",
+        "title_th": "วิธีดูธาตุเด่นในดวงชะตาแบบให้น้ำหนัก",
+        "description_th": "วิธีให้น้ำหนักไฟ ดิน ลม น้ำ ในดวงชะตา",
+        "subtitle_th": "ให้คะแนน Sun Moon Asc และดาวต่าง ๆ เพื่ออ่านไฟ ดิน ลม น้ำ ให้คมขึ้น",
+        "variants": ["cover.svg", "summary-infographic.jpg"]
+      }
+    },
+    {
+      "id": "asset_img_posts_weighted_astrology_elements_summary_jpg",
+      "type": "infographic_image",
+      "label": "Weighted astrology elements summary infographic",
+      "properties": {
+        "post_slug": "weighted-astrology-elements",
+        "depicts": "Method for weighted element scoring in astrology: scoring Sun, Moon, Ascendant, and planets to read Fire, Earth, Air, Water emphasis"
+      }
+    },
+    {
+      "id": "asset_img_posts_yod_basics_summary_jpg",
+      "type": "infographic_image",
+      "label": "Yod basics summary infographic",
+      "properties": {
+        "post_slug": "yod-basics",
+        "depicts": "Yod (Finger of God) configuration basics in astrology"
+      }
+    },
+    {
+      "id": "asset_img_posts_zodiac_origins_cover_svg",
+      "type": "svg_cover",
+      "label": "จุดกำเนิดของ 12 ราศี cover",
+      "properties": {
+        "post_slug": "zodiac-origins",
+        "title_th": "จุดกำเนิดของ 12 ราศี",
+        "description_th": "จุดกำเนิดของ 12 ราศี sidereal tropical และฤดูกาล",
+        "subtitle": "ฤดูกาลหรือกลุ่มดาว? Sidereal, Tropical และ Precession",
+        "variants": ["cover.svg", "summary-infographic.jpg"]
+      }
+    },
+    {
+      "id": "asset_img_posts_zodiac_origins_summary_jpg",
+      "type": "infographic_image",
+      "label": "Zodiac origins summary infographic",
+      "properties": {
+        "post_slug": "zodiac-origins",
+        "depicts": "Origins of the 12 zodiac signs: sidereal vs tropical systems, seasons vs constellations, and precession of the equinoxes"
+      }
+    },
+    {
+      "id": "page_index_html",
+      "type": "jekyll_page",
+      "label": "Index page",
+      "properties": {
+        "layout": "home",
+        "purpose": "Site landing page rendered via Jekyll home layout"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "asset_img_posts_trump_weighted_elements_cover_svg",
+      "target": "asset_img_posts_trump_weighted_elements_summary_jpg",
+      "type": "has_variant",
+      "label": "has variant infographic"
+    },
+    {
+      "source": "asset_img_posts_twelve_sign_meanings_cover_svg",
+      "target": "asset_img_posts_twelve_sign_meanings_summary_jpg",
+      "type": "has_variant",
+      "label": "has variant infographic"
+    },
+    {
+      "source": "asset_img_posts_weighted_astrology_elements_cover_svg",
+      "target": "asset_img_posts_weighted_astrology_elements_summary_jpg",
+      "type": "has_variant",
+      "label": "has variant infographic"
+    },
+    {
+      "source": "asset_img_posts_zodiac_origins_cover_svg",
+      "target": "asset_img_posts_zodiac_origins_summary_jpg",
+      "type": "has_variant",
+      "label": "has variant infographic"
+    },
+    {
+      "source": "asset_img_posts_weighted_astrology_elements_summary_jpg",
+      "target": "asset_img_posts_trump_weighted_elements_summary_jpg",
+      "type": "related_concept",
+      "label": "method applied to Trump example"
+    },
+    {
+      "source": "asset_img_posts_zodiac_origins_cover_svg",
+      "target": "asset_img_posts_twelve_sign_meanings_cover_svg",
+      "type": "related_concept",
+      "label": "foundation for sign meanings"
+    },
+    {
+      "source": "asset_img_posts_waxing_moon_action_by_sign_summary_jpg",
+      "target": "asset_img_posts_waning_moon_release_by_sign_summary_jpg",
+      "type": "complementary",
+      "label": "complementary moon phase guides"
+    },
+    {
+      "source": "asset_img_posts_waxing_waning_moon_summary_jpg",
+      "target": "asset_img_posts_waxing_moon_action_by_sign_summary_jpg",
+      "type": "generalizes",
+      "label": "overview generalizes per-sign guide"
+    },
+    {
+      "source": "asset_img_posts_waxing_waning_moon_summary_jpg",
+      "target": "asset_img_posts_waning_moon_release_by_sign_summary_jpg",
+      "type": "generalizes",
+      "label": "overview generalizes per-sign guide"
+    }
+  ]
+}

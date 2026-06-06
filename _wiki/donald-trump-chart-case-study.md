@@ -20,6 +20,10 @@ related:
     url: /wiki/modality/
   - title: Natal Chart Reading
     url: /wiki/natal-chart-reading/
+  - title: Aspect Patterns
+    url: /wiki/aspect-patterns/
+  - title: Singleton Planets
+    url: /wiki/singleton-planets/
 layout: wiki
 ---
 
@@ -65,7 +69,7 @@ Trump มีลัคนาราศีสิงห์ ทำให้ Sun (เ�
 
 ## Dispositor Chain
 
-เมื่อไล่ dispositor chain ในดวงนี้ พบว่าพลังส่วนใหญ่ไหลกลับไปหา Mercury (เจ้าเรือนเมถุน) ซึ่งเป็นดาวที่ Sun และ Uranus อยู่ใต้ และ Mercury อยู่ราศีกรกฎ มี Moon เป็น dispositor ต่อ แต่ Moon อยู่ธนูมี Jupiter เป็นเจ้าเรือน ส่วน Jupiter อยู่ตุลย์มี Venus เป็นเจ้าเรือน Venus อยู่กรกฎจึงกลับไปหา Moon อีกครั้ง — เกิดเป็น loop ที่ Moon และ Mercury หมุนเวียนกัน
+เมื่อไล่ [dispositor chain]({{ '/posts/trump-dispositor-chain/' | relative_url }}) ในดวงนี้ พบว่าพลังส่วนใหญ่ไหลกลับไปหา Mercury (เจ้าเรือนเมถุน) ซึ่งเป็นดาวที่ Sun และ Uranus อยู่ใต้ และ Mercury อยู่ราศีกรกฎ มี Moon เป็น dispositor ต่อ แต่ Moon อยู่ธนูมี Jupiter เป็นเจ้าเรือน ส่วน Jupiter อยู่ตุลย์มี Venus เป็นเจ้าเรือน Venus อยู่กรกฎจึงกลับไปหา Moon อีกครั้ง — เกิดเป็น loop ที่ Moon และ Mercury หมุนเวียนกัน
 
 ในทางปฏิบัติหมายความว่าไม่มี final dispositor ที่ชัดเจนดวงเดียว แต่ Moon (เรือน 9) และ Mercury (เรือน 10) เป็นแกนหมุนของระบบ สะท้อนว่า Trump ขับเคลื่อนด้วยทั้งอารมณ์ความเชื่อ (Moon ในธนู) และความคิดเชิงกลยุทธ์ที่เน้นภาพสาธารณะ (Mercury ในเรือน 10)
 

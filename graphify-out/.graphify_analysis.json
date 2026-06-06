@@ -1,0 +1,780 @@
+{
+  "communities": {
+    "0": [
+      "30-tithi-meanings",
+      "6-archetypes-of-tithi",
+      "asset_img_full_moon_release_by_sign",
+      "asset_img_how_to_calculate_tithi",
+      "asset_img_how_to_find_moon_phase",
+      "asset_img_how_to_manifest_with_moon_phase",
+      "asset_img_manifest_with_moon_sign",
+      "asset_img_moon_in_signs",
+      "asset_img_moon_journal_prompts_by_phase_and_house",
+      "asset_img_moon_manifestation_by_house",
+      "asset_img_moon_phase_birth_chart",
+      "concept_6archetypes",
+      "concept_astrological_houses",
+      "concept_balsamic_moon",
+      "concept_crescent_moon",
+      "concept_disseminating_moon",
+      "concept_first_quarter_moon",
+      "concept_full_moon",
+      "concept_full_moon_release",
+      "concept_gibbous_moon",
+      "concept_intention_setting",
+      "concept_last_quarter_moon",
+      "concept_manifestation",
+      "concept_moon_house",
+      "concept_moon_journal",
+      "concept_moon_manifestation",
+      "concept_moon_phase",
+      "concept_moon_sign",
+      "concept_new_moon",
+      "concept_release_letting_go",
+      "concept_sun_moon_aspect",
+      "concept_the_builder",
+      "concept_the_interpreter",
+      "concept_the_refiner",
+      "concept_the_releaser",
+      "concept_the_revealer",
+      "concept_the_seed",
+      "concept_tithi",
+      "concept_waning_moon",
+      "concept_waxing_moon",
+      "concept_whole_sign_house",
+      "full-moon-release-by-sign",
+      "how-to-calculate-tithi",
+      "how-to-find-moon-phase",
+      "how-to-manifest-with-moon-phase",
+      "manifest-with-moon-sign",
+      "moon-journal-prompts-by-phase-and-house",
+      "moon-phase-birth-chart",
+      "moon_manifestation_by_house",
+      "new_moon_manifestation_by_sign",
+      "reading-tithi-with-sun-moon",
+      "ref_myrna_lofthus",
+      "ref_spiritual_approach_astrology",
+      "tithi-introduction",
+      "tithi-moon-sign-moon-house",
+      "waning_moon_release_by_sign",
+      "waxing-waning-moon",
+      "waxing_moon_action_by_sign"
+    ],
+    "1": [
+      "aspects_wiki",
+      "astrology-elements",
+      "astrology_as_symbolic_language_wiki",
+      "concept_aspect_patterns",
+      "concept_aspects",
+      "concept_astrology_elements",
+      "concept_dispositor_chain",
+      "concept_donald_trump",
+      "concept_element_air",
+      "concept_element_earth",
+      "concept_element_fire",
+      "concept_element_water",
+      "concept_elemental_house_cycles",
+      "concept_elements",
+      "concept_modality",
+      "concept_modality_cardinal",
+      "concept_modality_fixed",
+      "concept_modality_mutable",
+      "concept_natal_chart_reading",
+      "concept_precession",
+      "concept_sidereal_zodiac",
+      "concept_tropical_zodiac",
+      "concept_weighted_chart_scoring",
+      "concept_weighted_elements",
+      "concept_zodiac_polarity",
+      "concept_zodiac_signs",
+      "donald_trump_chart_case_study_wiki",
+      "elements_wiki",
+      "entity_donald_trump",
+      "entity_placidus",
+      "modality-western-astrology",
+      "trump-modality",
+      "trump-modality-birth-chart",
+      "trump-modality-cover",
+      "trump-modality-infographic",
+      "trump-weighted-elements",
+      "trump-weighted-elements-chart",
+      "twelve-sign-meanings",
+      "weighted-astrology-elements",
+      "wiki_md",
+      "zodiac-origins"
+    ],
+    "2": [
+      "Apex_Planet",
+      "Aspect",
+      "Aspect_Pattern",
+      "Comfort_Zone",
+      "Conjunction",
+      "Grand_Air_Trine",
+      "Grand_Earth_Trine",
+      "Grand_Fire_Trine",
+      "Grand_Trine",
+      "Grand_Water_Trine",
+      "Kite",
+      "Missing_Leg",
+      "Mystic_Rectangle",
+      "Opposition",
+      "Orb",
+      "Projection_Psychological",
+      "Sextile",
+      "Square",
+      "Stellium",
+      "T_Square",
+      "Trine",
+      "Yod",
+      "aspect-basics_Document",
+      "aspect-pattern-basics_Document",
+      "aspect-reading-workflow_Document",
+      "conjunction-basics_Document",
+      "grand-trine-basics_Document",
+      "kite-basics_Document",
+      "mystic-rectangle-basics_Document",
+      "opposition-basics_Document",
+      "sextile-basics_Document",
+      "square-basics_Document",
+      "t-square-basics_Document",
+      "trine-basics_Document"
+    ],
+    "3": [
+      "angular-houses-basics",
+      "angular-planets-basics",
+      "angular-succedent-cadent-houses",
+      "ascendant-through-the-signs",
+      "astrology-as-symbolic-language",
+      "birth-chart-quadrants",
+      "birth-chart-reading-basics",
+      "concept_angular_houses",
+      "concept_ascendant",
+      "concept_astrology_symbolic_language",
+      "concept_birth_chart",
+      "concept_cadent_houses",
+      "concept_descendant",
+      "concept_house_1",
+      "concept_house_10",
+      "concept_house_11",
+      "concept_house_12",
+      "concept_house_2",
+      "concept_house_3",
+      "concept_house_4",
+      "concept_house_5",
+      "concept_house_6",
+      "concept_house_7",
+      "concept_house_8",
+      "concept_house_9",
+      "concept_ic",
+      "concept_midheaven",
+      "concept_quadrant_i",
+      "concept_quadrant_ii",
+      "concept_quadrant_iii",
+      "concept_quadrant_iv",
+      "concept_succedent_houses"
+    ],
+    "4": [
+      "Ascendant_Descendant_Axis",
+      "Ascendant_Sign",
+      "Chart_Ruler",
+      "Dispositor_Chain",
+      "Donald_Trump_Chart",
+      "Eastern_Hemisphere",
+      "House_1",
+      "House_10",
+      "Imum_Coeli_IC",
+      "Lower_Hemisphere",
+      "Medical_Astrology",
+      "Midheaven_MC",
+      "Moon_Jupiter_Venus_Loop",
+      "Moon_Sign",
+      "Other_Orientation",
+      "Primal_Triad",
+      "Self_Orientation",
+      "Sun_Sign",
+      "Upper_Hemisphere",
+      "Western_Hemisphere",
+      "left-right-hemisphere_Document",
+      "moon-in-signs_Document",
+      "primal-triad_Document",
+      "sun-in-signs_Document",
+      "trump-ascendant-chart-ruler_Document",
+      "trump-dispositor-chain_Document",
+      "twelve-houses_Document",
+      "upper-lower-hemisphere_Document"
+    ],
+    "5": [
+      "albert-einstein-yod-singleton-uranus",
+      "aspect_patterns_wiki",
+      "asset_img_grand_trine_basics",
+      "asset_img_grand_trine_house_cycles",
+      "asset_img_kite_basics",
+      "asset_img_mystic_rectangle_basics",
+      "concept_apex_planet",
+      "concept_aspect_pattern",
+      "concept_barack_obama",
+      "concept_base_sextile",
+      "concept_conjunction",
+      "concept_einstein_uranus",
+      "concept_grand_trine",
+      "concept_kite",
+      "concept_mystic_rectangle",
+      "concept_quincunx",
+      "concept_sextile",
+      "concept_singleton_planet",
+      "concept_stellium",
+      "concept_t_square",
+      "concept_tsquare",
+      "concept_unaspected_planet",
+      "concept_yod",
+      "person_albert_einstein",
+      "singleton-planets-basics",
+      "stellium-aspects",
+      "yod-basics"
+    ],
+    "6": [
+      "asset_img_from_major_planet_to_major_house_topics",
+      "asset_img_major_planets_in_birth_chart",
+      "birth-chart-reading-7-step-example",
+      "birth-chart-reading-7-step-workflow",
+      "concept_7step_workflow",
+      "concept_benefics",
+      "concept_chart_ruler",
+      "concept_dispositor",
+      "concept_diurnal_sect",
+      "concept_dominant_planet",
+      "concept_dominant_planet_multi_layer",
+      "concept_final_dispositor",
+      "concept_house_rulership",
+      "concept_life_sentence",
+      "concept_malefics",
+      "concept_mutual_reception",
+      "concept_nocturnal_sect",
+      "concept_sect",
+      "concept_whole_sign_houses",
+      "day-night-sect",
+      "dispositor-basics",
+      "entity_hellenistic_astrology",
+      "from-major-planet-to-major-house-topics"
+    ],
+    "7": [
+      "angular_planets_basics_infographic",
+      "angular_succedent_cadent_houses_infographic",
+      "ascendant_through_signs_infographic",
+      "aspect_basics_infographic",
+      "aspect_pattern_basics_infographic",
+      "aspect_reading_workflow_infographic",
+      "astrology_elements_cover",
+      "astrology_elements_infographic",
+      "astrology_symbolic_language_cover",
+      "astrology_symbolic_language_infographic",
+      "birth_chart_7step_example_infographic",
+      "birth_chart_7step_workflow_infographic",
+      "birth_chart_quadrants_infographic",
+      "birth_chart_reading_basics_cover",
+      "birth_chart_reading_basics_infographic",
+      "collective_souls_pluto_infographic",
+      "conjunction_basics_infographic",
+      "day_night_sect_diagram",
+      "day_night_sect_infographic",
+      "dispositor_basics_infographic",
+      "obama_case_study_infographic",
+      "obama_chart_image"
+    ],
+    "8": [
+      "Air_Element",
+      "Air_Houses",
+      "Artha",
+      "Cardinal_Modality",
+      "Dharma",
+      "Earth_Element",
+      "Earth_Houses",
+      "Fire_Element",
+      "Fire_Houses",
+      "Fixed_Modality",
+      "Jyotish",
+      "Kama",
+      "Moksha",
+      "Mutable_Modality",
+      "Purusharthas",
+      "Water_Element",
+      "Water_Houses",
+      "Western_Astrology",
+      "life-purpose-houses_Document",
+      "purusharthas-elemental-houses_Document"
+    ],
+    "9": [
+      "vscode_settings",
+      "vscode_settings_css_validate",
+      "vscode_settings_editor_defaultformatter",
+      "vscode_settings_editor_formatonsave",
+      "vscode_settings_files_associations",
+      "vscode_settings_files_associations_html",
+      "vscode_settings_html_liquid",
+      "vscode_settings_html_liquid_editor_defaultformatter",
+      "vscode_settings_less_validate",
+      "vscode_settings_markdown",
+      "vscode_settings_markdown_editor_defaultformatter",
+      "vscode_settings_scss_validate",
+      "vscode_settings_shellscript",
+      "vscode_settings_shellscript_editor_defaultformatter",
+      "vscode_settings_stylelint_snippet",
+      "vscode_settings_stylelint_validate",
+      "vscode_settings_terminal_integrated_profiles_osx",
+      "vscode_settings_terminal_integrated_profiles_osx_zsh",
+      "vscode_settings_zsh_args",
+      "vscode_settings_zsh_path"
+    ],
+    "10": [
+      "30-tithi-meanings-infographic",
+      "6-archetypes-of-tithi-infographic",
+      "ascendant",
+      "moon",
+      "moon-phase",
+      "new-moon-manifestation-infographic",
+      "primal-triad",
+      "primal-triad-infographic",
+      "reading-tithi-sun-moon-infographic",
+      "sun",
+      "sun-in-signs-infographic",
+      "sun-moon-asc",
+      "tithi",
+      "tithi-introduction-infographic",
+      "tithi-moon-sign-house-infographic",
+      "trump-ascendant-chart-ruler-infographic",
+      "waning-moon",
+      "waxing-moon"
+    ],
+    "11": [
+      "detriment",
+      "dispositor",
+      "dispositor-chain",
+      "domicile",
+      "essential-dignity",
+      "exaltation",
+      "fall",
+      "final-dispositor",
+      "logo-png",
+      "polarity",
+      "sign-rulership",
+      "symmetry-of-ruler-infographic",
+      "tropical-zodiac",
+      "trump-dispositor-chain-infographic",
+      "zodiac-signs"
+    ],
+    "12": [
+      "concept_detriment",
+      "concept_domicile",
+      "concept_essential_dignity",
+      "concept_exaltation",
+      "concept_fall",
+      "concept_ptolemy_rulership",
+      "concept_sign_rulership",
+      "domicile-and-detriment",
+      "entity_ptolemy",
+      "entity_tetrabiblos",
+      "exaltation-and-fall",
+      "fall-in-astrology",
+      "major-planets-in-birth-chart",
+      "symmetry-of-ruler"
+    ],
+    "13": [
+      "cardinal",
+      "fixed",
+      "modality",
+      "mutable",
+      "natal-chart-reading",
+      "opposition-basics-infographic",
+      "sextile-basics-infographic",
+      "square-basics-infographic",
+      "stellium-aspects-infographic",
+      "t-square-basics-infographic",
+      "trine-basics-infographic",
+      "weighted-chart-scoring",
+      "wiki-index",
+      "wiki-log"
+    ],
+    "14": [
+      "devcontainer_devcontainer",
+      "devcontainer_devcontainer_customizations",
+      "devcontainer_devcontainer_customizations_vscode",
+      "devcontainer_devcontainer_image",
+      "devcontainer_devcontainer_name",
+      "devcontainer_devcontainer_oncreatecommand",
+      "devcontainer_devcontainer_postcreatecommand",
+      "devcontainer_devcontainer_settings_terminal_integrated_defaultprofile_linux",
+      "devcontainer_devcontainer_vscode_extensions",
+      "devcontainer_devcontainer_vscode_settings"
+    ],
+    "15": [
+      "agents_md",
+      "concept_github_actions",
+      "concept_github_pages",
+      "concept_jekyll_chirpy",
+      "config_yml",
+      "home_html",
+      "pages_deploy_yml",
+      "post_html",
+      "wiki_html"
+    ],
+    "16": [
+      "angular-houses",
+      "angular-houses-infographic",
+      "angular-planets",
+      "cadent-houses",
+      "hemispheres",
+      "houses",
+      "quadrants",
+      "succedent-houses"
+    ],
+    "17": [
+      "dominant-planet",
+      "einstein-case-study",
+      "einstein-chart-image",
+      "einstein-yod-infographic",
+      "singleton-planet-concept",
+      "singleton-planets",
+      "singleton-planets-infographic",
+      "unaspected-planet"
+    ],
+    "18": [
+      "collective-souls-pluto-generations",
+      "concept_collective_souls",
+      "concept_pluto_generation_genalpha",
+      "concept_pluto_generation_genbeta",
+      "concept_pluto_generation_genx",
+      "concept_pluto_generation_genz",
+      "concept_pluto_generation_millennials"
+    ],
+    "19": [
+      "artha",
+      "dharma",
+      "grand-trine-house-cycles",
+      "kama",
+      "life-purpose-houses",
+      "moksha",
+      "purusharthas-elemental-houses-infographic"
+    ],
+    "20": [
+      "builder-archetype",
+      "interpreter-archetype",
+      "refiner-archetype",
+      "releaser-archetype",
+      "revealer-archetype",
+      "seed-archetype",
+      "tithi-archetypes"
+    ],
+    "21": [
+      "asset_img_domicile_and_detriment",
+      "asset_img_exaltation_and_fall",
+      "asset_img_fall_in_astrology",
+      "concept_domicile_and_detriment",
+      "concept_exaltation_and_fall"
+    ],
+    "22": [
+      "gen-alpha",
+      "gen-x",
+      "gen-z",
+      "millennials",
+      "pluto-generations"
+    ],
+    "23": [
+      "c_users_chana_onedrive_thammasat_university_github_astrology_tools_test_sh__entry",
+      "tools_test",
+      "tools_test_help",
+      "tools_test_main",
+      "tools_test_read_baseurl"
+    ],
+    "24": [
+      "asset_img_posts_trump_weighted_elements_cover_svg",
+      "asset_img_posts_trump_weighted_elements_summary_jpg",
+      "asset_img_posts_weighted_astrology_elements_cover_svg",
+      "asset_img_posts_weighted_astrology_elements_summary_jpg"
+    ],
+    "25": [
+      "asset_img_posts_twelve_sign_meanings_cover_svg",
+      "asset_img_posts_twelve_sign_meanings_summary_jpg",
+      "asset_img_posts_zodiac_origins_cover_svg",
+      "asset_img_posts_zodiac_origins_summary_jpg"
+    ],
+    "26": [
+      "asset_img_left_right_hemisphere",
+      "asset_img_life_purpose_houses",
+      "concept_eastern_western_hemisphere",
+      "concept_life_purpose_houses"
+    ],
+    "27": [
+      "knowledge_graph_chunk_1",
+      "knowledge_graph_chunk_1_edges",
+      "knowledge_graph_chunk_1_hyperedges",
+      "knowledge_graph_chunk_1_nodes"
+    ],
+    "28": [
+      "day-chart",
+      "night-chart",
+      "sect",
+      "sect-light"
+    ],
+    "29": [
+      "asset_img_modality_western_astrology_cover",
+      "asset_img_modality_western_astrology_infographic",
+      "concept_modality_cardinal_fixed_mutable"
+    ],
+    "30": [
+      "asset_img_posts_waning_moon_release_by_sign_summary_jpg",
+      "asset_img_posts_waxing_moon_action_by_sign_summary_jpg",
+      "asset_img_posts_waxing_waning_moon_summary_jpg"
+    ],
+    "31": [
+      "c_users_chana_onedrive_thammasat_university_github_astrology_tools_run_sh__entry",
+      "tools_run",
+      "tools_run_help"
+    ],
+    "32": [
+      "barack-obama-aspect-pattern-case-study",
+      "concept_obama_moon_mc_mercury",
+      "person_barack_obama"
+    ],
+    "33": [
+      "vscode_tasks",
+      "vscode_tasks_tasks",
+      "vscode_tasks_version"
+    ],
+    "34": [
+      "c_users_chana_onedrive_thammasat_university_github_astrology_devcontainer_post_create_sh__entry",
+      "devcontainer_post_create"
+    ],
+    "35": [
+      "vscode_extensions",
+      "vscode_extensions_recommendations"
+    ],
+    "36": [
+      "plugins_posts_lastmod_hook"
+    ],
+    "37": [
+      "contact_yml"
+    ],
+    "38": [
+      "share_yml"
+    ],
+    "39": [
+      "about_md"
+    ],
+    "40": [
+      "archives_md"
+    ],
+    "41": [
+      "categories_md"
+    ],
+    "42": [
+      "tags_md"
+    ],
+    "43": [
+      "asset_img_posts_twelve_houses_summary_jpg"
+    ],
+    "44": [
+      "asset_img_posts_upper_lower_hemisphere_summary_jpg"
+    ],
+    "45": [
+      "asset_img_posts_yod_basics_summary_jpg"
+    ],
+    "46": [
+      "page_index_html"
+    ]
+  },
+  "cohesion": {
+    "0": 0.060496067755595885,
+    "1": 0.09146341463414634,
+    "2": 0.10160427807486631,
+    "3": 0.11088709677419355,
+    "4": 0.1349206349206349,
+    "5": 0.13105413105413105,
+    "6": 0.1383399209486166,
+    "7": 0.1038961038961039,
+    "8": 0.14736842105263157,
+    "9": 0.1,
+    "10": 0.16993464052287582,
+    "11": 0.17142857142857143,
+    "12": 0.31868131868131866,
+    "13": 0.23076923076923078,
+    "14": 0.2,
+    "15": 0.3333333333333333,
+    "16": 0.25,
+    "17": 0.25,
+    "18": 0.2857142857142857,
+    "19": 0.2857142857142857,
+    "20": 0.2857142857142857,
+    "21": 0.4,
+    "22": 0.4,
+    "23": 0.7,
+    "24": 0.5,
+    "25": 0.5,
+    "26": 0.5,
+    "27": 0.5,
+    "28": 0.5,
+    "29": 0.6666666666666666,
+    "30": 1.0,
+    "31": 1.0,
+    "32": 1.0,
+    "33": 0.6666666666666666,
+    "34": 1.0,
+    "35": 1.0,
+    "36": 1.0,
+    "37": 1.0,
+    "38": 1.0,
+    "39": 1.0,
+    "40": 1.0,
+    "41": 1.0,
+    "42": 1.0,
+    "43": 1.0,
+    "44": 1.0,
+    "45": 1.0,
+    "46": 1.0
+  },
+  "gods": [
+    {
+      "id": "houses",
+      "label": "เรือนชะตา (House)",
+      "degree": 19
+    },
+    {
+      "id": "natal-chart-reading",
+      "label": "การอ่านดวงกำเนิด",
+      "degree": 19
+    },
+    {
+      "id": "concept_moon_phase",
+      "label": "Moon Phase",
+      "degree": 17
+    },
+    {
+      "id": "modality",
+      "label": "Modality",
+      "degree": 17
+    },
+    {
+      "id": "tithi",
+      "label": "ดิถี (Tithi)",
+      "degree": 16
+    },
+    {
+      "id": "wiki-index",
+      "label": "ดัชนีวิกิ",
+      "degree": 15
+    },
+    {
+      "id": "essential-dignity",
+      "label": "Essential Dignity",
+      "degree": 13
+    },
+    {
+      "id": "zodiac-signs",
+      "label": "ราศีจักรราศี",
+      "degree": 13
+    },
+    {
+      "id": "concept_moon_sign",
+      "label": "Moon Sign",
+      "degree": 12
+    },
+    {
+      "id": "aspect_patterns_wiki",
+      "label": "รูปแบบมุมสัมพันธ์ (Aspect Pattern)",
+      "degree": 12
+    }
+  ],
+  "surprises": [
+    {
+      "source": "Purusharthas vs Elemental Houses Summary Infographic",
+      "target": "เรือนชะตา (House)",
+      "source_files": [
+        "assets/img/posts/purusharthas-elemental-houses/summary-infographic.jpg",
+        "_wiki/houses.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "conceptually_related_to",
+      "why": "inferred connection - not explicitly stated in source; crosses file types (doc ↔ image); connects across different repos/directories; bridges separate communities; peripheral node `Purusharthas vs Elemental Houses Summary Infographic` unexpectedly reaches hub `เรือนชะตา (House)`"
+    },
+    {
+      "source": "Trump Ascendant and Chart Ruler Summary Infographic",
+      "target": "ดาวเจ้าเรือนของราศี",
+      "source_files": [
+        "assets/img/posts/trump-ascendant-chart-ruler/summary-infographic.png",
+        "_wiki/sign-rulership.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "conceptually_related_to",
+      "why": "inferred connection - not explicitly stated in source; crosses file types (doc ↔ image); connects across different repos/directories; bridges separate communities; peripheral node `Trump Ascendant and Chart Ruler Summary Infographic` unexpectedly reaches hub `ดาวเจ้าเรือนของราศี`"
+    },
+    {
+      "source": "Stellium Aspects Summary Infographic",
+      "target": "ดาวสันโดษ (Singleton Planet)",
+      "source_files": [
+        "assets/img/posts/stellium-aspects/summary-infographic.jpg",
+        "_wiki/singleton-planets.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "conceptually_related_to",
+      "why": "inferred connection - not explicitly stated in source; crosses file types (doc ↔ image); connects across different repos/directories; bridges separate communities; peripheral node `Stellium Aspects Summary Infographic` unexpectedly reaches hub `ดาวสันโดษ (Singleton Planet)`"
+    },
+    {
+      "source": "เรือนชะตา (House)",
+      "target": "Angular Houses Basics Summary Infographic",
+      "source_files": [
+        "_wiki/houses.md",
+        "assets/img/posts/angular-houses-basics/summary-infographic.jpg"
+      ],
+      "confidence": "INFERRED",
+      "relation": "references",
+      "why": "inferred connection - not explicitly stated in source; crosses file types (doc ↔ image); connects across different repos/directories; peripheral node `Angular Houses Basics Summary Infographic` unexpectedly reaches hub `เรือนชะตา (House)`"
+    },
+    {
+      "source": "Site Logo",
+      "target": "เรือนชะตา (House)",
+      "source_files": [
+        "assets/img/logo.png",
+        "_wiki/houses.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "conceptually_related_to",
+      "why": "inferred connection - not explicitly stated in source; crosses file types (doc ↔ image); connects across different repos/directories; bridges separate communities"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `กรณีศึกษาดวง Donald Trump` connect `Community 1` to `Community 3`, `Community 5`, `Community 6`?",
+      "why": "High betweenness centrality (0.102) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `Modality` connect `Community 13` to `Community 19`, `Community 1`, `Community 11`?",
+      "why": "High betweenness centrality (0.094) - this node is a cross-community bridge."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 5 inferred relationships involving `เรือนชะตา (House)` (e.g. with `Angular Houses Basics Summary Infographic` and `Site Logo`) actually correct?",
+      "why": "`เรือนชะตา (House)` has 5 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 6 inferred relationships involving `การอ่านดวงกำเนิด` (e.g. with `Opposition Basics Summary Infographic` and `Sextile Basics Summary Infographic`) actually correct?",
+      "why": "`การอ่านดวงกำเนิด` has 6 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 8 inferred relationships involving `Modality` (e.g. with `Opposition Basics Summary Infographic` and `Sextile Basics Summary Infographic`) actually correct?",
+      "why": "`Modality` has 8 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 6 inferred relationships involving `ดิถี (Tithi)` (e.g. with `New Moon Manifestation by Sign Summary Infographic` and `Reading Tithi with Sun Moon Sign and House Summary Infographic`) actually correct?",
+      "why": "`ดิถี (Tithi)` has 6 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `name`, `image`, `onCreateCommand` to the rest of the system?",
+      "why": "107 weakly-connected nodes found - possible documentation gaps or missing edges."
+    }
+  ]
+}

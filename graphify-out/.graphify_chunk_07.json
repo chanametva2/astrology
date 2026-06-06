@@ -1,0 +1,601 @@
+{
+  "nodes": [
+    {
+      "id": "asset_img_domicile_and_detriment",
+      "type": "asset_image",
+      "label": "Domicile and Detriment Infographic",
+      "properties": {
+        "file_path": "/assets/img/posts/domicile-and-detriment/summary-infographic.jpg",
+        "depicts": "Domicile (planet in own sign) vs Detriment (planet in opposite sign) in traditional Western astrology",
+        "slug": "domicile-and-detriment",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "asset_img_exaltation_and_fall",
+      "type": "asset_image",
+      "label": "Exaltation and Fall Infographic",
+      "properties": {
+        "file_path": "/assets/img/posts/exaltation-and-fall/summary-infographic.jpg",
+        "depicts": "Exaltation (planet in sign where it is honored) vs Fall (planet in opposite sign) in essential dignity system",
+        "slug": "exaltation-and-fall",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "asset_img_fall_in_astrology",
+      "type": "asset_image",
+      "label": "Fall in Astrology Infographic",
+      "properties": {
+        "file_path": "/assets/img/posts/fall-in-astrology/summary-infographic.jpg",
+        "depicts": "Fall in astrology — the state where a planet's power is not elevated, expressing less naturally, opposite of Exaltation",
+        "slug": "fall-in-astrology",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "asset_img_from_major_planet_to_major_house_topics",
+      "type": "asset_image",
+      "label": "From Major Planet to Major House Topics Infographic",
+      "properties": {
+        "file_path": "/assets/img/posts/from-major-planet-to-major-house-topics/summary-infographic.jpg",
+        "depicts": "How to read from dominant planets to major house topics via house rulership in birth chart interpretation",
+        "slug": "from-major-planet-to-major-house-topics",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "asset_img_full_moon_release_by_sign",
+      "type": "asset_image",
+      "label": "Full Moon Release by Sign Infographic",
+      "properties": {
+        "file_path": "/assets/img/posts/full-moon-release-by-sign/summary-infographic.jpg",
+        "depicts": "Full Moon Release practices by zodiac sign — what to let go of based on which sign the Full Moon occurs in",
+        "slug": "full-moon-release-by-sign",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "asset_img_grand_trine_basics",
+      "type": "asset_image",
+      "label": "Grand Trine Basics Infographic",
+      "properties": {
+        "file_path": "/assets/img/posts/grand-trine-basics/summary-infographic.jpg",
+        "depicts": "Grand Trine aspect pattern — three planets forming trines (120°) creating a talent triangle of flowing energy",
+        "slug": "grand-trine-basics",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "asset_img_grand_trine_house_cycles",
+      "type": "asset_image",
+      "label": "Grand Trine House Cycles Infographic",
+      "properties": {
+        "file_path": "/assets/img/posts/grand-trine-house-cycles/summary-infographic.jpg",
+        "depicts": "Grand Trine houses in same element forming a cyclical energy system that supports and upgrades each other",
+        "slug": "grand-trine-house-cycles",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "asset_img_how_to_calculate_tithi",
+      "type": "asset_image",
+      "label": "How to Calculate Tithi Infographic",
+      "properties": {
+        "file_path": "/assets/img/posts/how-to-calculate-tithi/summary-infographic.jpg",
+        "depicts": "How to calculate Tithi (lunar day) by measuring Sun-Moon angular distance and dividing by 12 degrees",
+        "slug": "how-to-calculate-tithi",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "asset_img_how_to_find_moon_phase",
+      "type": "asset_image",
+      "label": "How to Find Moon Phase Infographic",
+      "properties": {
+        "file_path": "/assets/img/posts/how-to-find-moon-phase/summary-infographic.jpg",
+        "depicts": "How to find Moon Phase in birth chart by calculating the angular distance between Sun and Moon",
+        "slug": "how-to-find-moon-phase",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "asset_img_how_to_manifest_with_moon_phase",
+      "type": "asset_image",
+      "label": "How to Manifest with Moon Phase Infographic",
+      "properties": {
+        "file_path": "/assets/img/posts/how-to-manifest-with-moon-phase/summary-infographic.jpg",
+        "depicts": "Manifestation techniques aligned with Moon phases — intention setting at New Moon, action on waxing, results at Full Moon, release on waning",
+        "slug": "how-to-manifest-with-moon-phase",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "asset_img_kite_basics",
+      "type": "asset_image",
+      "label": "Kite Basics Infographic",
+      "properties": {
+        "file_path": "/assets/img/posts/kite-basics/summary-infographic.jpg",
+        "depicts": "Kite aspect pattern — a Grand Trine with an extra planet forming an opposition, creating directed energetic focus",
+        "slug": "kite-basics",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "asset_img_left_right_hemisphere",
+      "type": "asset_image",
+      "label": "Left-Right Hemisphere Infographic",
+      "properties": {
+        "file_path": "/assets/img/posts/left-right-hemisphere/summary-infographic.jpg",
+        "depicts": "Eastern Hemisphere (left side, self-initiated) vs Western Hemisphere (right side, growth through others) in birth chart",
+        "slug": "left-right-hemisphere",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "asset_img_life_purpose_houses",
+      "type": "asset_image",
+      "label": "Life Purpose Houses Infographic",
+      "properties": {
+        "file_path": "/assets/img/posts/life-purpose-houses/summary-infographic.jpg",
+        "depicts": "Life purpose through the 12 houses using Purusharthas (Dharma, Artha, Kama, Moksha) and elemental houses framework",
+        "slug": "life-purpose-houses",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "asset_img_major_planets_in_birth_chart",
+      "type": "asset_image",
+      "label": "Major Planets in Birth Chart Infographic",
+      "properties": {
+        "file_path": "/assets/img/posts/major-planets-in-birth-chart/summary-infographic.jpg",
+        "depicts": "How to find the dominant planet in a birth chart using multiple criteria — the key planet technique for chart reading",
+        "slug": "major-planets-in-birth-chart",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "asset_img_manifest_with_moon_sign",
+      "type": "asset_image",
+      "label": "Manifest with Moon Sign Infographic",
+      "properties": {
+        "file_path": "/assets/img/posts/manifest-with-moon-sign/summary-infographic.jpg",
+        "depicts": "Combining Moon Phase (timing) with Moon Sign (quality of energy) for manifestation work",
+        "slug": "manifest-with-moon-sign",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "asset_img_modality_western_astrology_cover",
+      "type": "asset_image",
+      "label": "Modality in Western Astrology Cover",
+      "properties": {
+        "file_path": "/assets/img/posts/modality-western-astrology/cover.svg",
+        "depicts": "Cover image showing the three modalities Cardinal, Fixed, Mutable with a zodiac wheel and glowing moon background",
+        "slug": "modality-western-astrology",
+        "format": "svg"
+      }
+    },
+    {
+      "id": "asset_img_modality_western_astrology_infographic",
+      "type": "asset_image",
+      "label": "Modality in Western Astrology Infographic",
+      "properties": {
+        "file_path": "/assets/img/posts/modality-western-astrology/summary-infographic.jpg",
+        "depicts": "Summary infographic of the three modalities in Western astrology: Cardinal (initiating), Fixed (sustaining), Mutable (adapting)",
+        "slug": "modality-western-astrology",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "asset_img_moon_in_signs",
+      "type": "asset_image",
+      "label": "Moon in Signs Infographic",
+      "properties": {
+        "file_path": "/assets/img/posts/moon-in-signs/summary-infographic.jpg",
+        "depicts": "Moon in the 12 signs — how the Moon's sign placement reveals emotional needs, inner self, and subconscious responses",
+        "slug": "moon-in-signs",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "asset_img_moon_journal_prompts_by_phase_and_house",
+      "type": "asset_image",
+      "label": "Moon Journal Prompts by Phase and House Infographic",
+      "properties": {
+        "file_path": "/assets/img/posts/moon-journal-prompts-by-phase-and-house/summary-infographic.jpg",
+        "depicts": "Moon journal writing prompts for each Moon phase (New, Waxing, Full, Waning) and each house in the birth chart",
+        "slug": "moon-journal-prompts-by-phase-and-house",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "asset_img_moon_manifestation_by_house",
+      "type": "asset_image",
+      "label": "Moon Manifestation by House Infographic",
+      "properties": {
+        "file_path": "/assets/img/posts/moon-manifestation-by-house/summary-infographic.jpg",
+        "depicts": "Moon's house placement in birth chart activating specific life areas for manifestation work",
+        "slug": "moon-manifestation-by-house",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "asset_img_moon_phase_birth_chart",
+      "type": "asset_image",
+      "label": "Moon Phase Birth Chart Infographic",
+      "properties": {
+        "file_path": "/assets/img/posts/moon-phase-birth-chart/summary-infographic.jpg",
+        "depicts": "The 8 Moon phases in the birth chart and what each reveals about soul growth, emotional response patterns, and life lessons",
+        "slug": "moon-phase-birth-chart",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "asset_img_mystic_rectangle_basics",
+      "type": "asset_image",
+      "label": "Mystic Rectangle Basics Infographic",
+      "properties": {
+        "file_path": "/assets/img/posts/mystic-rectangle-basics/summary-infographic.jpg",
+        "depicts": "Mystic Rectangle aspect pattern — four planets forming a rectangle with both challenging oppositions and harmonious trines/sextiles",
+        "slug": "mystic-rectangle-basics",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "concept_domicile_and_detriment",
+      "type": "astrology_concept",
+      "label": "Domicile and Detriment",
+      "properties": {
+        "category": "essential_dignity",
+        "summary": "Domicile: planet in own sign (at home). Detriment: planet in opposite sign (exiled). Part of sign rulership system."
+      }
+    },
+    {
+      "id": "concept_exaltation_and_fall",
+      "type": "astrology_concept",
+      "label": "Exaltation and Fall",
+      "properties": {
+        "category": "essential_dignity",
+        "summary": "Exaltation: planet in sign where it is elevated/honored. Fall: planet in opposite sign where its power is not supported."
+      }
+    },
+    {
+      "id": "concept_modality_cardinal_fixed_mutable",
+      "type": "astrology_concept",
+      "label": "Modality: Cardinal Fixed Mutable",
+      "properties": {
+        "category": "zodiac_classification",
+        "summary": "Three modalities: Cardinal (initiating/leading), Fixed (sustaining/stabilizing), Mutable (adapting/transitioning). Describes how energy moves."
+      }
+    },
+    {
+      "id": "concept_grand_trine",
+      "type": "astrology_concept",
+      "label": "Grand Trine",
+      "properties": {
+        "category": "aspect_pattern",
+        "summary": "Three planets all in trine (120°) to each other forming an equilateral triangle. Flowing talent and natural support system."
+      }
+    },
+    {
+      "id": "concept_kite",
+      "type": "astrology_concept",
+      "label": "Kite Aspect Pattern",
+      "properties": {
+        "category": "aspect_pattern",
+        "summary": "Grand Trine base with a fourth planet opposing one point and sextile/trine the others. Gives the talent triangle direction."
+      }
+    },
+    {
+      "id": "concept_mystic_rectangle",
+      "type": "astrology_concept",
+      "label": "Mystic Rectangle",
+      "properties": {
+        "category": "aspect_pattern",
+        "summary": "Four planets forming two oppositions and two trines/sextiles creating a rectangle. Tension with built-in harmonization channels."
+      }
+    },
+    {
+      "id": "concept_moon_phase",
+      "type": "astrology_concept",
+      "label": "Moon Phase",
+      "properties": {
+        "category": "lunar_cycle",
+        "summary": "The phase of the Moon at birth determined by Sun-Moon angular distance. Reveals emotional response style and soul growth pattern."
+      }
+    },
+    {
+      "id": "concept_moon_sign",
+      "type": "astrology_concept",
+      "label": "Moon Sign",
+      "properties": {
+        "category": "lunar_astrology",
+        "summary": "The zodiac sign the Moon occupies. Reveals emotional nature, subconscious needs, inner self, and how one seeks security."
+      }
+    },
+    {
+      "id": "concept_moon_house",
+      "type": "astrology_concept",
+      "label": "Moon House",
+      "properties": {
+        "category": "lunar_astrology",
+        "summary": "The house the Moon occupies in the birth chart. Shows which life area the Moon's emotional energy is activated in."
+      }
+    },
+    {
+      "id": "concept_tithi",
+      "type": "astrology_concept",
+      "label": "Tithi (Lunar Day)",
+      "properties": {
+        "category": "lunar_cycle",
+        "summary": "Tithi is the angular distance between Sun and Moon divided by 12 degrees. Each of 30 tithis represents a distinct quality of the Sun-Moon relationship."
+      }
+    },
+    {
+      "id": "concept_dominant_planet",
+      "type": "astrology_concept",
+      "label": "Dominant Planet / Chart Key Planet",
+      "properties": {
+        "category": "chart_interpretation",
+        "summary": "The planet emphasized by multiple criteria (angular, chart ruler, apex, isolated, heavy aspected). The 'key' to the birth chart."
+      }
+    },
+    {
+      "id": "concept_house_rulership",
+      "type": "astrology_concept",
+      "label": "House Rulership",
+      "properties": {
+        "category": "chart_interpretation",
+        "summary": "Each planet rules specific houses. A planet brings its house topics into focus wherever it is placed and whenever it receives aspects."
+      }
+    },
+    {
+      "id": "concept_eastern_western_hemisphere",
+      "type": "astrology_concept",
+      "label": "Eastern vs Western Hemisphere",
+      "properties": {
+        "category": "chart_interpretation",
+        "summary": "Eastern (left, houses 1-6): self-initiated, independent. Western (right, houses 7-12): growth through others, relationships, external events."
+      }
+    },
+    {
+      "id": "concept_life_purpose_houses",
+      "type": "astrology_concept",
+      "label": "Life Purpose Houses / Purusharthas",
+      "properties": {
+        "category": "chart_interpretation",
+        "summary": "The 12 houses grouped by Purusharthas: Dharma (1-3), Artha (4-6), Kama (7-9), Moksha (10-12). Reveals life purpose and growth direction."
+      }
+    },
+    {
+      "id": "concept_moon_manifestation",
+      "type": "astrology_concept",
+      "label": "Moon Manifestation",
+      "properties": {
+        "category": "lunar_astrology",
+        "summary": "Using Moon Phase (timing), Moon Sign (quality), and Moon House (life area) together for aligned intention-setting and ritual work."
+      }
+    },
+    {
+      "id": "concept_full_moon_release",
+      "type": "astrology_concept",
+      "label": "Full Moon Release",
+      "properties": {
+        "category": "lunar_ritual",
+        "summary": "Full Moon as a time for release and letting go of what has served its purpose. Practice varies by zodiac sign of the Full Moon."
+      }
+    },
+    {
+      "id": "concept_moon_journal",
+      "type": "astrology_concept",
+      "label": "Moon Journal",
+      "properties": {
+        "category": "lunar_practice",
+        "summary": "Journaling practice aligned with Moon phases and houses to track emotional patterns, intentions, and personal growth cycles."
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "asset_img_domicile_and_detriment",
+      "target": "concept_domicile_and_detriment",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_exaltation_and_fall",
+      "target": "concept_exaltation_and_fall",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_fall_in_astrology",
+      "target": "concept_exaltation_and_fall",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_from_major_planet_to_major_house_topics",
+      "target": "concept_dominant_planet",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_from_major_planet_to_major_house_topics",
+      "target": "concept_house_rulership",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_full_moon_release_by_sign",
+      "target": "concept_full_moon_release",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_full_moon_release_by_sign",
+      "target": "concept_moon_sign",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_grand_trine_basics",
+      "target": "concept_grand_trine",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_grand_trine_house_cycles",
+      "target": "concept_grand_trine",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_how_to_calculate_tithi",
+      "target": "concept_tithi",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_how_to_find_moon_phase",
+      "target": "concept_moon_phase",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_how_to_manifest_with_moon_phase",
+      "target": "concept_moon_manifestation",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_how_to_manifest_with_moon_phase",
+      "target": "concept_moon_phase",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_kite_basics",
+      "target": "concept_kite",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_left_right_hemisphere",
+      "target": "concept_eastern_western_hemisphere",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_life_purpose_houses",
+      "target": "concept_life_purpose_houses",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_major_planets_in_birth_chart",
+      "target": "concept_dominant_planet",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_manifest_with_moon_sign",
+      "target": "concept_moon_manifestation",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_manifest_with_moon_sign",
+      "target": "concept_moon_sign",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_modality_western_astrology_cover",
+      "target": "concept_modality_cardinal_fixed_mutable",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_modality_western_astrology_infographic",
+      "target": "concept_modality_cardinal_fixed_mutable",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_moon_in_signs",
+      "target": "concept_moon_sign",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_moon_journal_prompts_by_phase_and_house",
+      "target": "concept_moon_journal",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_moon_journal_prompts_by_phase_and_house",
+      "target": "concept_moon_phase",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_moon_manifestation_by_house",
+      "target": "concept_moon_manifestation",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_moon_manifestation_by_house",
+      "target": "concept_moon_house",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_moon_phase_birth_chart",
+      "target": "concept_moon_phase",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "asset_img_mystic_rectangle_basics",
+      "target": "concept_mystic_rectangle",
+      "relation": "depicts_concept"
+    },
+    {
+      "source": "concept_domicile_and_detriment",
+      "target": "concept_exaltation_and_fall",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept_kite",
+      "target": "concept_grand_trine",
+      "relation": "builds_upon"
+    },
+    {
+      "source": "concept_mystic_rectangle",
+      "target": "concept_grand_trine",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept_moon_phase",
+      "target": "concept_tithi",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept_moon_manifestation",
+      "target": "concept_moon_phase",
+      "relation": "uses_concept"
+    },
+    {
+      "source": "concept_moon_manifestation",
+      "target": "concept_moon_sign",
+      "relation": "uses_concept"
+    },
+    {
+      "source": "concept_moon_manifestation",
+      "target": "concept_moon_house",
+      "relation": "uses_concept"
+    },
+    {
+      "source": "concept_full_moon_release",
+      "target": "concept_moon_manifestation",
+      "relation": "part_of"
+    },
+    {
+      "source": "concept_moon_journal",
+      "target": "concept_moon_phase",
+      "relation": "uses_concept"
+    },
+    {
+      "source": "concept_moon_journal",
+      "target": "concept_moon_house",
+      "relation": "uses_concept"
+    },
+    {
+      "source": "concept_dominant_planet",
+      "target": "concept_house_rulership",
+      "relation": "relates_to"
+    },
+    {
+      "source": "concept_life_purpose_houses",
+      "target": "concept_eastern_western_hemisphere",
+      "relation": "related_to"
+    }
+  ]
+}

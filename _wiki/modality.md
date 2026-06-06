@@ -16,6 +16,10 @@ related:
     url: /wiki/zodiac-signs/
   - title: Weighted Chart Scoring
     url: /wiki/weighted-chart-scoring/
+  - title: Essential Dignity
+    url: /wiki/essential-dignity/
+  - title: Life Purpose Houses
+    url: /wiki/life-purpose-houses/
   - title: Donald Trump Chart Case Study
     url: /wiki/donald-trump-chart-case-study/
 layout: wiki
@@ -33,7 +37,7 @@ Modality อธิบายว่าพลังของราศีเคล�
 
 ## การใช้ในดวงชะตา
 
-Modality ช่วยดูว่าดวงมีแนวโน้มเริ่ม คงไว้ หรือปรับตัว คำถามสำคัญไม่ใช่แค่ว่า modality ใดได้คะแนนมากที่สุด แต่ต้องดูด้วยว่า modality นั้นไปอยู่ตรงไหน เช่น ดวงสว่าง ลัคนา ดาวส่วนตัว จุดมุม หรือดาวช้า
+Modality ช่วยดูว่าดวงมีแนวโน้มเริ่ม คงไว้ หรือปรับตัว การประเมิน modality ควรใช้ร่วมกับ [essential dignity]({{ '/wiki/essential-dignity/' | relative_url }}) เพราะทั้งสองต่างบอกคนละมิติของสภาพดาว คำถามสำคัญไม่ใช่แค่ว่า modality ใดได้คะแนนมากที่สุด แต่ต้องดูด้วยว่า modality นั้นไปอยู่ตรงไหน เช่น ดวงสว่าง ลัคนา ดาวส่วนตัว จุดมุม หรือดาวช้า
 
 ## ความสัมพันธ์กับธาตุ
 

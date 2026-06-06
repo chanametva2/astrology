@@ -16,6 +16,14 @@ related:
     url: /wiki/sign-rulership/
   - title: Astrology as Symbolic Language
     url: /wiki/astrology-as-symbolic-language/
+  - title: อาทิตย์ จันทร์ และลัคนาในราศี
+    url: /wiki/sun-moon-asc/
+  - title: Primal Triad
+    url: /wiki/primal-triad/
+  - title: Houses
+    url: /wiki/houses/
+  - title: Essential Dignity
+    url: /wiki/essential-dignity/
 layout: wiki
 ---
 

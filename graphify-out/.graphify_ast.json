@@ -1,0 +1,967 @@
+{
+  "nodes": [
+    {
+      "id": "devcontainer_devcontainer",
+      "label": "devcontainer.json",
+      "file_type": "code",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "devcontainer_devcontainer_name",
+      "label": "name",
+      "file_type": "code",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "devcontainer_devcontainer_image",
+      "label": "image",
+      "file_type": "code",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "devcontainer_devcontainer_oncreatecommand",
+      "label": "onCreateCommand",
+      "file_type": "code",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "devcontainer_devcontainer_postcreatecommand",
+      "label": "postCreateCommand",
+      "file_type": "code",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L5"
+    },
+    {
+      "id": "devcontainer_devcontainer_customizations",
+      "label": "customizations",
+      "file_type": "code",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L6"
+    },
+    {
+      "id": "devcontainer_devcontainer_customizations_vscode",
+      "label": "vscode",
+      "file_type": "code",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L7"
+    },
+    {
+      "id": "devcontainer_devcontainer_vscode_settings",
+      "label": "settings",
+      "file_type": "code",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L8"
+    },
+    {
+      "id": "devcontainer_devcontainer_settings_terminal_integrated_defaultprofile_linux",
+      "label": "terminal.integrated.defaultProfile.linux",
+      "file_type": "code",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L9"
+    },
+    {
+      "id": "devcontainer_devcontainer_vscode_extensions",
+      "label": "extensions",
+      "file_type": "code",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L11"
+    },
+    {
+      "id": "devcontainer_post_create",
+      "label": "post-create.sh",
+      "file_type": "code",
+      "source_file": ".devcontainer/post-create.sh",
+      "source_location": "L1",
+      "metadata": {
+        "language": "bash",
+        "kind": "file"
+      }
+    },
+    {
+      "id": "c_users_chana_onedrive_thammasat_university_github_astrology_devcontainer_post_create_sh__entry",
+      "label": "post-create.sh script",
+      "file_type": "code",
+      "source_file": ".devcontainer/post-create.sh",
+      "source_location": "L1",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_entrypoint"
+      }
+    },
+    {
+      "id": "vscode_extensions",
+      "label": "extensions.json",
+      "file_type": "code",
+      "source_file": ".vscode/extensions.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "vscode_extensions_recommendations",
+      "label": "recommendations",
+      "file_type": "code",
+      "source_file": ".vscode/extensions.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "vscode_settings",
+      "label": "settings.json",
+      "file_type": "code",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "vscode_settings_editor_defaultformatter",
+      "label": "editor.defaultFormatter",
+      "file_type": "code",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "vscode_settings_editor_formatonsave",
+      "label": "editor.formatOnSave",
+      "file_type": "code",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "vscode_settings_files_associations",
+      "label": "files.associations",
+      "file_type": "code",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L6"
+    },
+    {
+      "id": "vscode_settings_files_associations_html",
+      "label": "*.html",
+      "file_type": "code",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L7"
+    },
+    {
+      "id": "vscode_settings_markdown",
+      "label": "[markdown]",
+      "file_type": "code",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L9"
+    },
+    {
+      "id": "vscode_settings_markdown_editor_defaultformatter",
+      "label": "editor.defaultFormatter",
+      "file_type": "code",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L10"
+    },
+    {
+      "id": "vscode_settings_html_liquid",
+      "label": "[html][liquid]",
+      "file_type": "code",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L13"
+    },
+    {
+      "id": "vscode_settings_html_liquid_editor_defaultformatter",
+      "label": "editor.defaultFormatter",
+      "file_type": "code",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L14"
+    },
+    {
+      "id": "vscode_settings_shellscript",
+      "label": "[shellscript]",
+      "file_type": "code",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L16"
+    },
+    {
+      "id": "vscode_settings_shellscript_editor_defaultformatter",
+      "label": "editor.defaultFormatter",
+      "file_type": "code",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L17"
+    },
+    {
+      "id": "vscode_settings_css_validate",
+      "label": "css.validate",
+      "file_type": "code",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L20"
+    },
+    {
+      "id": "vscode_settings_scss_validate",
+      "label": "scss.validate",
+      "file_type": "code",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L21"
+    },
+    {
+      "id": "vscode_settings_less_validate",
+      "label": "less.validate",
+      "file_type": "code",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L22"
+    },
+    {
+      "id": "vscode_settings_stylelint_snippet",
+      "label": "stylelint.snippet",
+      "file_type": "code",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L24"
+    },
+    {
+      "id": "vscode_settings_stylelint_validate",
+      "label": "stylelint.validate",
+      "file_type": "code",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L25"
+    },
+    {
+      "id": "vscode_settings_terminal_integrated_profiles_osx",
+      "label": "terminal.integrated.profiles.osx",
+      "file_type": "code",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L27"
+    },
+    {
+      "id": "vscode_settings_terminal_integrated_profiles_osx_zsh",
+      "label": "zsh",
+      "file_type": "code",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L28"
+    },
+    {
+      "id": "vscode_settings_zsh_path",
+      "label": "path",
+      "file_type": "code",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L28"
+    },
+    {
+      "id": "vscode_settings_zsh_args",
+      "label": "args",
+      "file_type": "code",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L28"
+    },
+    {
+      "id": "vscode_tasks",
+      "label": "tasks.json",
+      "file_type": "code",
+      "source_file": ".vscode/tasks.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "vscode_tasks_version",
+      "label": "version",
+      "file_type": "code",
+      "source_file": ".vscode/tasks.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "vscode_tasks_tasks",
+      "label": "tasks",
+      "file_type": "code",
+      "source_file": ".vscode/tasks.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "plugins_posts_lastmod_hook",
+      "label": "posts-lastmod-hook.rb",
+      "file_type": "code",
+      "source_file": "_plugins/posts-lastmod-hook.rb",
+      "source_location": "L1"
+    },
+    {
+      "id": "knowledge_graph_chunk_1",
+      "label": "knowledge_graph_chunk_1.json",
+      "file_type": "code",
+      "source_file": "knowledge_graph_chunk_1.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "knowledge_graph_chunk_1_nodes",
+      "label": "nodes",
+      "file_type": "code",
+      "source_file": "knowledge_graph_chunk_1.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "knowledge_graph_chunk_1_edges",
+      "label": "edges",
+      "file_type": "code",
+      "source_file": "knowledge_graph_chunk_1.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "knowledge_graph_chunk_1_hyperedges",
+      "label": "hyperedges",
+      "file_type": "code",
+      "source_file": "knowledge_graph_chunk_1.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "tools_run",
+      "label": "run.sh",
+      "file_type": "code",
+      "source_file": "tools/run.sh",
+      "source_location": "L1",
+      "metadata": {
+        "language": "bash",
+        "kind": "file"
+      }
+    },
+    {
+      "id": "c_users_chana_onedrive_thammasat_university_github_astrology_tools_run_sh__entry",
+      "label": "run.sh script",
+      "file_type": "code",
+      "source_file": "tools/run.sh",
+      "source_location": "L1",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_entrypoint"
+      }
+    },
+    {
+      "id": "tools_run_help",
+      "label": "help()",
+      "file_type": "code",
+      "source_file": "tools/run.sh",
+      "source_location": "L9",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_function"
+      }
+    },
+    {
+      "id": "tools_test",
+      "label": "test.sh",
+      "file_type": "code",
+      "source_file": "tools/test.sh",
+      "source_location": "L1",
+      "metadata": {
+        "language": "bash",
+        "kind": "file"
+      }
+    },
+    {
+      "id": "c_users_chana_onedrive_thammasat_university_github_astrology_tools_test_sh__entry",
+      "label": "test.sh script",
+      "file_type": "code",
+      "source_file": "tools/test.sh",
+      "source_location": "L1",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_entrypoint"
+      }
+    },
+    {
+      "id": "tools_test_help",
+      "label": "help()",
+      "file_type": "code",
+      "source_file": "tools/test.sh",
+      "source_location": "L17",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_function"
+      }
+    },
+    {
+      "id": "tools_test_read_baseurl",
+      "label": "read_baseurl()",
+      "file_type": "code",
+      "source_file": "tools/test.sh",
+      "source_location": "L29",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_function"
+      }
+    },
+    {
+      "id": "tools_test_main",
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "tools/test.sh",
+      "source_location": "L51",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_function"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "devcontainer_devcontainer",
+      "target": "devcontainer_devcontainer_name",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "devcontainer_devcontainer",
+      "target": "devcontainer_devcontainer_image",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "devcontainer_devcontainer",
+      "target": "devcontainer_devcontainer_oncreatecommand",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "devcontainer_devcontainer",
+      "target": "devcontainer_devcontainer_postcreatecommand",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "devcontainer_devcontainer",
+      "target": "devcontainer_devcontainer_customizations",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "devcontainer_devcontainer_customizations",
+      "target": "devcontainer_devcontainer_customizations_vscode",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "devcontainer_devcontainer_customizations_vscode",
+      "target": "devcontainer_devcontainer_vscode_settings",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "devcontainer_devcontainer_vscode_settings",
+      "target": "devcontainer_devcontainer_settings_terminal_integrated_defaultprofile_linux",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "devcontainer_devcontainer_customizations_vscode",
+      "target": "devcontainer_devcontainer_vscode_extensions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "devcontainer_devcontainer_vscode_extensions",
+      "target": "ref_killalau_vscode_liquid_snippets",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "devcontainer_devcontainer_vscode_extensions",
+      "target": "ref_shopify_theme_check_vscode",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "devcontainer_devcontainer_vscode_extensions",
+      "target": "ref_timonwong_shellcheck",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "devcontainer_devcontainer_vscode_extensions",
+      "target": "ref_mkhl_shfmt",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "devcontainer_devcontainer_vscode_extensions",
+      "target": "ref_editorconfig_editorconfig",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "devcontainer_devcontainer_vscode_extensions",
+      "target": "ref_esbenp_prettier_vscode",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "devcontainer_devcontainer_vscode_extensions",
+      "target": "ref_stylelint_vscode_stylelint",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "devcontainer_devcontainer_vscode_extensions",
+      "target": "ref_yzhang_markdown_all_in_one",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "devcontainer_devcontainer_vscode_extensions",
+      "target": "ref_mhutchie_git_graph",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": ".devcontainer/devcontainer.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "devcontainer_post_create",
+      "target": "c_users_chana_onedrive_thammasat_university_github_astrology_devcontainer_post_create_sh__entry",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".devcontainer/post-create.sh",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "vscode_extensions",
+      "target": "vscode_extensions_recommendations",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/extensions.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "vscode_extensions_recommendations",
+      "target": "ref_ms_vscode_remote_remote_containers",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/extensions.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "vscode_settings",
+      "target": "vscode_settings_editor_defaultformatter",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "vscode_settings",
+      "target": "vscode_settings_editor_formatonsave",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "vscode_settings",
+      "target": "vscode_settings_files_associations",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "vscode_settings_files_associations",
+      "target": "vscode_settings_files_associations_html",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "vscode_settings",
+      "target": "vscode_settings_markdown",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "vscode_settings_markdown",
+      "target": "vscode_settings_markdown_editor_defaultformatter",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "vscode_settings",
+      "target": "vscode_settings_html_liquid",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "vscode_settings_html_liquid",
+      "target": "vscode_settings_html_liquid_editor_defaultformatter",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "vscode_settings",
+      "target": "vscode_settings_shellscript",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "vscode_settings_shellscript",
+      "target": "vscode_settings_shellscript_editor_defaultformatter",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "vscode_settings",
+      "target": "vscode_settings_css_validate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "vscode_settings",
+      "target": "vscode_settings_scss_validate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "vscode_settings",
+      "target": "vscode_settings_less_validate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "vscode_settings",
+      "target": "vscode_settings_stylelint_snippet",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "vscode_settings_stylelint_snippet",
+      "target": "ref_css",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "vscode_settings_stylelint_snippet",
+      "target": "ref_scss",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "vscode_settings",
+      "target": "vscode_settings_stylelint_validate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "vscode_settings_stylelint_validate",
+      "target": "ref_css",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L25",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "vscode_settings_stylelint_validate",
+      "target": "ref_scss",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L25",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "vscode_settings",
+      "target": "vscode_settings_terminal_integrated_profiles_osx",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "vscode_settings_terminal_integrated_profiles_osx",
+      "target": "vscode_settings_terminal_integrated_profiles_osx_zsh",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "vscode_settings_terminal_integrated_profiles_osx_zsh",
+      "target": "vscode_settings_zsh_path",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "vscode_settings_terminal_integrated_profiles_osx_zsh",
+      "target": "vscode_settings_zsh_args",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "vscode_settings_zsh_args",
+      "target": "ref_l",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L28",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "vscode_settings_zsh_args",
+      "target": "ref_i",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L28",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "vscode_tasks",
+      "target": "vscode_tasks_version",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/tasks.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "vscode_tasks",
+      "target": "vscode_tasks_tasks",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/tasks.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "knowledge_graph_chunk_1",
+      "target": "knowledge_graph_chunk_1_nodes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "knowledge_graph_chunk_1.json",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "knowledge_graph_chunk_1",
+      "target": "knowledge_graph_chunk_1_edges",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "knowledge_graph_chunk_1.json",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "knowledge_graph_chunk_1",
+      "target": "knowledge_graph_chunk_1_hyperedges",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "knowledge_graph_chunk_1.json",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "tools_run",
+      "target": "c_users_chana_onedrive_thammasat_university_github_astrology_tools_run_sh__entry",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tools/run.sh",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "tools_run",
+      "target": "tools_run_help",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "source_file": "tools/run.sh",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "c_users_chana_onedrive_thammasat_university_github_astrology_tools_run_sh__entry",
+      "target": "tools_run_help",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "tools/run.sh",
+      "source_location": "L32",
+      "weight": 1.0,
+      "context": "call"
+    },
+    {
+      "source": "tools_test",
+      "target": "c_users_chana_onedrive_thammasat_university_github_astrology_tools_test_sh__entry",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tools/test.sh",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "tools_test",
+      "target": "tools_test_help",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "source_file": "tools/test.sh",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "tools_test",
+      "target": "tools_test_read_baseurl",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "source_file": "tools/test.sh",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "tools_test",
+      "target": "tools_test_main",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "source_file": "tools/test.sh",
+      "source_location": "L51",
+      "weight": 1.0
+    },
+    {
+      "source": "c_users_chana_onedrive_thammasat_university_github_astrology_tools_test_sh__entry",
+      "target": "tools_test_help",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "tools/test.sh",
+      "source_location": "L78",
+      "weight": 1.0,
+      "context": "call"
+    },
+    {
+      "source": "c_users_chana_onedrive_thammasat_university_github_astrology_tools_test_sh__entry",
+      "target": "tools_test_main",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "tools/test.sh",
+      "source_location": "L89",
+      "weight": 1.0,
+      "context": "call"
+    },
+    {
+      "source": "tools_test_main",
+      "target": "tools_test_read_baseurl",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "tools/test.sh",
+      "source_location": "L57",
+      "weight": 1.0,
+      "context": "call"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

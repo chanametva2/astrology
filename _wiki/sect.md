@@ -10,6 +10,10 @@ related:
     url: /wiki/essential-dignity/
   - title: Natal Chart Reading
     url: /wiki/natal-chart-reading/
+  - title: Houses
+    url: /wiki/houses/
+  - title: ดิถี (Tithi)
+    url: /wiki/tithi/
 layout: wiki
 ---
 

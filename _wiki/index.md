@@ -26,6 +26,7 @@ permalink: /wiki/index/
 - [Sect (ดวงกลางวัน/กลางคืน)]({{ '/wiki/sect/' | relative_url }}): การแบ่งดวงตามตำแหน่ง Sun และผลต่อกำลังดาว
 - [Primal Triad (Big Three)]({{ '/wiki/primal-triad/' | relative_url }}): 3 แกนหลัก Sun Moon Ascendant
 - [อาทิตย์ จันทร์ และลัคนาในราศี]({{ '/wiki/sun-moon-asc/' | relative_url }}): การตีความ Sun Moon Asc ใน 12 ราศี
+- [ดิถี (Tithi)]({{ '/wiki/tithi/' | relative_url }}): จังหวะย่อยของวัฏจักร Sun-Moon ที่เชื่อม Moon phase ข้างขึ้น-ข้างแรม ราศี เรือน และ aspect เข้าด้วยกัน
 - [พลูโตเจนเนอเรชัน]({{ '/wiki/pluto-generations/' | relative_url }}): ภารกิจร่วมของรุ่นผ่านตำแหน่ง Pluto
 - [ดาวสันโดษ (Singleton Planet)]({{ '/wiki/singleton-planets/' | relative_url }}): ดาวที่แยกตัวเด่นและกลายเป็นเสียงดังที่สุดของดวง
 - [เรือนชะตา]({{ '/wiki/houses/' | relative_url }}): House หรือเรือนชะตาบอกว่าพลังของดาวไปเกิดในเรื่องใดของชีวิต
