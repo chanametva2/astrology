@@ -2,7 +2,7 @@
 title: Moon Manifestation Worksheet
 date: 2026-06-06 20:20:00 +0700
 categories: [Astrology]
-tags: [Moon, Worksheet, Manifestation, Journal, New Moon, Full Moon]
+tags: [moon, worksheet, manifestation, journal, new-moon, full-moon]
 image:
   path: /assets/img/posts/moon-manifestation-worksheet/summary-infographic.jpg
 order: 71

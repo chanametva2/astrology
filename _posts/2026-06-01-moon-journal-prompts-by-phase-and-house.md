@@ -3,7 +3,7 @@ title: "Moon Journal Prompts for Every Phase and House: คำถามเขี
 order: 70
 date: 2026-06-01 14:48:00 +0700
 categories: [Astrology]
-tags: [Moon Journal, Moon Phase, Moon House, Writing Prompts, Self-Reflection, Manifestation]
+tags: [moon-journal, moon-phase, moon-house, writing-prompts, self-reflection, manifestation]
 image:
   path: /assets/img/posts/moon-journal-prompts-by-phase-and-house/summary-infographic.jpg
   alt: Moon Journal Prompts for Every Phase and House — คำถามเขียนบันทึกตามเฟสจันทร์และเรือนในดวงกำเนิด

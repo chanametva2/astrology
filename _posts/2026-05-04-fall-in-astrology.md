@@ -3,7 +3,7 @@ title: "Fall ในโหราศาสตร์คืออะไร? เม�
 order: 13
 date: 2026-05-04 03:45:00 +0700
 categories: [Astrology]
-tags: [astrology, traditional astrology, fall, exaltation, essential dignity]
+tags: [astrology, traditional-astrology, fall, exaltation, essential-dignity]
 image:
   path: /assets/img/posts/fall-in-astrology/summary-infographic.jpg
   alt: Fall in Astrology ในโหราศาสตร์ตะวันตก

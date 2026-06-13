@@ -2,7 +2,7 @@
 title: ตัวอย่างการใช้ Moon Manifestation Worksheet
 date: 2026-06-06 20:18:00 +0700
 categories: [Astrology]
-tags: [Moon, Worksheet, Examples, New Moon, Full Moon, House, Manifestation]
+tags: [moon, worksheet, examples, new-moon, full-moon, house, manifestation]
 image:
   path: /assets/img/posts/moon-manifestation-worksheet-examples/summary-infographic.jpg
 order: 72

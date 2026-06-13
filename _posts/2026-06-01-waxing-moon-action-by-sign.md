@@ -3,7 +3,7 @@ title: "Waxing Moon Action by Sign: หลังตั้งเจตนาแ�
 order: 67
 date: 2026-06-01 14:40:00 +0700
 categories: [Astrology]
-tags: [Waxing Moon, Moon Phase, Action, Manifestation, Moon Sign]
+tags: [waxing-moon, moon-phase, action, manifestation, moon-sign]
 image:
   path: /assets/img/posts/waxing-moon-action-by-sign/summary-infographic.jpg
   alt: Waxing Moon Action by Sign — หลังตั้งเจตนาแล้ว ควรลงมือทำอย่างไรตามราศีจันทร์

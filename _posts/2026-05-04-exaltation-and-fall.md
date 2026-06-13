@@ -3,7 +3,7 @@ title: "Exaltation และ Fall คืออะไร? อ่านต่อ�
 order: 12
 date: 2026-05-04 02:20:00 +0700
 categories: [Astrology]
-tags: [astrology, traditional astrology, exaltation, fall, essential dignity]
+tags: [astrology, traditional-astrology, exaltation, fall, essential-dignity]
 image:
   path: /assets/img/posts/exaltation-and-fall/summary-infographic.jpg
   alt: Exaltation และ Fall ในโหราศาสตร์ตะวันตก

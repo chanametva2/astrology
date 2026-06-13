@@ -3,7 +3,7 @@ title: "Waning Moon Release by Sign: ข้างแรมคือช่วง�
 order: 68
 date: 2026-06-01 14:45:00 +0700
 categories: [Astrology]
-tags: [Waning Moon, Moon Phase, Release, Letting Go, Moon Sign]
+tags: [waning-moon, moon-phase, release, letting-go, moon-sign]
 image:
   path: /assets/img/posts/waning-moon-release-by-sign/summary-infographic.jpg
   alt: Waning Moon Release by Sign — ข้างแรมคือช่วงลด เคลียร์ ปรับ และเตรียมเริ่มใหม่

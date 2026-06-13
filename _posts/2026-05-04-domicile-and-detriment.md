@@ -3,7 +3,7 @@ title: "Domicile และ Detriment คืออะไร? อ่านต่�
 order: 11
 date: 2026-05-04 02:10:00 +0700
 categories: [Astrology]
-tags: [astrology, traditional astrology, domicile, detriment, rulership]
+tags: [astrology, traditional-astrology, domicile, detriment, rulership]
 image:
   path: /assets/img/posts/domicile-and-detriment/summary-infographic.jpg
   alt: Domicile และ Detriment ในโหราศาสตร์ตะวันตก

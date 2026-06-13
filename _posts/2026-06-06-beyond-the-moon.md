@@ -2,7 +2,7 @@
 title: Beyond the Moon
 date: 2026-06-06 20:24:00 +0700
 categories: [Astrology]
-tags: [Moon, Solar Return, Annual Profection, Planning, Long-term, Manifestation]
+tags: [moon, solar-return, annual-profection, planning, long-term, manifestation]
 image:
   path: /assets/img/posts/beyond-the-moon/summary-infographic.jpg
 order: 74

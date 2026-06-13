@@ -3,7 +3,7 @@ title: "Moon Manifestation by House: เมื่อดวงจันทร์�
 order: 69
 date: 2026-06-01 14:46:00 +0700
 categories: [Astrology]
-tags: [Moon House, Moon Sign, Moon Phase, Manifestation, Astrology]
+tags: [moon-house, moon-sign, moon-phase, manifestation, astrology]
 image:
   path: /assets/img/posts/moon-manifestation-by-house/summary-infographic.jpg
   alt: Moon Manifestation by House — เมื่อดวงจันทร์บอกว่าพื้นที่ชีวิตด้านใดกำลังถูกเปิดใช้งาน

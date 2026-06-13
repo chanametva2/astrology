@@ -2,7 +2,7 @@
 title: Solar Return for Life Planning
 date: 2026-06-10 12:25:00 +0700
 categories: [Astrology]
-tags: [Solar Return, Annual Profection, Yearly Theme, Planning, Life Planning]
+tags: [solar-return, annual-profection, yearly-theme, planning, life-planning]
 image:
   path: /assets/img/posts/solar-return-for-life-planning/summary-infographic.jpg
 order: 77

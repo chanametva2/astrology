@@ -2,7 +2,7 @@
 title: Moon Manifestation Calendar
 date: 2026-06-06 20:21:00 +0700
 categories: [Astrology]
-tags: [Moon, Calendar, Planning, New Moon, Full Moon, Monthly, Manifestation]
+tags: [moon, calendar, planning, new-moon, full-moon, monthly, manifestation]
 image:
   path: /assets/img/posts/moon-manifestation-calendar/summary-infographic.jpg
 order: 73

@@ -5,11 +5,13 @@
 - `_config.yml`: `baseurl: "/astrology"` — all internal links must include this prefix; `timezone: Asia/Bangkok`; `theme_mode: dark`.
 - GitHub Pages via GitHub Actions (`url: "https://chanametva2.github.io"`).
 - CI: Ruby 3.4 on ubuntu-latest; `actions/checkout@v6` with `fetch-depth: 0` (needed by `posts-lastmod-hook.rb`). Deploys on pushes to `main`/`master`, ignores `.gitignore`, `README.md`, `LICENSE` changes.
-- `Gemfile.lock`, `.bundle/`, `_site/`, `.jekyll-cache/` are gitignored.
+- `Gemfile.lock`, `.bundle/`, `_site/`, `.jekyll-cache/`, `temp/` are gitignored.
+- `.bundle/config` sets `BUNDLE_WITHOUT: "test"` — html-proofer not installed locally by default.
+- Devcontainer available (`.devcontainer/devcontainer.json`) for containerized dev.
 
 ## Structure
-- `_posts/`: blog posts (74 total), `permalink: /posts/:title/`. Each post has `order:` field numbered chronologically (1–74).
-- `_wiki/`: persistent knowledge collection (20 pages), rendered under `/wiki/`. Layout `wiki`, front matter keys: `title`, `summary`, `tags`, `sources`, `related`.
+- `_posts/`: blog posts (77 total), `permalink: /posts/:title/`. Each post has `order:` field numbered chronologically (1–77).
+- `_wiki/`: persistent knowledge collection (22 pages, **Thai language**), rendered under `/wiki/`. Layout `wiki`, front matter keys: `title`, `summary`, `tags`, `sources`, `related`.
 - `_tabs/`: static pages (About, Archives, Categories, Tags).
 - `_layouts/`: overrides for `home.html` (shows `order` in post list) and `post.html` (shows `order` in post title) — copied from Chirpy gem and modified.
 - `_data/`: `contact.yml`, `share.yml` — Chirpy config.

@@ -2,7 +2,7 @@
 title: Lord of the Year
 date: 2026-06-10 12:20:00 +0700
 categories: [Astrology]
-tags: [Lord of the Year, Annual Profection, Yearly Theme, Planning, Time Lord]
+tags: [lord-of-the-year, annual-profection, yearly-theme, planning, time-lord]
 image:
   path: /assets/img/posts/lord-of-the-year/summary-infographic.jpg
 order: 76

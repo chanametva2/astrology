@@ -3,7 +3,7 @@ title: "Symmetry of Ruler: เมื่อดาวเจ้าเรือน�
 order: 10
 date: 2026-05-04 02:00:00 +0700
 categories: [Astrology]
-tags: [astrology, traditional astrology, rulership, ptolemy, zodiac]
+tags: [astrology, traditional-astrology, rulership, ptolemy, zodiac]
 image:
   path: /assets/img/posts/symmetry-of-ruler/summary-infographic.jpg
   alt: Symmetry of ruler ในระบบดาวเจ้าเรือนแบบดั้งเดิม

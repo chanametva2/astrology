@@ -2,7 +2,7 @@
 title: Annual Profection for Beginners
 date: 2026-06-10 12:15:00 +0700
 categories: [Astrology]
-tags: [Annual Profection, Lord of the Year, Planning, Yearly Theme, Beginner]
+tags: [annual-profection, lord-of-the-year, planning, yearly-theme, beginner]
 image:
   path: /assets/img/posts/annual-profection-for-beginners/summary-infographic.jpg
 order: 75
