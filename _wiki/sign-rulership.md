@@ -22,6 +22,8 @@ related:
     url: /wiki/natal-chart-reading/
   - title: Donald Trump Chart Case Study
     url: /wiki/donald-trump-chart-case-study/
+  - title: Annual Profection และดาวเจ้าปี
+    url: /wiki/annual-profection/
 layout: wiki
 ---
 

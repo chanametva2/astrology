@@ -36,6 +36,8 @@ related:
     url: /wiki/moon-manifestation/
   - title: ดาวสันโดษ (Singleton Planet)
     url: /wiki/singleton-planets/
+  - title: Annual Profection และดาวเจ้าปี
+    url: /wiki/annual-profection/
 layout: wiki
 ---
 

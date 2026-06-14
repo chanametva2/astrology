@@ -9,6 +9,13 @@ related:
 layout: wiki
 ---
 
+## 2026-06-14
+
+- เพิ่มหน้า `annual-profection.md`: สรุปแนวคิด Annual Profection (ระบบหาเรือนประจำปี), Lord of the Year (ดาวเจ้าปี), วิธีนับตามอายุ, และการอ่านร่วมกับ Solar Return
+- อัปเดต `index.md` เพิ่มรายการหน้า `Annual Profection และดาวเจ้าปี (Lord of the Year)`
+- อัปเดต cross-links ใน `houses.md`, `natal-chart-reading.md`, `moon-manifestation.md`, `sign-rulership.md`, `sect.md`: เพิ่ม related links ไปยัง annual-profection
+- อัปเดต `log.md` เพื่อบันทึกการ ingest หน้า Annual Profection
+
 ## 2026-06-06
 
 - เพิ่มหน้า `moon-manifestation.md`: สรุปชุดบทความ June เรื่อง Moon manifestation, Moon sign, Moon house, journaling, worksheet, calendar และกรอบรายเดือนเทียบกับการวางแผนรายปี

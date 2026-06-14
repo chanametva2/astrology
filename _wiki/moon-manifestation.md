@@ -38,6 +38,8 @@ related:
     url: /wiki/natal-chart-reading/
   - title: โหราศาสตร์ในฐานะภาษาสัญลักษณ์
     url: /wiki/astrology-as-symbolic-language/
+  - title: Annual Profection และดาวเจ้าปี
+    url: /wiki/annual-profection/
 layout: wiki
 ---
 

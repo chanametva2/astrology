@@ -60,6 +60,8 @@ related:
     url: /wiki/life-purpose-houses/
   - title: กรณีศึกษาดวง Donald Trump
     url: /wiki/donald-trump-chart-case-study/
+  - title: Annual Profection และดาวเจ้าปี
+    url: /wiki/annual-profection/
 layout: wiki
 ---
 

@@ -14,6 +14,8 @@ related:
     url: /wiki/houses/
   - title: ดิถี (Tithi)
     url: /wiki/tithi/
+  - title: Annual Profection และดาวเจ้าปี
+    url: /wiki/annual-profection/
 layout: wiki
 ---
 

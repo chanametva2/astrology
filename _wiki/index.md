@@ -34,6 +34,7 @@ permalink: /wiki/index/
 - [ภพกับเป้าหมายชีวิต]({{ '/wiki/life-purpose-houses/' | relative_url }}): ภพ 12 สะท้อนเป้าหมายชีวิต 4 ด้านผ่าน Dharma Artha Kama Moksha
 - [มุมสัมพันธ์ (Aspect)]({{ '/wiki/aspects/' | relative_url }}): ระยะองศาระหว่างดาวที่บอกว่าพลังสองชุดสัมพันธ์กันอย่างไร
 - [รูปแบบมุมสัมพันธ์ (Aspect Pattern)]({{ '/wiki/aspect-patterns/' | relative_url }}): รูปทรงจากมุมสัมพันธ์หลายเส้นที่กลายเป็นโครงเรื่องใหญ่ของดวง
+- [Annual Profection และดาวเจ้าปี]({{ '/wiki/annual-profection/' | relative_url }}): ระบบหาเรือนประจำปีตามอายุ เทคนิคบอกธีมชีวิตปีต่อปีผ่านการเปิดเรือนชะตาและ Lord of the Year
 
 ## หน้าวิกิทั้งหมด
 
