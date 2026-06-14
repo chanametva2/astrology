@@ -1,0 +1,78 @@
+---
+title: กรณีศึกษาดวง Donald Trump
+summary: กรณีศึกษาดวง Donald Trump ใช้ระบบให้น้ำหนักกับธาตุและ modality เพื่อแสดงว่าภาพรวมของดวงเปลี่ยนอย่างไรเมื่อจุดหลักได้รับน้ำหนักมากขึ้น
+tags: [astrology, case-study, donald-trump, elements, modality]
+sources:
+  - title: "ตัวอย่างการอ่านธาตุเด่นในดวงชะตา: เมื่อใช้ระบบให้น้ำหนักกับดวง Donald Trump"
+    url: /posts/trump-weighted-elements/
+  - title: "อ่านดวง Donald Trump ต่อจากธาตุ: Modality บอกอะไรผ่าน Cardinal, Fixed, Mutable"
+    url: /posts/trump-modality/
+  - title: "อ่านดวง Donald Trump ตอนที่ 3: ทำไมต้องกลับมาดูลัคนาก่อน"
+    url: /posts/trump-ascendant-chart-ruler/
+  - title: "อ่านดวง Donald Trump ตอนที่ 5: ใครคุมระบบของดวงนี้จริง ๆ เมื่อไล่ Dispositor Chain"
+    url: /posts/trump-dispositor-chain/
+related:
+  - title: Weighted Chart Scoring
+    url: /wiki/weighted-chart-scoring/
+  - title: Elements
+    url: /wiki/elements/
+  - title: Modality
+    url: /wiki/modality/
+  - title: Natal Chart Reading
+    url: /wiki/natal-chart-reading/
+  - title: Aspect Patterns
+    url: /wiki/aspect-patterns/
+  - title: Singleton Planets
+    url: /wiki/singleton-planets/
+layout: wiki
+---
+
+กรณีศึกษานี้ใช้ดวงกำเนิดของ Donald Trump เป็นตัวอย่างของการอ่านแบบให้น้ำหนัก ไม่ใช่การอ่านดวงทั้งผืนอย่างละเอียด แต่แยกเฉพาะคะแนนธาตุและ modality เพื่อสาธิตวิธี
+
+## ข้อมูลดวงที่ใช้ในบทความต้นทาง
+
+- วันที่: 14 June 1946
+- เวลา: 10:54 AM
+- สถานที่: New York, USA
+- ระบบเรือนในบทความธาตุ: Placidus
+
+## ธาตุแบบให้น้ำหนัก
+
+ตัวอย่างธาตุแบบให้น้ำหนักให้คะแนนสูงแก่ Sun, Moon และ Ascendant จากนั้นให้คะแนนลดลงกับดาวส่วนตัว/สังคม ดาว outer และ MC
+
+| ธาตุ | คะแนน | การตีความในชุดบทความ |
+| --- | ---: | --- |
+| ไฟ | 9 | โหมดนำของการปรากฏตัว แรงขับ การยืนยันตัว และการแสดงออก |
+| ลม | 7 | การสื่อสาร การเคลื่อน narrative และการตอบสนองทางสังคมหรือความคิดที่เด่น |
+| น้ำ | 6 | ชั้นอารมณ์ส่วนตัวใต้ภาพภายนอกแบบไฟ-ลม |
+| ดิน | 1 | ความนิ่ง ความเป็นขั้นตอน และเสถียรภาพแบบดินไม่ใช่โหมดธรรมชาติหลัก |
+
+สรุป: ไฟนำ ลมหนุน น้ำยังมีบทบาท และดินค่อนข้างอ่อนเมื่อเทียบกับธาตุอื่น
+
+## Modality แบบให้น้ำหนัก
+
+ตัวอย่าง modality ได้คะแนนเท่ากันทั้ง cardinal, fixed และ mutable คืออย่างละ 7 คะแนน ความหมายจึงไม่ได้อยู่ที่คะแนนรวมอย่างเดียว แต่อยู่ที่ modality นั้นไปอยู่ตรงไหนของดวง
+
+| Modality | Score | Placement emphasis |
+| --- | ---: | --- |
+| Mutable | 7 | Sun และ Moon เน้นการเปลี่ยน narrative และตอบสนองเร็ว |
+| Fixed | 7 | Ascendant, Mars, Pluto และ MC เน้น presence สาธารณะและแรงคงอยู่ |
+| Cardinal | 7 | ดาวปฏิบัติการหลายดวงเน้นการเริ่ม ผลัก และทำให้สถานการณ์เคลื่อน |
+
+สรุป: บทความต้นทางอธิบาย pattern นี้ว่า **shift + hold + push**
+
+## ลัคนาและ Chart Ruler
+
+Trump มีลัคนาราศีสิงห์ ทำให้ Sun (เจ้าเรือนสิงห์) เป็น chart ruler Sun อยู่ราศีเมถุนเรือน 10 ทำให้ตัวตนและภาพสาธารณะเชื่อมโยงกันอย่างแยกไม่ออก — การสื่อสาร ข้อมูล และการเคลื่อน narrative (เมถุน) กลายเป็นเครื่องมือสร้างสถานะทางสังคม (เรือน 10)
+
+ลัคนาสิงห์ยังทำให้การแสดงตัวและความโดดเด่นเป็นหัวใจของทั้งดวง Mars (เจ้าเรือนร่วมของสิงห์ในระบบเก่า) อยู่สิงห์ด้วย จึงเสริมแรงขับและการปะทะให้ออกทางบุคลิกภาพโดยตรง
+
+## Dispositor Chain
+
+เมื่อไล่ [dispositor chain]({{ '/posts/trump-dispositor-chain/' | relative_url }}) ในดวงนี้ พบว่าพลังส่วนใหญ่ไหลกลับไปหา Mercury (เจ้าเรือนเมถุน) ซึ่งเป็นดาวที่ Sun และ Uranus อยู่ใต้ และ Mercury อยู่ราศีกรกฎ มี Moon เป็น dispositor ต่อ แต่ Moon อยู่ธนูมี Jupiter เป็นเจ้าเรือน ส่วน Jupiter อยู่ตุลย์มี Venus เป็นเจ้าเรือน Venus อยู่กรกฎจึงกลับไปหา Moon อีกครั้ง — เกิดเป็น loop ที่ Moon และ Mercury หมุนเวียนกัน
+
+ในทางปฏิบัติหมายความว่าไม่มี final dispositor ที่ชัดเจนดวงเดียว แต่ Moon (เรือน 9) และ Mercury (เรือน 10) เป็นแกนหมุนของระบบ สะท้อนว่า Trump ขับเคลื่อนด้วยทั้งอารมณ์ความเชื่อ (Moon ในธนู) และความคิดเชิงกลยุทธ์ที่เน้นภาพสาธารณะ (Mercury ในเรือน 10)
+
+## หมายเหตุสำหรับการทบทวน
+
+บทความใช้ดวงบุคคลสาธารณะเป็นตัวอย่างการสอน หากขยายในอนาคตควรแยกการสาธิตวิธีออกจากการตีความชีวประวัติหรือการเมืองให้ชัดเจน

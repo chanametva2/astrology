@@ -1,0 +1,49 @@
+---
+layout: page
+---
+
+<article class="wiki-page">
+  {% if page.summary %}
+    <p class="wiki-summary">{{ page.summary }}</p>
+  {% endif %}
+
+  {{ content }}
+
+  {% if page.sources and page.sources.size > 0 %}
+    <section class="wiki-sources">
+      <h2>แหล่งข้อมูล</h2>
+      <ul>
+        {% for source in page.sources %}
+          <li>
+            {% if source.url %}
+              <a href="{{ source.url | relative_url }}">{{ source.title | default: source.url }}</a>
+            {% else %}
+              {{ source }}
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endif %}
+
+  {% if page.related and page.related.size > 0 %}
+    <section class="wiki-related">
+      <h2>เกี่ยวข้อง</h2>
+      <ul>
+        {% for item in page.related %}
+          <li>
+            {% if item.url %}
+              <a href="{{ item.url | relative_url }}">{{ item.title | default: item.url }}</a>
+            {% else %}
+              <a href="{{ item | relative_url }}">{{ item }}</a>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endif %}
+
+  {% unless page.url == '/wiki/' %}
+    <p class="wiki-index-link"><a href="{{ '/wiki/' | relative_url }}">กลับไปหน้าวิกิ</a></p>
+  {% endunless %}
+</article>

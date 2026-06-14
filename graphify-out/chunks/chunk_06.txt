@@ -1,0 +1,10 @@
+C:\AstrologyBlog\_wiki\pluto-generations.md
+C:\AstrologyBlog\_wiki\primal-triad.md
+C:\AstrologyBlog\_wiki\sect.md
+C:\AstrologyBlog\_wiki\sign-rulership.md
+C:\AstrologyBlog\_wiki\singleton-planets.md
+C:\AstrologyBlog\_wiki\sun-moon-asc.md
+C:\AstrologyBlog\_wiki\tithi.md
+C:\AstrologyBlog\_wiki\weighted-chart-scoring.md
+C:\AstrologyBlog\_wiki\zodiac-signs.md
+C:\AstrologyBlog\.github\workflows\pages-deploy.yml

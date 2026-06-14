@@ -1,0 +1,3668 @@
+{
+  "nodes": [
+    {
+      "id": "_posts_tithi_moon_sign_moon_house",
+      "label": "ดิถีกับ Moon Sign และ Moon House: จังหวะของใจเกิดขึ้นที่ไหนในชีวิต",
+      "file_type": "document",
+      "source_file": "_posts/2026-05-31-tithi-moon-sign-moon-house.md",
+      "source_location": null
+    },
+    {
+      "id": "_posts_waxing_waning_moon",
+      "label": "ข้างขึ้น–ข้างแรมในดวงกำเนิด: จันทร์กำลังออกไปสร้างโลก หรือกำลังกลับมาทำความเข้าใจโลก",
+      "file_type": "document",
+      "source_file": "_posts/2026-05-31-waxing-waning-moon.md",
+      "source_location": null
+    },
+    {
+      "id": "_posts_full_moon_release_by_sign",
+      "label": "Full Moon Release by Sign: ปล่อยวางให้ตรงราศีของจันทร์เพ็ญ",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-01-full-moon-release-by-sign.md",
+      "source_location": null
+    },
+    {
+      "id": "_posts_how_to_manifest_with_moon_phase",
+      "label": "How to Manifest with Moon Phase: ใช้จังหวะข้างขึ้น–ข้างแรมเพื่อออกแบบชีวิต",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-01-how-to-manifest-with-moon-phase.md",
+      "source_location": null
+    },
+    {
+      "id": "_posts_manifest_with_moon_sign",
+      "label": "เพิ่มพลัง Manifest ด้วย Moon Sign: เมื่อ Moon Phase บอกจังหวะเวลา และ Moon Sign บอกคุณภาพของพลังงาน",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-01-manifest-with-moon-sign.md",
+      "source_location": null
+    },
+    {
+      "id": "_posts_moon_journal_prompts_by_phase_and_house",
+      "label": "Moon Journal Prompts for Every Phase and House: คำถามเขียนบันทึกตามเฟสจันทร์และเรือนในดวงกำเนิด",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-01-moon-journal-prompts-by-phase-and-house.md",
+      "source_location": null
+    },
+    {
+      "id": "_posts_moon_manifestation_by_house",
+      "label": "Moon Manifestation by House: เมื่อดวงจันทร์บอกว่าพื้นที่ชีวิตด้านใดกำลังถูกเปิดใช้งาน",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-01-moon-manifestation-by-house.md",
+      "source_location": null
+    },
+    {
+      "id": "_posts_new_moon_manifestation_by_sign",
+      "label": "New Moon Manifestation by Sign: ตั้งเจตนาใหม่ให้ตรงราศีของจันทร์ดับ",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-01-new-moon-manifestation-by-sign.md",
+      "source_location": null
+    },
+    {
+      "id": "_posts_waning_moon_release_by_sign",
+      "label": "Waning Moon Release by Sign: ข้างแรมคือช่วงลด เคลียร์ ปรับ และเตรียมเริ่มใหม่",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-01-waning-moon-release-by-sign.md",
+      "source_location": null
+    },
+    {
+      "id": "_posts_waxing_moon_action_by_sign",
+      "label": "Waxing Moon Action by Sign: หลังตั้งเจตนาแล้ว ควรลงมือทำอย่างไรตามราศีจันทร์",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-01-waxing-moon-action-by-sign.md",
+      "source_location": null
+    },
+    {
+      "id": "_posts_beyond_the_moon",
+      "label": "Beyond the Moon: วางแผนชีวิตระยะยาวด้วย Moon Cycle, Solar Return และ Annual Profection",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null
+    },
+    {
+      "id": "_posts_moon_manifestation_calendar",
+      "label": "Moon Manifestation Calendar: วิธีวางแผนชีวิตรายเดือนด้วย New Moon, Full Moon และ Moon House",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null
+    },
+    {
+      "id": "_posts_moon_manifestation_worksheet_examples",
+      "label": "ตัวอย่างการใช้ Moon Manifestation Worksheet",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet-examples.md",
+      "source_location": null
+    },
+    {
+      "id": "_posts_moon_manifestation_worksheet",
+      "label": "Moon Manifestation Worksheet",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null
+    },
+    {
+      "id": "_posts_annual_profection_for_beginners",
+      "label": "Annual Profection for Beginners: วิธีหาเรือนประจำปีและ Lord of the Year เพื่อวางแผนชีวิตตามจังหวะอายุ",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-10-annual-profection-for-beginners.md",
+      "source_location": null
+    },
+    {
+      "id": "_posts_lord_of_the_year",
+      "label": "Lord of the Year: ดาวเจ้าปีบอกวิธีใช้พลังของปีอย่างไร",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-10-lord-of-the-year.md",
+      "source_location": null
+    },
+    {
+      "id": "_posts_solar_return_for_life_planning",
+      "label": "Solar Return for Life Planning: อ่านดวงวันเกิดประจำปีเพื่อวางธีมชีวิต",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-10-solar-return-for-life-planning.md",
+      "source_location": null
+    },
+    {
+      "id": "_posts_astrological_life_planning_system",
+      "label": "Astrological Life Planning System: รวมทุกเครื่องมือให้เป็นระบบเดียว",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-14-astrological-life-planning-system.md",
+      "source_location": null
+    },
+    {
+      "id": "_posts_astrology_planner_case_study_1",
+      "label": "Astrology Planner Case Study 1: One Year Life Planning",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-14-astrology-planner-case-study-1.md",
+      "source_location": null
+    },
+    {
+      "id": "_posts_astrology_planner_case_study_2",
+      "label": "Astrology Planner Case Study 2: A Year of Transition",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-14-astrology-planner-case-study-2.md",
+      "source_location": null
+    },
+    {
+      "id": "_posts_eclipses_life_turning_points",
+      "label": "Eclipses and Life Turning Points: ใช้สุริยุปราคา–จันทรุปราคาอ่านจุดเปลี่ยนชีวิตราย 6 เดือน",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-14-eclipses-life-turning-points.md",
+      "source_location": null
+    },
+    {
+      "id": "_posts_jupiter_saturn_transits_planning",
+      "label": "Jupiter and Saturn Transits for Life Planning: วางแผนการเติบโตและโครงสร้างชีวิตระยะ 1–3 ปี",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-14-jupiter-saturn-transits-planning.md",
+      "source_location": null
+    },
+    {
+      "id": "_posts_nodes_karmic_direction",
+      "label": "The Nodes and Karmic Direction: ราหู–เกตุบอกทิศทางการเติบโตและสิ่งที่ต้องปล่อยอย่างไร",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-14-nodes-karmic-direction.md",
+      "source_location": null
+    },
+    {
+      "id": "_posts_north_node_by_house",
+      "label": "North Node by House: เส้นทางเติบโตของชีวิตทั้ง 12 เรือน",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-14-north-node-by-house.md",
+      "source_location": null
+    },
+    {
+      "id": "_posts_progressed_moon_guide",
+      "label": "Progressed Moon Guide: ฤดูกาลทางใจระยะ 2–3 ปี",
+      "file_type": "document",
+      "source_file": "_posts/2026-06-14-progressed-moon-guide.md",
+      "source_location": null
+    },
+    {
+      "id": "concept_moon_house",
+      "label": "Moon House — บ้าน/เรือนของดวงจันทร์ในดวงกำเนิด",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_moon_house_manifestation",
+      "label": "Moon House Manifestation — การmanifestตามเรือนจันทร์",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_waxing_moon",
+      "label": "Waxing Moon / ข้างขึ้น — จันทร์กำลังเคลื่อนออกจากอาทิตย์",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_waning_moon",
+      "label": "Waning Moon / ข้างแรม — จันทร์กำลังเคลื่อนกลับเข้าหาอาทิตย์",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_manifestation",
+      "label": "Manifestation — การตั้งเจตนาและลงมือทำตามจังหวะจักรวาล",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_intention_setting",
+      "label": "Intention Setting — การตั้งเจตนา",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_full_moon_release",
+      "label": "Full Moon Release — การปล่อยวางในวันเพ็ญ",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_waxing_moon_action",
+      "label": "Waxing Moon Action — การลงมือทำในช่วงข้างขึ้น",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_waning_moon_release",
+      "label": "Waning Moon Release — การปล่อยวางในช่วงข้างแรม",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_new_moon_manifestation",
+      "label": "New Moon Manifestation — การตั้งเจตนาในจันทร์ดับ",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_moon_journal",
+      "label": "Moon Journal — การเขียนบันทึกตามจังหวะจันทร์",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_self_reflection",
+      "label": "Self Reflection — การสะท้อนตนเองผ่านจังหวะจันทร์",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_moon_manifestation_worksheet",
+      "label": "Moon Manifestation Worksheet — แบบฟอร์มปฏิบัติรายเดือนตามจันทร์",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_moon_manifestation_calendar",
+      "label": "Moon Manifestation Calendar — ปฏิทินวางแผนรายเดือนตามจันทร์",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_annual_profection",
+      "label": "Annual Profection — ระบบหาเรือนประจำปีตามอายุ",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_lord_of_the_year",
+      "label": "Lord of the Year / ดาวเจ้าปี — ดาวเคราะห์ที่ปกครองเรือนประจำปี",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_yearly_theme",
+      "label": "Yearly Theme — ธีมประจำปีจากProfection",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_profection_year",
+      "label": "Profection Year — ปีแห่งการเปิดใช้งานเรือนใดเรือนหนึ่ง",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_time_lord",
+      "label": "Time Lord — ดาวเคราะห์ที่ปกครองช่วงเวลา",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_solar_return",
+      "label": "Solar Return — ดวงอาทิตย์กลับคืนสู่ตำแหน่งเดิมวันเกิด",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_solar_return_reading",
+      "label": "Solar Return Reading — การอ่านดวงปีจาก Solar Return",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_progressed_moon",
+      "label": "Progressed Moon / จันทร์ก้าวหน้า — ฤดูกาลทางใจ 2-3 ปี",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_secondary_progression",
+      "label": "Secondary Progression — ระบบก้าวหน้าวันเท่าปี",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_emotional_seasons",
+      "label": "Emotional Seasons — ฤดูกาลทางอารมณ์ระยะยาว",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_north_node",
+      "label": "North Node / ราหู — ทิศทางการเติบโต",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_south_node",
+      "label": "South Node / เกตุ — ความคุ้นเคยเดิมที่ควรปล่อย",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_nodes",
+      "label": "Nodes / ราหู-เกตุ — แกนกรรมในดวงชะตา",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_karmic_direction",
+      "label": "Karmic Direction — ทิศทางกรรมผ่าน Nodes",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_north_node_by_house",
+      "label": "North Node by House — ราหูตามเรือนทั้ง 12",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_south_node_by_house",
+      "label": "South Node by House — เกตุตามเรือนทั้ง 12",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_growth_zone",
+      "label": "Growth Zone — พื้นที่เติบโตของชีวิต",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_eclipse",
+      "label": "Eclipse / คราส — จุดเปลี่ยนสำคัญของชีวิต",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_solar_eclipse",
+      "label": "Solar Eclipse / สุริยุปราคา — New Moon ใกล้ Nodes",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_lunar_eclipse",
+      "label": "Lunar Eclipse / จันทรุปราคา — Full Moon ใกล้ Nodes",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_turning_points",
+      "label": "Life Turning Points — จุดเปลี่ยนชีวิตราย 6 เดือน",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_jupiter_transit",
+      "label": "Jupiter Transit — การเคลื่อนของดาวพฤหัส การขยายตัว",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_saturn_transit",
+      "label": "Saturn Transit — การเคลื่อนของดาวเสาร์ โครงสร้าง ความรับผิดชอบ",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_long_term_planning",
+      "label": "Long-term Planning — การวางแผนระยะยาว 1-3 ปี",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_growth_structure_cycle",
+      "label": "Growth-Structure Cycle — รอบขยายตัวและสร้างฐาน",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_astrological_life_planning_system",
+      "label": "Astrological Life Planning System — ระบบวางแผนชีวิตด้วยโหราศาสตร์",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_astrology_planner",
+      "label": "Astrology Planner — แบบฟอร์มวางแผนชีวิตด้วยโหราศาสตร์",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_one_year_life_planning",
+      "label": "One Year Life Planning — การวางแผนชีวิต 1 ปีด้วยโหราศาสตร์",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_astrology",
+      "label": "Tag: astrology",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_tithi",
+      "label": "Tag: tithi",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_moon_sign",
+      "label": "Tag: moon-sign",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_moon_house",
+      "label": "Tag: moon-house",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_birth_chart",
+      "label": "Tag: birth-chart",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_interpretation",
+      "label": "Tag: interpretation",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_waxing_moon",
+      "label": "Tag: waxing-moon",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_waning_moon",
+      "label": "Tag: waning-moon",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_lunar_cycle",
+      "label": "Tag: lunar-cycle",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_full_moon",
+      "label": "Tag: full-moon",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_manifestation",
+      "label": "Tag: manifestation",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_release",
+      "label": "Tag: release",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_letting_go",
+      "label": "Tag: letting-go",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_moon_phase",
+      "label": "Tag: moon-phase",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_new_moon",
+      "label": "Tag: new-moon",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_intention_setting",
+      "label": "Tag: intention-setting",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_ritual",
+      "label": "Tag: ritual",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_moon_journal",
+      "label": "Tag: moon-journal",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_writing_prompts",
+      "label": "Tag: writing-prompts",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_self_reflection",
+      "label": "Tag: self-reflection",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_action",
+      "label": "Tag: action",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_moon",
+      "label": "Tag: moon",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_solar_return",
+      "label": "Tag: solar-return",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_annual_profection",
+      "label": "Tag: annual-profection",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_planning",
+      "label": "Tag: planning",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_long_term",
+      "label": "Tag: long-term",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_calendar",
+      "label": "Tag: calendar",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_monthly",
+      "label": "Tag: monthly",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_worksheet",
+      "label": "Tag: worksheet",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_examples",
+      "label": "Tag: examples",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_house",
+      "label": "Tag: house",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_journal",
+      "label": "Tag: journal",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_lord_of_the_year",
+      "label": "Tag: lord-of-the-year",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_yearly_theme",
+      "label": "Tag: yearly-theme",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_beginner",
+      "label": "Tag: beginner",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_time_lord",
+      "label": "Tag: time-lord",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_life_planning",
+      "label": "Tag: life-planning",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_astrology_life_planning",
+      "label": "Tag: Astrology Life Planning",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_nodes",
+      "label": "Tag: Nodes",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_progressed_moon",
+      "label": "Tag: Progressed Moon",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_moon_cycle",
+      "label": "Tag: Moon Cycle",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_jupiter",
+      "label": "Tag: Jupiter",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_saturn",
+      "label": "Tag: Saturn",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_eclipses",
+      "label": "Tag: Eclipses",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_case_study",
+      "label": "Tag: Case Study",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_mercury",
+      "label": "Tag: Mercury",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_uranus",
+      "label": "Tag: Uranus",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_pluto",
+      "label": "Tag: Pluto",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_eclipse",
+      "label": "Tag: Eclipse",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_solar_eclipse",
+      "label": "Tag: Solar Eclipse",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_lunar_eclipse",
+      "label": "Tag: Lunar Eclipse",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_turning_points",
+      "label": "Tag: Turning Points",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_jupiter_transit",
+      "label": "Tag: jupiter-transit",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_saturn_transit",
+      "label": "Tag: saturn-transit",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_long_term_planning",
+      "label": "Tag: long-term-planning",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_growth",
+      "label": "Tag: growth",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_structure",
+      "label": "Tag: structure",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_north_node",
+      "label": "Tag: North Node",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_south_node",
+      "label": "Tag: South Node",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_rahu",
+      "label": "Tag: Rahu",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_ketu",
+      "label": "Tag: Ketu",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_karmic_direction",
+      "label": "Tag: Karmic Direction",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_life_path",
+      "label": "Tag: Life Path",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_growth_zone",
+      "label": "Tag: Growth Zone",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_personal_growth",
+      "label": "Tag: Personal Growth",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_secondary_progressions",
+      "label": "Tag: secondary-progressions",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_emotional_seasons",
+      "label": "Tag: emotional-seasons",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_tag_inner_growth",
+      "label": "Tag: inner-growth",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    },
+    {
+      "id": "concept_category_astrology",
+      "label": "Category: Astrology",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "_posts_tithi_moon_sign_moon_house",
+      "target": "concept_category_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-05-31-tithi-moon-sign-moon-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_tithi_moon_sign_moon_house",
+      "target": "concept_tag_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-05-31-tithi-moon-sign-moon-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_tithi_moon_sign_moon_house",
+      "target": "concept_tag_tithi",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-05-31-tithi-moon-sign-moon-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_tithi_moon_sign_moon_house",
+      "target": "concept_tag_moon_sign",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-05-31-tithi-moon-sign-moon-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_tithi_moon_sign_moon_house",
+      "target": "concept_tag_moon_house",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-05-31-tithi-moon-sign-moon-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_tithi_moon_sign_moon_house",
+      "target": "concept_tag_birth_chart",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-05-31-tithi-moon-sign-moon-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_tithi_moon_sign_moon_house",
+      "target": "concept_tag_interpretation",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-05-31-tithi-moon-sign-moon-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_waxing_waning_moon",
+      "target": "concept_category_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-05-31-waxing-waning-moon.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_waxing_waning_moon",
+      "target": "concept_tag_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-05-31-waxing-waning-moon.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_waxing_waning_moon",
+      "target": "concept_tag_waxing_moon",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-05-31-waxing-waning-moon.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_waxing_waning_moon",
+      "target": "concept_tag_waning_moon",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-05-31-waxing-waning-moon.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_waxing_waning_moon",
+      "target": "concept_tag_tithi",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-05-31-waxing-waning-moon.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_waxing_waning_moon",
+      "target": "concept_tag_birth_chart",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-05-31-waxing-waning-moon.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_waxing_waning_moon",
+      "target": "concept_tag_lunar_cycle",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-05-31-waxing-waning-moon.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_full_moon_release_by_sign",
+      "target": "concept_category_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-full-moon-release-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_full_moon_release_by_sign",
+      "target": "concept_tag_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-full-moon-release-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_full_moon_release_by_sign",
+      "target": "concept_tag_full_moon",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-full-moon-release-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_full_moon_release_by_sign",
+      "target": "concept_tag_manifestation",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-full-moon-release-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_full_moon_release_by_sign",
+      "target": "concept_tag_release",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-full-moon-release-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_full_moon_release_by_sign",
+      "target": "concept_tag_letting_go",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-full-moon-release-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_full_moon_release_by_sign",
+      "target": "concept_tag_moon_sign",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-full-moon-release-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_how_to_manifest_with_moon_phase",
+      "target": "concept_category_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-how-to-manifest-with-moon-phase.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_how_to_manifest_with_moon_phase",
+      "target": "concept_tag_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-how-to-manifest-with-moon-phase.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_how_to_manifest_with_moon_phase",
+      "target": "concept_tag_moon_phase",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-how-to-manifest-with-moon-phase.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_how_to_manifest_with_moon_phase",
+      "target": "concept_tag_manifestation",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-how-to-manifest-with-moon-phase.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_how_to_manifest_with_moon_phase",
+      "target": "concept_tag_new_moon",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-how-to-manifest-with-moon-phase.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_how_to_manifest_with_moon_phase",
+      "target": "concept_tag_full_moon",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-how-to-manifest-with-moon-phase.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_how_to_manifest_with_moon_phase",
+      "target": "concept_tag_intention_setting",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-how-to-manifest-with-moon-phase.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_manifest_with_moon_sign",
+      "target": "concept_category_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-manifest-with-moon-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_manifest_with_moon_sign",
+      "target": "concept_tag_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-manifest-with-moon-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_manifest_with_moon_sign",
+      "target": "concept_tag_moon_sign",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-manifest-with-moon-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_manifest_with_moon_sign",
+      "target": "concept_tag_moon_phase",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-manifest-with-moon-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_manifest_with_moon_sign",
+      "target": "concept_tag_manifestation",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-manifest-with-moon-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_manifest_with_moon_sign",
+      "target": "concept_tag_intention_setting",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-manifest-with-moon-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_manifest_with_moon_sign",
+      "target": "concept_tag_ritual",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-manifest-with-moon-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_journal_prompts_by_phase_and_house",
+      "target": "concept_category_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-moon-journal-prompts-by-phase-and-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_journal_prompts_by_phase_and_house",
+      "target": "concept_tag_moon_journal",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-moon-journal-prompts-by-phase-and-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_journal_prompts_by_phase_and_house",
+      "target": "concept_tag_moon_phase",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-moon-journal-prompts-by-phase-and-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_journal_prompts_by_phase_and_house",
+      "target": "concept_tag_moon_house",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-moon-journal-prompts-by-phase-and-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_journal_prompts_by_phase_and_house",
+      "target": "concept_tag_writing_prompts",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-moon-journal-prompts-by-phase-and-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_journal_prompts_by_phase_and_house",
+      "target": "concept_tag_self_reflection",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-moon-journal-prompts-by-phase-and-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_journal_prompts_by_phase_and_house",
+      "target": "concept_tag_manifestation",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-moon-journal-prompts-by-phase-and-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_by_house",
+      "target": "concept_category_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-moon-manifestation-by-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_by_house",
+      "target": "concept_tag_moon_house",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-moon-manifestation-by-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_by_house",
+      "target": "concept_tag_moon_sign",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-moon-manifestation-by-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_by_house",
+      "target": "concept_tag_moon_phase",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-moon-manifestation-by-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_by_house",
+      "target": "concept_tag_manifestation",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-moon-manifestation-by-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_by_house",
+      "target": "concept_tag_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-moon-manifestation-by-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_new_moon_manifestation_by_sign",
+      "target": "concept_category_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-new-moon-manifestation-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_new_moon_manifestation_by_sign",
+      "target": "concept_tag_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-new-moon-manifestation-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_new_moon_manifestation_by_sign",
+      "target": "concept_tag_new_moon",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-new-moon-manifestation-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_new_moon_manifestation_by_sign",
+      "target": "concept_tag_manifestation",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-new-moon-manifestation-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_new_moon_manifestation_by_sign",
+      "target": "concept_tag_moon_sign",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-new-moon-manifestation-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_new_moon_manifestation_by_sign",
+      "target": "concept_tag_intention_setting",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-new-moon-manifestation-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_new_moon_manifestation_by_sign",
+      "target": "concept_tag_ritual",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-new-moon-manifestation-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_waning_moon_release_by_sign",
+      "target": "concept_category_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-waning-moon-release-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_waning_moon_release_by_sign",
+      "target": "concept_tag_waning_moon",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-waning-moon-release-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_waning_moon_release_by_sign",
+      "target": "concept_tag_moon_phase",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-waning-moon-release-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_waning_moon_release_by_sign",
+      "target": "concept_tag_release",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-waning-moon-release-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_waning_moon_release_by_sign",
+      "target": "concept_tag_letting_go",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-waning-moon-release-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_waning_moon_release_by_sign",
+      "target": "concept_tag_moon_sign",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-waning-moon-release-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_waxing_moon_action_by_sign",
+      "target": "concept_category_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-waxing-moon-action-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_waxing_moon_action_by_sign",
+      "target": "concept_tag_waxing_moon",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-waxing-moon-action-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_waxing_moon_action_by_sign",
+      "target": "concept_tag_moon_phase",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-waxing-moon-action-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_waxing_moon_action_by_sign",
+      "target": "concept_tag_action",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-waxing-moon-action-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_waxing_moon_action_by_sign",
+      "target": "concept_tag_manifestation",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-waxing-moon-action-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_waxing_moon_action_by_sign",
+      "target": "concept_tag_moon_sign",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-01-waxing-moon-action-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_beyond_the_moon",
+      "target": "concept_category_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_beyond_the_moon",
+      "target": "concept_tag_moon",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_beyond_the_moon",
+      "target": "concept_tag_solar_return",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_beyond_the_moon",
+      "target": "concept_tag_annual_profection",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_beyond_the_moon",
+      "target": "concept_tag_planning",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_beyond_the_moon",
+      "target": "concept_tag_long_term",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_beyond_the_moon",
+      "target": "concept_tag_manifestation",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_calendar",
+      "target": "concept_category_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_calendar",
+      "target": "concept_tag_moon",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_calendar",
+      "target": "concept_tag_calendar",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_calendar",
+      "target": "concept_tag_planning",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_calendar",
+      "target": "concept_tag_new_moon",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_calendar",
+      "target": "concept_tag_full_moon",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_calendar",
+      "target": "concept_tag_monthly",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_calendar",
+      "target": "concept_tag_manifestation",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_worksheet_examples",
+      "target": "concept_category_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet-examples.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_worksheet_examples",
+      "target": "concept_tag_moon",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet-examples.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_worksheet_examples",
+      "target": "concept_tag_worksheet",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet-examples.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_worksheet_examples",
+      "target": "concept_tag_examples",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet-examples.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_worksheet_examples",
+      "target": "concept_tag_new_moon",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet-examples.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_worksheet_examples",
+      "target": "concept_tag_full_moon",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet-examples.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_worksheet_examples",
+      "target": "concept_tag_house",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet-examples.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_worksheet_examples",
+      "target": "concept_tag_manifestation",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet-examples.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_worksheet",
+      "target": "concept_category_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_worksheet",
+      "target": "concept_tag_moon",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_worksheet",
+      "target": "concept_tag_worksheet",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_worksheet",
+      "target": "concept_tag_manifestation",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_worksheet",
+      "target": "concept_tag_journal",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_worksheet",
+      "target": "concept_tag_new_moon",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_worksheet",
+      "target": "concept_tag_full_moon",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_annual_profection_for_beginners",
+      "target": "concept_category_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-10-annual-profection-for-beginners.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_annual_profection_for_beginners",
+      "target": "concept_tag_annual_profection",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-10-annual-profection-for-beginners.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_annual_profection_for_beginners",
+      "target": "concept_tag_lord_of_the_year",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-10-annual-profection-for-beginners.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_annual_profection_for_beginners",
+      "target": "concept_tag_planning",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-10-annual-profection-for-beginners.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_annual_profection_for_beginners",
+      "target": "concept_tag_yearly_theme",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-10-annual-profection-for-beginners.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_annual_profection_for_beginners",
+      "target": "concept_tag_beginner",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-10-annual-profection-for-beginners.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_lord_of_the_year",
+      "target": "concept_category_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-10-lord-of-the-year.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_lord_of_the_year",
+      "target": "concept_tag_lord_of_the_year",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-10-lord-of-the-year.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_lord_of_the_year",
+      "target": "concept_tag_annual_profection",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-10-lord-of-the-year.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_lord_of_the_year",
+      "target": "concept_tag_yearly_theme",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-10-lord-of-the-year.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_lord_of_the_year",
+      "target": "concept_tag_planning",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-10-lord-of-the-year.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_lord_of_the_year",
+      "target": "concept_tag_time_lord",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-10-lord-of-the-year.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_solar_return_for_life_planning",
+      "target": "concept_category_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-10-solar-return-for-life-planning.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_solar_return_for_life_planning",
+      "target": "concept_tag_solar_return",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-10-solar-return-for-life-planning.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_solar_return_for_life_planning",
+      "target": "concept_tag_annual_profection",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-10-solar-return-for-life-planning.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_solar_return_for_life_planning",
+      "target": "concept_tag_yearly_theme",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-10-solar-return-for-life-planning.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_solar_return_for_life_planning",
+      "target": "concept_tag_planning",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-10-solar-return-for-life-planning.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_solar_return_for_life_planning",
+      "target": "concept_tag_life_planning",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-10-solar-return-for-life-planning.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrological_life_planning_system",
+      "target": "concept_category_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrological-life-planning-system.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrological_life_planning_system",
+      "target": "concept_tag_astrology_life_planning",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrological-life-planning-system.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrological_life_planning_system",
+      "target": "concept_tag_nodes",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrological-life-planning-system.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrological_life_planning_system",
+      "target": "concept_tag_progressed_moon",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrological-life-planning-system.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrological_life_planning_system",
+      "target": "concept_tag_solar_return",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrological-life-planning-system.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrological_life_planning_system",
+      "target": "concept_tag_annual_profection",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrological-life-planning-system.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrological_life_planning_system",
+      "target": "concept_tag_moon_cycle",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrological-life-planning-system.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrological_life_planning_system",
+      "target": "concept_tag_jupiter",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrological-life-planning-system.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrological_life_planning_system",
+      "target": "concept_tag_saturn",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrological-life-planning-system.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrological_life_planning_system",
+      "target": "concept_tag_eclipses",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrological-life-planning-system.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrology_planner_case_study_1",
+      "target": "concept_category_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrology-planner-case-study-1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrology_planner_case_study_1",
+      "target": "concept_tag_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrology-planner-case-study-1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrology_planner_case_study_1",
+      "target": "concept_tag_case_study",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrology-planner-case-study-1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrology_planner_case_study_1",
+      "target": "concept_tag_life_planning",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrology-planner-case-study-1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrology_planner_case_study_1",
+      "target": "concept_tag_annual_profection",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrology-planner-case-study-1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrology_planner_case_study_1",
+      "target": "concept_tag_solar_return",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrology-planner-case-study-1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrology_planner_case_study_1",
+      "target": "concept_tag_nodes",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrology-planner-case-study-1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrology_planner_case_study_1",
+      "target": "concept_tag_mercury",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrology-planner-case-study-1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrology_planner_case_study_1",
+      "target": "concept_tag_moon_cycle",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrology-planner-case-study-1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrology_planner_case_study_2",
+      "target": "concept_category_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrology-planner-case-study-2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrology_planner_case_study_2",
+      "target": "concept_tag_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrology-planner-case-study-2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrology_planner_case_study_2",
+      "target": "concept_tag_case_study",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrology-planner-case-study-2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrology_planner_case_study_2",
+      "target": "concept_tag_life_planning",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrology-planner-case-study-2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrology_planner_case_study_2",
+      "target": "concept_tag_nodes",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrology-planner-case-study-2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrology_planner_case_study_2",
+      "target": "concept_tag_annual_profection",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrology-planner-case-study-2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrology_planner_case_study_2",
+      "target": "concept_tag_mercury",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrology-planner-case-study-2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrology_planner_case_study_2",
+      "target": "concept_tag_jupiter",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrology-planner-case-study-2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrology_planner_case_study_2",
+      "target": "concept_tag_saturn",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrology-planner-case-study-2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrology_planner_case_study_2",
+      "target": "concept_tag_uranus",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrology-planner-case-study-2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrology_planner_case_study_2",
+      "target": "concept_tag_pluto",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrology-planner-case-study-2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrology_planner_case_study_2",
+      "target": "concept_tag_eclipses",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-astrology-planner-case-study-2.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_eclipses_life_turning_points",
+      "target": "concept_category_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-eclipses-life-turning-points.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_eclipses_life_turning_points",
+      "target": "concept_tag_eclipse",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-eclipses-life-turning-points.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_eclipses_life_turning_points",
+      "target": "concept_tag_solar_eclipse",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-eclipses-life-turning-points.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_eclipses_life_turning_points",
+      "target": "concept_tag_lunar_eclipse",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-eclipses-life-turning-points.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_eclipses_life_turning_points",
+      "target": "concept_tag_nodes",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-eclipses-life-turning-points.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_eclipses_life_turning_points",
+      "target": "concept_tag_turning_points",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-eclipses-life-turning-points.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_eclipses_life_turning_points",
+      "target": "concept_tag_life_planning",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-eclipses-life-turning-points.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_jupiter_saturn_transits_planning",
+      "target": "concept_category_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-jupiter-saturn-transits-planning.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_jupiter_saturn_transits_planning",
+      "target": "concept_tag_jupiter_transit",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-jupiter-saturn-transits-planning.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_jupiter_saturn_transits_planning",
+      "target": "concept_tag_saturn_transit",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-jupiter-saturn-transits-planning.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_jupiter_saturn_transits_planning",
+      "target": "concept_tag_life_planning",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-jupiter-saturn-transits-planning.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_jupiter_saturn_transits_planning",
+      "target": "concept_tag_long_term_planning",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-jupiter-saturn-transits-planning.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_jupiter_saturn_transits_planning",
+      "target": "concept_tag_growth",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-jupiter-saturn-transits-planning.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_jupiter_saturn_transits_planning",
+      "target": "concept_tag_structure",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-jupiter-saturn-transits-planning.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_nodes_karmic_direction",
+      "target": "concept_category_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-nodes-karmic-direction.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_nodes_karmic_direction",
+      "target": "concept_tag_north_node",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-nodes-karmic-direction.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_nodes_karmic_direction",
+      "target": "concept_tag_south_node",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-nodes-karmic-direction.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_nodes_karmic_direction",
+      "target": "concept_tag_rahu",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-nodes-karmic-direction.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_nodes_karmic_direction",
+      "target": "concept_tag_ketu",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-nodes-karmic-direction.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_nodes_karmic_direction",
+      "target": "concept_tag_karmic_direction",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-nodes-karmic-direction.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_nodes_karmic_direction",
+      "target": "concept_tag_life_path",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-nodes-karmic-direction.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_nodes_karmic_direction",
+      "target": "concept_tag_nodes",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-nodes-karmic-direction.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_north_node_by_house",
+      "target": "concept_category_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-north-node-by-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_north_node_by_house",
+      "target": "concept_tag_north_node",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-north-node-by-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_north_node_by_house",
+      "target": "concept_tag_rahu",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-north-node-by-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_north_node_by_house",
+      "target": "concept_tag_growth_zone",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-north-node-by-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_north_node_by_house",
+      "target": "concept_tag_house",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-north-node-by-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_north_node_by_house",
+      "target": "concept_tag_life_path",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-north-node-by-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_north_node_by_house",
+      "target": "concept_tag_personal_growth",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-north-node-by-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_progressed_moon_guide",
+      "target": "concept_category_astrology",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-progressed-moon-guide.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_progressed_moon_guide",
+      "target": "concept_tag_progressed_moon",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-progressed-moon-guide.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_progressed_moon_guide",
+      "target": "concept_tag_secondary_progressions",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-progressed-moon-guide.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_progressed_moon_guide",
+      "target": "concept_tag_emotional_seasons",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-progressed-moon-guide.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_progressed_moon_guide",
+      "target": "concept_tag_long_term_planning",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-progressed-moon-guide.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_progressed_moon_guide",
+      "target": "concept_tag_inner_growth",
+      "relation": "tagged_as",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_posts/2026-06-14-progressed-moon-guide.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_tithi",
+      "target": "concept_moon_phase",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_tithi",
+      "target": "concept_sun_moon_angle",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_tithi_archetype",
+      "target": "concept_tithi",
+      "relation": "explains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_waxing_moon",
+      "target": "concept_shukla_paksha",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_waning_moon",
+      "target": "concept_krishna_paksha",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_moon_house",
+      "target": "concept_moon",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_moon_sign",
+      "target": "concept_moon",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_manifestation",
+      "target": "concept_moon_phase",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_manifestation",
+      "target": "concept_intention_setting",
+      "relation": "explains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_new_moon_manifestation",
+      "target": "concept_moon_phase_new_moon",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_new_moon_manifestation",
+      "target": "concept_manifestation",
+      "relation": "explains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_full_moon_release",
+      "target": "concept_moon_phase_full_moon",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_full_moon_release",
+      "target": "concept_manifestation",
+      "relation": "explains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_waxing_moon_action",
+      "target": "concept_waxing_moon",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_waxing_moon_action",
+      "target": "concept_manifestation",
+      "relation": "explains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_waning_moon_release",
+      "target": "concept_waning_moon",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_waning_moon_release",
+      "target": "concept_manifestation",
+      "relation": "explains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_moon_house_manifestation",
+      "target": "concept_moon_house",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_moon_house_manifestation",
+      "target": "concept_manifestation",
+      "relation": "explains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_moon_journal",
+      "target": "concept_self_reflection",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_moon_journal",
+      "target": "concept_moon_phase",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_moon_manifestation_worksheet",
+      "target": "concept_manifestation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_moon_manifestation_worksheet",
+      "target": "concept_moon_journal",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_moon_manifestation_calendar",
+      "target": "concept_manifestation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_moon_manifestation_calendar",
+      "target": "concept_moon_house",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_annual_profection",
+      "target": "concept_profection_year",
+      "relation": "explains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_annual_profection",
+      "target": "concept_lord_of_the_year",
+      "relation": "explains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_annual_profection",
+      "target": "concept_yearly_theme",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_lord_of_the_year",
+      "target": "concept_time_lord",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_annual_profection",
+      "target": "concept_moon_phase",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.5,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_solar_return",
+      "target": "concept_solar_return_reading",
+      "relation": "explains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_solar_return",
+      "target": "concept_annual_profection",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_solar_return",
+      "target": "concept_yearly_theme",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_nodes",
+      "target": "concept_north_node",
+      "relation": "explains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_nodes",
+      "target": "concept_south_node",
+      "relation": "explains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_nodes",
+      "target": "concept_karmic_direction",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_north_node",
+      "target": "concept_north_node_by_house",
+      "relation": "explains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_south_node",
+      "target": "concept_south_node_by_house",
+      "relation": "explains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_north_node",
+      "target": "concept_growth_zone",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_eclipse",
+      "target": "concept_solar_eclipse",
+      "relation": "explains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_eclipse",
+      "target": "concept_lunar_eclipse",
+      "relation": "explains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_eclipse",
+      "target": "concept_turning_points",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_eclipse",
+      "target": "concept_nodes",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_solar_eclipse",
+      "target": "concept_moon_phase_new_moon",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_lunar_eclipse",
+      "target": "concept_moon_phase_full_moon",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_jupiter_transit",
+      "target": "concept_jupiter",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_saturn_transit",
+      "target": "concept_saturn",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_jupiter_transit",
+      "target": "concept_growth_structure_cycle",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_saturn_transit",
+      "target": "concept_growth_structure_cycle",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_long_term_planning",
+      "target": "concept_growth_structure_cycle",
+      "relation": "explains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_progressed_moon",
+      "target": "concept_secondary_progression",
+      "relation": "explains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_progressed_moon",
+      "target": "concept_emotional_seasons",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_progressed_moon",
+      "target": "concept_long_term_planning",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_astrological_life_planning_system",
+      "target": "concept_astrology_planner",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_astrology_planner",
+      "target": "concept_one_year_life_planning",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_astrological_life_planning_system",
+      "target": "concept_long_term_planning",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_eclipse",
+      "target": "concept_moon_phase",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_nodes",
+      "target": "concept_karmic_direction",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_moon_manifestation_calendar",
+      "target": "concept_moon_phase",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_one_year_life_planning",
+      "target": "concept_annual_profection",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_one_year_life_planning",
+      "target": "concept_solar_return",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_how_to_manifest_with_moon_phase",
+      "target": "_posts_manifest_with_moon_sign",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-01-how-to-manifest-with-moon-phase.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_new_moon_manifestation_by_sign",
+      "target": "_posts_waxing_moon_action_by_sign",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-01-new-moon-manifestation-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_waxing_moon_action_by_sign",
+      "target": "_posts_full_moon_release_by_sign",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-01-waxing-moon-action-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_full_moon_release_by_sign",
+      "target": "_posts_waning_moon_release_by_sign",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-01-full-moon-release-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_waning_moon_release_by_sign",
+      "target": "_posts_moon_manifestation_by_house",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-01-waning-moon-release-by-sign.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_by_house",
+      "target": "_posts_moon_journal_prompts_by_phase_and_house",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-01-moon-manifestation-by-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_journal_prompts_by_phase_and_house",
+      "target": "_posts_moon_manifestation_worksheet",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-01-moon-journal-prompts-by-phase-and-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_worksheet",
+      "target": "_posts_moon_manifestation_worksheet_examples",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_worksheet_examples",
+      "target": "_posts_moon_manifestation_calendar",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-06-moon-manifestation-worksheet-examples.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_moon_manifestation_calendar",
+      "target": "_posts_beyond_the_moon",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-06-moon-manifestation-calendar.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_beyond_the_moon",
+      "target": "_posts_annual_profection_for_beginners",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-06-beyond-the-moon.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_annual_profection_for_beginners",
+      "target": "_posts_lord_of_the_year",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-10-annual-profection-for-beginners.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_lord_of_the_year",
+      "target": "_posts_solar_return_for_life_planning",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-10-lord-of-the-year.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_solar_return_for_life_planning",
+      "target": "_posts_jupiter_saturn_transits_planning",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-10-solar-return-for-life-planning.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_jupiter_saturn_transits_planning",
+      "target": "_posts_progressed_moon_guide",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-14-jupiter-saturn-transits-planning.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_progressed_moon_guide",
+      "target": "_posts_eclipses_life_turning_points",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-14-progressed-moon-guide.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_eclipses_life_turning_points",
+      "target": "_posts_nodes_karmic_direction",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-14-eclipses-life-turning-points.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_nodes_karmic_direction",
+      "target": "_posts_north_node_by_house",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-14-nodes-karmic-direction.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_north_node_by_house",
+      "target": "_posts_south_node_by_house",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-14-north-node-by-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_nodes_karmic_direction",
+      "target": "_posts_astrological_life_planning_system",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-14-nodes-karmic-direction.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_eclipses_life_turning_points",
+      "target": "_posts_astrological_life_planning_system",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-14-eclipses-life-turning-points.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_progressed_moon_guide",
+      "target": "_posts_astrological_life_planning_system",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-14-progressed-moon-guide.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_jupiter_saturn_transits_planning",
+      "target": "_posts_astrological_life_planning_system",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-14-jupiter-saturn-transits-planning.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_solar_return_for_life_planning",
+      "target": "_posts_astrological_life_planning_system",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-10-solar-return-for-life-planning.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_annual_profection_for_beginners",
+      "target": "_posts_astrological_life_planning_system",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-10-annual-profection-for-beginners.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrological_life_planning_system",
+      "target": "_posts_astrology_planner_case_study_1",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-14-astrological-life-planning-system.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_astrological_life_planning_system",
+      "target": "_posts_astrology_planner_case_study_2",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-06-14-astrological-life-planning-system.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_tithi_moon_sign_moon_house",
+      "target": "_posts_moon_manifestation_by_house",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-05-31-tithi-moon-sign-moon-house.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_posts_waxing_waning_moon",
+      "target": "_posts_how_to_manifest_with_moon_phase",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "_posts/2026-05-31-waxing-waning-moon.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ]
+}

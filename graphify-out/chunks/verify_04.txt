@@ -1,0 +1,3 @@
+Nodes: 136
+Edges: 271
+Written to result_04.json
